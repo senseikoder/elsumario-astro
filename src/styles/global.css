@@ -1,0 +1,67 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --color-bg: #ffffff;
+  --color-text: #1a1a1a;
+  --color-muted: #666666;
+  --color-primary: #0066cc;
+  --color-border: #e0e0e0;
+  --max-width: 1200px;
+  --font-sans: system-ui, -apple-system, sans-serif;
+}
+
+html {
+  font-family: var(--font-sans);
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure.wp-caption {
+  margin: 1.5em 0;
+  text-align: center;
+}
+
+figure.wp-caption.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure.wp-caption img {
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: var(--color-muted);
+  padding: 0.5em 0;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1rem;
+}

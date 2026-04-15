@@ -1,0 +1,71 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  showBackLink?: boolean;
+  backLinkHref?: string;
+  backLinkText?: string;
+}
+
+const { 
+  title, 
+  description,
+  showBackLink = false,
+  backLinkHref = '/blog',
+  backLinkText = '← Volver al blog'
+} = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="container">
+    <header class="page-header">
+      {showBackLink && (
+        <a href={backLinkHref} class="back-link">{backLinkText}</a>
+      )}
+      <h1>{title}</h1>
+      {description && <p class="page-description">{description}</p>}
+    </header>
+
+    <div class="page-content">
+      <slot />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .back-link {
+    display: inline-block;
+    font-size: 0.875rem;
+    color: var(--color-muted);
+    margin-bottom: 0.75rem;
+    transition: color 0.2s ease;
+  }
+
+  .back-link:hover {
+    color: var(--color-primary);
+  }
+
+  .page-header h1 {
+    font-size: 2rem;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .page-description {
+    margin: 0.75rem 0 0;
+    color: var(--color-muted);
+    font-size: 1.1rem;
+  }
+
+  .page-content {
+    max-width: 900px;
+  }
+</style>

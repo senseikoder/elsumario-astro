@@ -1,0 +1,126 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export const prerender = true;
+
+const PAGE_SIZE = 20;
+
+const posts = (await getCollection('blog', ({ data }) => {
+  return import.meta.env.PROD ? !data.draft : true;
+})).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const totalPages = Math.ceil(posts.length / PAGE_SIZE);
+const currentPage = 1;
+const startIndex = (currentPage - 1) * PAGE_SIZE;
+const paginatedPosts = posts.slice(startIndex, startIndex + PAGE_SIZE);
+---
+
+<BaseLayout title="Blog - El Sumario">
+  <div class="container">
+    <h1>Todas las entradas</h1>
+    <p class="post-count">{posts.length} entradas</p>
+
+    <div class="posts-list">
+      {paginatedPosts.map((post) => (
+        <article class="post-item">
+          <a href={`/blog/${post.id}`}>
+            <time datetime={post.data.date.toISOString()}>
+              {post.data.date.toLocaleDateString('es-ES', { 
+                year: 'numeric', 
+                month: '2-digit', 
+                day: '2-digit' 
+              })}
+            </time>
+            <h2>{post.data.title}</h2>
+            {post.data.description && <p>{post.data.description}</p>}
+          </a>
+        </article>
+      ))}
+    </div>
+
+    {totalPages > 1 && (
+      <nav class="pagination">
+        <span class="page-item disabled">Anterior</span>
+        <span class="page-item active">1</span>
+        {Array.from({ length: Math.min(5, totalPages - 1) }, (_, i) => i + 2).map((page) => (
+          <a href={`/blog/${page}`} class="page-item">{page}</a>
+        ))}
+        <a href="/blog/2" class="page-item">Siguiente</a>
+      </nav>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  h1 {
+    margin-bottom: 0.5rem;
+  }
+
+  .post-count {
+    color: var(--color-muted);
+    margin-bottom: 2rem;
+  }
+
+  .posts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .post-item {
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 1rem;
+  }
+
+  .post-item a {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .post-item a:hover h2 {
+    color: var(--color-primary);
+  }
+
+  .post-item time {
+    font-size: 0.875rem;
+    color: var(--color-muted);
+  }
+
+  .post-item h2 {
+    font-size: 1.25rem;
+    margin: 0.25rem 0;
+    transition: color 0.2s ease;
+  }
+
+  .post-item p {
+    color: var(--color-muted);
+    margin: 0;
+    font-size: 0.95rem;
+  }
+
+  .pagination {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+
+  .page-item {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+  }
+
+  .page-item.active {
+    background: var(--color-primary);
+    color: white;
+    border-color: var(--color-primary);
+  }
+
+  .page-item.disabled {
+    color: var(--color-muted);
+    pointer-events: none;
+  }
+</style>

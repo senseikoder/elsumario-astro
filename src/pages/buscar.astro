@@ -1,0 +1,76 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Buscar - El Sumario">
+  <div class="container">
+    <h1>Buscar</h1>
+    
+    <div id="search" class="search-container"></div>
+    <div id="results" class="results-container"></div>
+  </div>
+
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      if (window.PagefindUI) {
+        new PagefindUI({
+          element: "#search",
+          showSubResults: true,
+          showImages: true,
+          excerptLength: 30,
+          translations: {
+            placeholder: "Buscar en el blog..."
+          }
+        });
+      }
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  h1 {
+    margin-bottom: 1.5rem;
+  }
+
+  .search-container {
+    margin-bottom: 2rem;
+  }
+
+  .results-container {
+    min-height: 300px;
+  }
+
+  :global(.pagefind-ui__search-input) {
+    font-size: 1.1rem;
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--color-border);
+    border-radius: 8px;
+    width: 100%;
+    max-width: 500px;
+  }
+
+  :global(.pagefind-ui__result) {
+    padding: 1rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  :global(.pagefind-ui__result-title) {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  :global(.pagefind-ui__result-excerpt) {
+    color: var(--color-muted);
+    font-size: 0.95rem;
+  }
+
+  :global(.pagefind-ui__result-image) {
+    width: 80px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+</style>
