@@ -1,0 +1,254 @@
+---
+import { Image } from "astro:assets"
+import logo from "../assets/Logoelsumario-web.webp"
+---
+
+<header class="site-header">
+
+  <!-- Barra superior verde -->
+  <div class="top-bar">
+    <div class="top-bar-content">
+      <div class="date-section">
+        <span class="current-date">martes, abril 14 2026</span>
+        <span class="about-link">ACERCA DE</span>
+      </div>
+      <div class="social-icons">
+        <a href="#" class="social-icon facebook" aria-label="Facebook">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+          </svg>
+        </a>
+        <a href="#" class="social-icon x" aria-label="X">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+          </svg>
+        </a>
+        <a href="#" class="social-icon youtube" aria-label="YouTube">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+          </svg>
+        </a>
+        <a href="#" class="social-icon instagram" aria-label="Instagram">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zM5.838 12a6.162 6.162 0 1 1 12.324 0 6.162 6.162 0 0 1-12.324 0zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm4.965-10.405a1.44 1.44 0 1 1 2.881.001 1.44 1.44 0 0 1-2.881-.001z"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sección del logo -->
+  <div class="logo-section">
+    <div class="logo">
+      <Image src={logo} alt="Sumario.com" width={514} height={110} />
+    </div>
+  </div>
+
+  <!-- Barra de navegación -->
+  <nav class="main-nav">
+    <div class="nav-content">
+      <ul class="nav-menu">
+        <li><a href="#" class="nav-link active">INICIO</a></li>
+        <li><a href="#" class="nav-link">LO NUESTRO</a></li>
+        <li><a href="#" class="nav-link">AUDIOVISUAL</a></li>
+        <li><a href="#" class="nav-link">BUEN HUMOR</a></li>
+        <li><a href="#" class="nav-link">SECCIONES</a></li>
+      </ul>
+      <div class="search-icon">
+        <a href="#" aria-label="Buscar">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<style>
+
+
+
+  /* Header principal */
+  .site-header {
+    width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  /* Barra superior */
+  .top-bar {
+    background-color: var(--lime-green);
+    padding: 8px 0;
+  }
+
+  .top-bar-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .date-section {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
+
+  .current-date {
+    color: var(--text-dark);
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .about-link {
+    color: var(--text-dark);
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .about-link:hover {
+    text-decoration: underline;
+  }
+
+  .social-icons {
+    display: flex;
+    gap: 15px;
+  }
+
+  .social-icon {
+    color: var(--text-dark);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.2s ease;
+  }
+
+  .social-icon:hover {
+    opacity: 0.7;
+  }
+
+  /* Sección del logo */
+  .logo-section {
+    background-color: var(--white);
+    padding: 30px 0;
+  }
+
+  .logo {
+    text-align: center;
+  }
+
+  .site-title {
+    font-size: 48px;
+    font-weight: bold;
+    color: var(--text-dark);
+    margin-bottom: 8px;
+    text-transform: lowercase;
+  }
+
+  .site-tagline {
+    font-size: 16px;
+    color: var(--text-light);
+    font-style: italic;
+  }
+
+  /* Navegación principal */
+  .main-nav {
+    background-color: var(--dark-blue);
+    padding: 0;
+  }
+
+  .nav-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center; /* center the menu */
+    align-items: center;
+    position: relative;       /* allow absolute positioning of the search icon */
+  }
+
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 0;
+  }
+
+  .nav-link {
+    display: block;
+    color: var(--lime-green);
+    text-decoration: none;
+    padding: 15px 20px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+  }
+
+  .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .nav-link.active {
+    background-color: var(--lime-green);
+    color: var(--white);
+  }
+
+  .search-icon {
+    display: flex;
+    align-items: center;
+  }
+
+  /* Position the search icon to the far right of the blue bar while the menu stays centered */
+  .search-icon {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .search-icon a {
+    color: var(--white);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    transition: opacity 0.2s ease;
+  }
+
+  .search-icon a:hover {
+    opacity: 0.7;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .top-bar-content {
+      flex-direction: column;
+      gap: 10px;
+      text-align: center;
+    }
+
+    .date-section {
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .site-title {
+      font-size: 36px;
+    }
+
+    .nav-content {
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .nav-menu {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+</style>

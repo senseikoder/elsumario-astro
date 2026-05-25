@@ -8,6 +8,11 @@ interface Props {
 
 const { post } = Astro.props;
 const { title, description, date, categories, coverImage } = post.data;
+
+const cdnBase = 'https://img.efrank.xyz';
+const year = date.getFullYear();
+const month = String(date.getMonth() + 1).padStart(2, '0');
+const cdnImage = coverImage ? `${cdnBase}/${year}/${month}/${coverImage}` : null;
 ---
 
 <BaseLayout title={title} description={description}>
@@ -29,8 +34,8 @@ const { title, description, date, categories, coverImage } = post.data;
             day: 'numeric' 
           })}
         </time>
-        {coverImage && (
-          <img src={coverImage} alt={title} class="featured-image" />
+        {cdnImage && (
+          <img src={cdnImage} alt={title} class="featured-image" />
         )}
       </div>
     </header>

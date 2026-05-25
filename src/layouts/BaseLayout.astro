@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import Header from '../components/Header.astro';
 
 interface Props {
   title: string;
@@ -19,22 +20,10 @@ const { title, description = 'El Sumario - Resúmenes de noticias' } = Astro.pro
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   </head>
   <body>
-    <header class="site-header">
-      <div class="container">
-        <nav>
-          <a href="/" class="logo">El Sumario</a>
-          <div class="nav-links">
-            <a href="/blog">Blog</a>
-            <a href="/buscar">Buscar</a>
-          </div>
-        </nav>
-      </div>
-    </header>
-
+    <Header />
     <main>
       <slot />
     </main>
-
     <footer class="site-footer">
       <div class="container">
         <p>&copy; {new Date().getFullYear()} El Sumario</p>
@@ -77,4 +66,5 @@ const { title, description = 'El Sumario - Resúmenes de noticias' } = Astro.pro
     text-align: center;
     color: var(--color-muted);
   }
+
 </style>
