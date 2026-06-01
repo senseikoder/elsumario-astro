@@ -3,7 +3,6 @@ title: "Ciudad de México recibirá 2026 con la fiesta electrónica \"más grand
 date: 2025-12-31
 categories: 
   - "comunidad"
-  - "destacadas"
   - "placeres"
 tags: 
   - "3ballmty"
@@ -20,6 +19,7 @@ tags:
   - "musica-electronica"
   - "paseo-de-la-reforma"
 coverImage: "0a342e3155e1c76bda658374a136ae0d7899d7b0m.jpg"
+excerpt: "La Ciudad de México despedirá 2025 y dará la bienvenida al Año Nuevo de 2026 con un macrofestejo de música electrónica."
 ---
 
 **El Sumario** - **La Ciudad de México despedirá 2025 y dará la bienvenida al Año Nuevo de 2026 con un macrofestejo de música electrónica**, que el Gobierno capitalino promete que será **“la fiesta electrónica más grande del mundo”**.

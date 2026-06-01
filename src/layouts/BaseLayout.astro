@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
 
 interface Props {
   title: string;
@@ -24,11 +25,7 @@ const { title, description = 'El Sumario - Resúmenes de noticias' } = Astro.pro
     <main>
       <slot />
     </main>
-    <footer class="site-footer">
-      <div class="container">
-        <p>&copy; {new Date().getFullYear()} El Sumario</p>
-      </div>
-    </footer>
+    <Footer />
   </body>
 </html>
 
@@ -60,11 +57,5 @@ const { title, description = 'El Sumario - Resúmenes de noticias' } = Astro.pro
     padding: 2rem 0;
   }
 
-  .site-footer {
-    border-top: 1px solid var(--color-border);
-    padding: 2rem 0;
-    text-align: center;
-    color: var(--color-muted);
-  }
 
 </style>

@@ -11,8 +11,10 @@ const posts = (await getCollection('blog', ({ data }) => {
   return import.meta.env.PROD ? !data.draft : true;
 })).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-const loNuestroPosts = posts
-  .filter(post => post.data.categories && post.data.categories.includes('lo-nuestro'))
+const targetCategories = ['buen-humor', 'mundo-animal', 'curiosidades', 'bienestar-y-estetica'];
+
+const generalPosts = posts
+  .filter(post => post.data.categories && post.data.categories.some(cat => targetCategories.includes(cat)))
   .slice(0, count);
 
 const cdnBase = 'https://img.efrank.xyz';
@@ -22,21 +24,27 @@ const getCdnUrl = (coverImage: string, date: Date) => {
   const month = String(date.getMonth() + 1).padStart(2, '0');
   return `${cdnBase}/${year}/${month}/${coverImage}`;
 };
+
+const getExcerpt = (text: string, wordCount: number) => {
+  if (!text) return '';
+  const words = text.split(' ');
+  return words.slice(0, wordCount).join(' ') + (words.length > wordCount ? '...' : '');
+};
 ---
 
-<section class="lo-nuestro-section">
-  <h2 class="section-title">Lo Nuestro</h2>
-    <hr class="section-divider" />
-  <div class="lo-nuestro-grid">
-    {loNuestroPosts.map((post) => (
+<section class="general-section">
+  <h2 class="section-title">Favoritas en Redes</h2>
+  <hr class="section-divider" />
+  <div class="general-grid">
+    {generalPosts.map((post) => (
       <article class="post-card">
         <a href={`/blog/${post.id}`}>
           {post.data.coverImage && (
             <img src={getCdnUrl(post.data.coverImage, post.data.date)} alt={post.data.title} />
           )}
           <div class="post-content">
-            <h3 class="post-title">{post.data.title}</h3>
-           
+            <h3>{post.data.title}</h3>
+            <p>{getExcerpt(post.data.excerpt || '', 25)}</p>            
           </div>
         </a>
       </article>
@@ -45,24 +53,23 @@ const getCdnUrl = (coverImage: string, date: Date) => {
 </section>
 
 <style>
-  .lo-nuestro-section {
-    margin-bottom: 2rem;
-  }
+  
 
-  .lo-nuestro-grid {
+
+  .general-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
   }
 
   @media (max-width: 900px) {
-    .lo-nuestro-grid {
+    .general-grid {
       grid-template-columns: repeat(2, 1fr);
     }
   }
 
   @media (max-width: 600px) {
-    .lo-nuestro-grid {
+    .general-grid {
       grid-template-columns: 1fr;
     }
   }
@@ -94,10 +101,14 @@ const getCdnUrl = (coverImage: string, date: Date) => {
     padding: 0.75rem;
   }
 
-  .post-title {
-    font-size: 1rem;
+  .post-content h3 {
+    font-size: 0.95rem;
     margin: 0 0 0.5rem;
     line-height: 1.4;
   }
 
+  .post-content time {
+    font-size: 0.75rem;
+    color: var(--color-muted);
+  }
 </style>

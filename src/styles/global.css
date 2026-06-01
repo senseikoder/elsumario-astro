@@ -1,17 +1,19 @@
-*, *::before, *::after {
-  box-sizing: border-box; margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 :root {
   --color-bg: #ffffff;
   --color-text: #1a1a1a;
   --color-muted: #666666;
-  --color-primary: #0066cc;
+  --color-primary: #084770;
   --color-border: #e0e0e0;
   --lime-green: #a5ce39;
-  --dark-blue: #084770;
   --white: #ffffff;
   --text-dark: #333333;
   --text-light: #666666;
@@ -71,4 +73,22 @@ figcaption {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+.general-section {
+  margin-bottom: 2rem;
+}
+
+.section-title {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  color: var(--lime-green);
+  text-align: center;
+  font-weight: 600;
+}
+
+.section-divider {
+  margin-bottom: 1.4rem;
+  border: none;
+  border-top: 2px solid var(--color-primary);
 }

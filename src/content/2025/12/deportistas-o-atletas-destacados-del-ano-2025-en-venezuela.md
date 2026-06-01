@@ -43,6 +43,7 @@ tags:
   - "yorgelis-salazar"
   - "yulimar-rojas"
 coverImage: "1e4838bcdfa7aae34f42e5657b43c46f06b3ffcam.jpg"
+excerpt: "El año 2025 representó para el deporte en Venezuela un periodo de actividad en disciplinas individuales, colectivas y del ciclo internacional."
 ---
 
 **El Sumario** - El año **2025** **representó para el deporte en Venezuela un periodo de actividad en disciplinas individuales, colectivas y del ciclo internacional**, con registros estadísticos que marcaron la trayectoria de diversos atletas en competencias de rango mundial y ligas profesionales de alta jerarquía.
