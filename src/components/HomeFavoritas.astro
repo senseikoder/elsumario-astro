@@ -11,6 +11,7 @@ const posts = (await getCollection('blog', ({ data }) => {
   return import.meta.env.PROD ? !data.draft : true;
 })).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
+
 const targetCategories = ['buen-humor', 'mundo-animal', 'curiosidades', 'bienestar-y-estetica'];
 
 const generalPosts = posts
@@ -38,7 +39,7 @@ const getExcerpt = (text: string, wordCount: number) => {
   <div class="general-grid">
     {generalPosts.map((post) => (
       <article class="post-card">
-        <a href={`/blog/${post.id}`}>
+        <a href={`/blog/${post.id.split('/').pop()}`}>
           {post.data.coverImage && (
             <img src={getCdnUrl(post.data.coverImage, post.data.date)} alt={post.data.title} />
           )}

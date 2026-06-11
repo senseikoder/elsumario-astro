@@ -24,7 +24,7 @@ const paginatedPosts = posts.slice(startIndex, startIndex + PAGE_SIZE);
     <div class="posts-list">
       {paginatedPosts.map((post) => (
         <article class="post-item">
-          <a href={`/blog/${post.id}`}>
+          <a href={`/blog/${post.id.split('/').pop()}`}>
             <time datetime={post.data.date.toISOString()}>
               {post.data.date.toLocaleDateString('es-ES', { 
                 year: 'numeric', 

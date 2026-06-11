@@ -30,7 +30,7 @@ const getCdnUrl = (coverImage: string, date: Date) => {
   <div class="lo-nuestro-grid">
     {loNuestroPosts.map((post) => (
       <article class="post-card">
-        <a href={`/blog/${post.id}`}>
+        <a href={`/blog/${post.id.split('/').pop()}`}>
           {post.data.coverImage && (
             <img src={getCdnUrl(post.data.coverImage, post.data.date)} alt={post.data.title} />
           )}
