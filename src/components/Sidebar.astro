@@ -1,0 +1,200 @@
+---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+
+const posts = (await getCollection('blog', ({ data }) => {
+  return import.meta.env.PROD ? !data.draft : true;
+})).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 5);
+
+const cdnBase = 'https://img.efrank.xyz';
+const getCdnUrl = (coverImage: string, date: Date) => {
+  if (!coverImage) return null;
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  return `${cdnBase}/${year}/${month}/${coverImage}`;
+};
+
+// Helper to format date as "Hace X horas/dias"
+const formatRelativeTime = (date: Date) => {
+  const now = new Date();
+  const diffInSeconds = Math.floor((now.getTime() - date.getTime()) / 1000);
+  
+  if (diffInSeconds < 3600) return `Hace ${Math.floor(diffInSeconds / 60)} minutos`;
+  if (diffInSeconds < 86400) return `Hace ${Math.floor(diffInSeconds / 3600)} horas`;
+  if (diffInSeconds < 604800) return `Hace ${Math.floor(diffInSeconds / 86400)} días`;
+  return date.toLocaleDateString('es-ES');
+};
+---
+
+<aside class="sidebar">
+  <!-- Search Section -->
+  <div class="search-box">
+    <form action="/buscar" method="GET" class="search-form">
+      <input type="text" name="q" placeholder="Buscar ..." />
+      <button type="submit">Buscar</button>
+    </form>
+  </div>
+
+  <!-- Banners Top -->
+  <div class="sidebar-banners">
+    <a href="#" class="banner-link">
+      <img src="https://placehold.co/300x250?text=Hyundai+Kona+Ad" alt="Publicidad Hyundai Kona" />
+    </a>
+    <a href="#" class="banner-link">
+      <img src="https://placehold.co/300x250?text=Telemedicina+Venemergencia" alt="Publicidad Telemedicina" />
+    </a>
+  </div>
+
+  <!-- Recent Posts -->
+  <div class="recent-posts">
+    <h3 class="recent-title">RECIENTES</h3>
+    <ul class="recent-list">
+      {posts.map((post) => (
+        <li class="recent-item">
+          <a href={`/blog/${post.id.split('/').pop()}`} class="recent-link">
+            <div class="recent-thumb">
+              {post.data.coverImage && (
+                <img src={getCdnUrl(post.data.coverImage, post.data.date)} alt={post.data.title} />
+              )}
+            </div>
+            <div class="recent-info">
+              <h4>{post.data.title}</h4>
+              <time>{formatRelativeTime(post.data.date)}</time>
+            </div>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <!-- Banners Bottom -->
+  <div class="sidebar-banners">
+    <a href="#" class="banner-link">
+      <img src="https://placehold.co/300x150?text=Jagi+Banner" alt="Publicidad Jagi" />
+    </a>
+    <a href="#" class="banner-link">
+      <img src="https://placehold.co/300x100?text=Fundasitio+Banner" alt="Publicidad Fundasitio" />
+    </a>
+    <a href="#" class="banner-link">
+      <img src="https://placehold.co/300x200?text=Vinotinto+Banner" alt="Publicidad Vinotinto" />
+    </a>
+  </div>
+</aside>
+
+<style>
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 100%;
+  }
+
+  .search-box {
+    margin-bottom: 1rem;
+  }
+
+  .search-form {
+    display: flex;
+    gap: 0;
+  }
+
+  .search-form input {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px 0 0 4px;
+    font-size: 14px;
+  }
+
+  .search-form button {
+    background-color: #a5ce39;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+  .sidebar-banners {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .banner-link img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+
+  .recent-posts {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .recent-title {
+    font-size: 14px;
+    font-weight: 800;
+    color: #999;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 4px;
+  }
+
+  .recent-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+
+  .recent-item {
+    display: flex;
+    gap: 12px;
+  }
+
+  .recent-link {
+    display: flex;
+    gap: 12px;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .recent-thumb {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .recent-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .recent-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .recent-info h4 {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0 0 4px;
+    line-height: 1.3;
+  }
+
+  .recent-info time {
+    font-size: 11px;
+    color: #999;
+  }
+</style>

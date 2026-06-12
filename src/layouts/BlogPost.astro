@@ -1,104 +1,220 @@
 ---
-import BaseLayout from './BaseLayout.astro';
-import type { CollectionEntry } from 'astro:content';
+import BaseLayout from "./BaseLayout.astro";
+import Sidebar from "../components/Sidebar.astro";
+import type { CollectionEntry } from "astro:content";
 
 interface Props {
-  post: CollectionEntry<'blog'>;
+  post: CollectionEntry<"blog">;
 }
 
 const { post } = Astro.props;
 const { title, description, date, categories, coverImage } = post.data;
 
-const cdnBase = 'https://img.efrank.xyz';
+const cdnBase = "https://img.efrank.xyz";
 const year = date.getFullYear();
-const month = String(date.getMonth() + 1).padStart(2, '0');
-const cdnImage = coverImage ? `${cdnBase}/${year}/${month}/${coverImage}` : null;
+const month = String(date.getMonth() + 1).padStart(2, "0");
+const cdnImage = coverImage
+  ? `${cdnBase}/${year}/${month}/${coverImage}`
+  : null;
 ---
 
 <BaseLayout title={title} description={description}>
-  <article class="blog-post">
+  <div class="container post-wrapper">
     <header class="post-header">
-      <div class="container">
-        {categories && categories.length > 0 && (
+      {
+        categories && categories.length > 0 && (
           <nav class="post-categories">
             {categories.map((cat) => (
               <a href={`/blog/categoria/${cat}`}>{cat}</a>
             ))}
           </nav>
-        )}
-        <h1>{title}</h1>
+        )
+      }
+      <h1>{title}</h1>
+      <div class="post-meta">
         <time datetime={date.toISOString()}>
-          {date.toLocaleDateString('es-ES', { 
-            year: 'numeric', 
-            month: 'long', 
-            day: 'numeric' 
-          })}
+          {
+            date.toLocaleDateString("es-ES", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })
+          }
         </time>
-        {cdnImage && (
-          <img src={cdnImage} alt={title} class="featured-image" />
-        )}
+        <span class="reading-time">2 minutos de lectura</span>
       </div>
     </header>
 
-    <div class="post-content container">
-      <slot />
+    <div class="post-main-layout">
+      <article class="post-content">
+        {cdnImage && <img src={cdnImage} alt={title} class="featured-image" />}
+        <div class="share-buttons">
+          <span class="share-label">Compartir</span>
+          <div class="social-icons">
+            <a href="#" class="btn-fb">FB</a>
+            <a href="#" class="btn-x">X</a>
+            <a href="#" class="btn-in">IN</a>
+            <a href="#" class="btn-tg">TG</a>
+          </div>
+        </div>
+
+        <slot />
+
+        <div class="share-buttons">
+          <span class="share-label">Compartir</span>
+          <div class="social-icons">
+            <a href="#" class="btn-fb">FB</a>
+            <a href="#" class="btn-x">X</a>
+            <a href="#" class="btn-in">IN</a>
+            <a href="#" class="btn-tg">TG</a>
+          </div>
+        </div>
+      </article>
+
+      <Sidebar />
     </div>
-  </article>
+  </div>
 </BaseLayout>
 
 <style>
+  .post-wrapper {
+    margin-bottom: 4rem;
+  }
+
   .post-header {
+    text-align: left;
     margin-bottom: 2rem;
-    text-align: center;
   }
 
   .post-categories {
     display: flex;
     gap: 0.5rem;
-    justify-content: center;
     margin-bottom: 1rem;
+    flex-wrap: wrap;
   }
 
   .post-categories a {
-    font-size: 0.875rem;
-    color: var(--color-muted);
+    font-size: 0.75rem;
+    background-color: #eef2f7;
+    color: #555;
+    padding: 4px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.2s;
+  }
+
+  .post-categories a:hover {
+    background-color: #dee4ed;
   }
 
   .post-header h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     margin: 0.5rem 0;
     line-height: 1.2;
+    color: var(--color-text);
+    font-weight: 800;
   }
 
-  .post-header time {
+  .post-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
     color: var(--color-muted);
     font-size: 0.875rem;
+    margin-bottom: 1.5rem;
   }
 
   .featured-image {
-    margin-top: 1.5rem;
-    max-height: 500px;
+    width: 100%;
+    height: auto;
+    max-height: 600px;
     object-fit: cover;
     border-radius: 8px;
+    margin-bottom: 2rem;
+  }
+
+  .post-main-layout {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 3rem;
+  }
+
+  @media (max-width: 1024px) {
+    .post-main-layout {
+      grid-template-columns: 1fr;
+    }
   }
 
   .post-content {
-    max-width: 800px;
     font-size: 1.125rem;
     line-height: 1.8;
+    color: #333;
   }
 
   .post-content :global(h2) {
     font-size: 1.75rem;
-    margin-top: 2rem;
+    margin: 2rem 0 1rem;
+    color: var(--color-text);
+    font-weight: 700;
   }
 
   .post-content :global(h3) {
     font-size: 1.5rem;
-    margin-top: 1.5rem;
+    margin: 1.5rem 0 1rem;
+    color: var(--color-text);
+    font-weight: 600;
   }
 
   .post-content :global(p) {
     margin-bottom: 1.5rem;
+  }
+
+  /* Share Buttons Styles */
+  .share-buttons {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 2rem 0;
+    padding: 1rem 0;
+    border-top: 1px solid var(--color-border);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .share-label {
+    font-size: 0.875rem;
+    color: var(--color-muted);
+    font-weight: 600;
+  }
+
+  .social-icons {
+    display: flex;
+    gap: 8px;
+  }
+
+  .social-icons a {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .btn-fb {
+    background-color: #3b5998;
+  }
+  .btn-x {
+    background-color: #000;
+  }
+  .btn-in {
+    background-color: #0077b5;
+  }
+  .btn-tg {
+    background-color: #0088cc;
   }
 </style>
