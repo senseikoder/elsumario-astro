@@ -1,0 +1,222 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import { getCollection } from 'astro:content';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  
+  const categories = new Set<string>();
+  posts.forEach((post) => {
+    post.data.categories?.forEach((cat) => categories.add(cat));
+  });
+
+  return Array.from(categories).map((category) => ({
+    params: { categoria: category },
+    props: { category }
+  }));
+}
+
+const { category } = Astro.props;
+
+const posts = (await getCollection('blog', ({ data }) => {
+  return data.categories?.includes(category);
+})).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const cdnBase = 'https://img.efrank.xyz';
+const getCdnUrl = (coverImage: string, date: Date) => {
+  if (!coverImage) return null;
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  return `${cdnBase}/${year}/${month}/${coverImage}`;
+};
+---
+
+<BaseLayout title={`${category} - El Sumario`}>
+  <div class="container">
+    <div class="page-header">
+      <h1>{category.charAt(0).toUpperCase() + category.slice(1)}</h1>
+    </div>
+
+    <div class="content-layout">
+      <main class="main-content">
+        {posts.map((post) => (
+          <article class="post-card">
+            <a href={`/${post.id.split('/').pop()}`} class="post-link">
+              <div class="post-image-wrapper">
+                <time class="post-date" datetime={post.data.date.toISOString()}>
+                  {post.data.date.toLocaleDateString('es-ES', { day: 'numeric', month: 'long' })}
+                </time>
+                <div class="post-image">
+                  {post.data.coverImage && (
+                    <img src={getCdnUrl(post.data.coverImage, post.data.date)} alt={post.data.title} />
+                  )}
+                </div>
+              </div>
+              <div class="post-content">
+                <h2>{post.data.title}</h2>
+                {post.data.description && <p class="excerpt">{post.data.description}</p>}
+                <span class="read-more">Leer más &raquo;</span>
+              </div>
+            </a>
+          </article>
+        ))}
+
+        {posts.length === 0 && (
+          <div class="no-posts">
+            <p>No hay publicaciones en esta categoría.</p>
+          </div>
+        )}
+      </main>
+
+      <Sidebar />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header {
+    margin-bottom: 2rem;
+  }
+
+  .page-header h1 {
+    font-size: 2rem;
+    color: var(--color-text);
+    margin: 0;
+  }
+
+  .content-layout {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 3rem;
+  }
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .post-card {
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 1.5rem;
+  }
+
+  .post-card:last-child {
+    border-bottom: none;
+  }
+
+  .post-link {
+    display: flex;
+    gap: 1.5rem;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .post-link:hover {
+    text-decoration: none;
+  }
+
+  .post-image-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .post-date {
+    font-size: 14px;
+    color: var(--color-muted);
+    font-weight: 500;
+  }
+
+  .post-image {
+    width: 300px;
+    height: 200px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .post-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .post-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-top: 1.5rem;
+    gap: 0.5rem;
+  }
+
+  .post-content h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.3;
+    color: var(--color-text);
+    transition: color 0.2s;
+  }
+
+  .post-link:hover .post-content h2 {
+    color: var(--color-primary);
+  }
+
+  .excerpt {
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .read-more {
+    display: inline-block;
+    background: var(--lime-green);
+    color: var(--white);
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    width: fit-content;
+    transition: opacity 0.2s;
+  }
+
+  .post-link:hover .read-more {
+    opacity: 0.9;
+  }
+
+  .no-posts {
+    text-align: center;
+    padding: 3rem;
+    color: var(--color-muted);
+  }
+
+  @media (max-width: 900px) {
+    .content-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .post-link {
+      flex-direction: column;
+    }
+
+    .post-image {
+      width: 100%;
+      height: 200px;
+    }
+  }
+</style>
