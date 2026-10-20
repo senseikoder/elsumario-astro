@@ -3,27 +3,25 @@
   "type": "module",
   "version": "1.0.0",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "tinacms dev -c \"astro dev\"",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "tinacms build && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "postbuild": "pagefind --site dist"
   },
   "dependencies": {
-    "@astrojs/markdoc": "^2.1.0",
-    "@astrojs/mdx": "^8.1.0",
-    "@astrojs/node": "^11.1.8",
-    "@astrojs/react": "^7.1.0",
+    "@astrojs/node": "^11.1.9",
     "@astrojs/sitemap": "^3.7.4",
-    "@astrojs/vercel": "^11.0.15",
-    "@keystatic/astro": "^6.0.0",
-    "@keystatic/core": "^0.6.9",
-    "@types/react": "^19.3.0",
-    "@types/react-dom": "^19.3.0",
+    "@tinacms/astro": "^0.8.0",
+    "@tinacms/cli": "latest",
     "astro": "^7.4.0",
     "pagefind": "^1.0.0",
-    "react": "^19.3.1",
-    "react-dom": "^19.3.1"
+    "tinacms": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }

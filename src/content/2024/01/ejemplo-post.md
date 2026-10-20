@@ -8,20 +8,12 @@ categories:
 tags:
   - example
   - migration
-featuredImage: "https://placeimg.dev/1000x300?text=Imagen"
-author: "El Sumario"
+coverImage: "https://placeimg.dev/1000x300?text=Imagen"
 ---
 
 ## Introducción
 
 Este es un ejemplo de post migrado desde WordPress. El contenido ya ha sido parseado para convertir los shortcodes de WordPress a HTML semántico.
-
-### Imagen con caption
-
-<figure class="wp-caption aligncenter">
-  <img src="https://placeimg.dev/800x350?text=Hello" alt="Imagen de ejemplo" />
-  <figcaption>Esta es la descripción de la imagen</figcaption>
-</figure>
 
 ## Contenido del post
 
