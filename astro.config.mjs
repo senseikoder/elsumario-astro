@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 // import node from '@astrojs/node';
-// import vercel from '@astrojs/vercel';
 
 export default defineConfig({
   output: 'static',
