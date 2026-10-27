@@ -10,7 +10,7 @@ import logo from "../assets/Logoelsumario-web.webp"
     <div class="top-bar-content">
       <div class="date-section">
         <span class="current-date">martes, abril 14 2026</span>
-        <span class="about-link">ACERCA DE</span>
+        <span class="about-link"><a href="/acerca-de">ACERCA DE</a></span>
       </div>
       <div class="social-icons">
         <a href="#" class="social-icon facebook" aria-label="Facebook">
@@ -50,7 +50,7 @@ import logo from "../assets/Logoelsumario-web.webp"
   <nav class="main-nav">
     <div class="nav-content">
       <ul class="nav-menu">
-        <li><a href="#" class="nav-link active">INICIO</a></li>
+        <li><a href="/" class="nav-link active">INICIO</a></li>
         <li><a href="/categoria/lo-nuestro" class="nav-link">LO NUESTRO</a></li>
         <li><a href="/categoria/audiovisual" class="nav-link">AUDIOVISUAL</a></li>
         <li><a href="/categoria/buen-humor" class="nav-link">BUEN HUMOR</a></li>
@@ -121,17 +121,13 @@ import logo from "../assets/Logoelsumario-web.webp"
     cursor: pointer;
   }
 
-  .about-link:hover {
-    text-decoration: underline;
-  }
-
   .social-icons {
     display: flex;
     gap: 15px;
   }
 
   .social-icon {
-    color: var(--text-dark);
+    color: var(--color-primary);
     text-decoration: none;
     display: flex;
     align-items: center;

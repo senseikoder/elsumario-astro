@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import logo from "../assets/Logoelsumario-web.webp";
+import bpdvLogo from "../assets/bpdvfooter-300x120.webp";
 
 const categories = [
   { name: "Audiovisual", slug: "audiovisual" },
@@ -14,7 +15,7 @@ const categories = [
   { name: "Lo nuestro", slug: "lo-nuestro" },
   { name: "Mundo animal", slug: "mundo-animal" },
   { name: "Perfiles", slug: "perfiles" },
-  { name: "Placeres", slug: "placeres" }
+  { name: "Placeres", slug: "placeres" },
 ];
 ---
 
@@ -22,17 +23,20 @@ const categories = [
   <!-- Top Area: Light Gray Background -->
   <div class="footer-top">
     <div class="container footer-top-grid">
-      
       <!-- Column 1: Logo & Authorization Text -->
       <div class="footer-col col-left">
         <div class="footer-logo">
           <Image src={logo} alt="El Sumario" width={220} height={47} />
         </div>
         <p class="footer-text">
-          Autorizamos compartir y/o reproducir los contenidos redaccionales citando la respectiva fuente. Es decir, con la condición de colocar en la información la correspondiente dirección url del material utilizado de nuestra publicación ElSumario.com
+          Autorizamos compartir y/o reproducir los contenidos redaccionales
+          citando la respectiva fuente. Es decir, con la condición de colocar en
+          la información la correspondiente dirección url del material utilizado
+          de nuestra publicación ElSumario.com
         </p>
         <p class="footer-text">
-          Esta autorización incluye el uso de videos propios, los cuales tienen visible un ícono, logo o marca de agua.
+          Esta autorización incluye el uso de videos propios, los cuales tienen
+          visible un ícono, logo o marca de agua.
         </p>
       </div>
 
@@ -40,29 +44,18 @@ const categories = [
       <div class="footer-col col-middle">
         <div class="affiliation-section">
           <h3 class="col-title">Afiliado a</h3>
-          <div class="bpdv-logo-card">
-            <div class="bpdv-main">
-              <div class="bpdv-bars">
-                <span></span><span></span><span></span><span></span><span></span>
-              </div>
-              <div class="bpdv-text">BPDV</div>
-              <div class="bpdv-bars">
-                <span></span><span></span><span></span><span></span><span></span>
-              </div>
-            </div>
-            <div class="bpdv-sub">
-              BLOQUE DE PRENSA DIGITAL DE VENEZUELA
-            </div>
-          </div>
+          <Image src={bpdvLogo} alt="BPDV" width={260} height={120} />
         </div>
 
         <div class="contacts-section">
           <h3 class="col-title">Contactos</h3>
           <p class="contact-item">
-            <strong>Dirección:</strong> <a href="mailto:gfebres@elsumario.com">gfebres@elsumario.com</a>
+            <strong>Dirección:</strong>
+            <a href="mailto:gfebres@elsumario.com">gfebres@elsumario.com</a>
           </p>
           <p class="contact-item">
-            <strong>Ventas:</strong> <a href="mailto:comercial@elsumario.com">comercial@elsumario.com</a>
+            <strong>Ventas:</strong>
+            <a href="mailto:comercial@elsumario.com">comercial@elsumario.com</a>
           </p>
         </div>
       </div>
@@ -71,10 +64,14 @@ const categories = [
       <div class="footer-col col-right">
         <h3 class="col-title">Política editorial</h3>
         <p class="editorial-text">
-          Noticias confirmadas. Crónicas en buena onda. Sonidos e imágenes que ilustran. Propuestas positivas. Visiones optimistas. Artículos que nutren. Voces y personajes que orientan. Consejos que protegen. Revelaciones exclusivas. Datos de utilidad. Descubrimientos. Futuro y perspectivas. Nuevas tendencias. Textos que aclaran. Informaciones que suman.
+          Noticias confirmadas. Crónicas en buena onda. Sonidos e imágenes que
+          ilustran. Propuestas positivas. Visiones optimistas. Artículos que
+          nutren. Voces y personajes que orientan. Consejos que protegen.
+          Revelaciones exclusivas. Datos de utilidad. Descubrimientos. Futuro y
+          perspectivas. Nuevas tendencias. Textos que aclaran. Informaciones que
+          suman.
         </p>
       </div>
-
     </div>
   </div>
 
@@ -82,20 +79,22 @@ const categories = [
   <div class="footer-bottom">
     <div class="container">
       <p class="copyright">
-        © 2015. Derechos reservados, elsumario.com es un producto y marca del Grupo de Comunicación Digital EL SUMARIO, C.A. / RIF: J-40582970-2
+        © 2015. Derechos reservados, elsumario.com es un producto y marca del
+        Grupo de Comunicación Digital EL SUMARIO, C.A. / RIF: J-40582970-2
       </p>
-      <p class="source-credits">
-        Fuente principal de información y contenidos digitales multimedia América: Agencia EFE / EFE Servicios
-      </p>
-      
+
       <!-- Category Navigation Links -->
       <nav class="footer-category-nav">
-        {categories.map((cat, idx) => (
-          <>
-            <a href={`/blog/categoria/${cat.slug}`} class="category-link">{cat.name}</a>
-            {idx < categories.length - 1 && <span class="nav-separator"></span>}
-          </>
-        ))}
+        {
+          categories.map((cat, idx) => (
+            <>
+              <a href={`/blog/categoria/${cat.slug}`} class="category-link">
+                {cat.name}
+              </a>
+              {idx < categories.length - 1 && <span class="nav-separator" />}
+            </>
+          ))
+        }
       </nav>
     </div>
   </div>
@@ -104,7 +103,8 @@ const categories = [
 <style>
   .site-footer {
     width: 100%;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family:
+      -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   }
 
   /* Footer Top section styling */
@@ -162,7 +162,8 @@ const categories = [
   }
 
   @media (max-width: 900px) {
-    .col-title, .col-right .col-title {
+    .col-title,
+    .col-right .col-title {
       text-align: left;
     }
   }
@@ -181,58 +182,6 @@ const categories = [
     }
   }
 
-  .bpdv-logo-card {
-    background-color: #ffffff;
-    border: 1.5px solid #dcdcdc;
-    border-radius: 8px;
-    padding: 12px 24px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    max-width: 260px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-  }
-
-  .bpdv-main {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    margin-bottom: 6px;
-  }
-
-  .bpdv-bars {
-    display: flex;
-    gap: 3px;
-  }
-
-  .bpdv-bars span {
-    display: block;
-    width: 4px;
-    height: 32px;
-    background-color: #06406c;
-    transform: skewX(-14deg);
-  }
-
-  .bpdv-text {
-    font-family: "Impact", "Arial Black", -apple-system, sans-serif;
-    font-weight: 900;
-    font-size: 38px;
-    color: #06406c;
-    line-height: 0.85;
-    letter-spacing: -1.5px;
-  }
-
-  .bpdv-sub {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    font-size: 8px;
-    font-weight: 800;
-    color: #06406c;
-    text-align: center;
-    letter-spacing: 0.1px;
-    white-space: nowrap;
-  }
 
   /* Contacts Styling */
   .contacts-section {

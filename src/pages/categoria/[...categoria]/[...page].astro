@@ -1,29 +1,32 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import Sidebar from '../../components/Sidebar.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Sidebar from '../../../components/Sidebar.astro';
 import { getCollection } from 'astro:content';
 
 // export const prerender = false;
 
-export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+export async function getStaticPaths({ paginate }) {
+  const posts = (await getCollection('blog')).sort(
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+  );
   
   const categories = new Set<string>();
   posts.forEach((post) => {
     post.data.categories?.forEach((cat) => categories.add(cat));
   });
 
-  return Array.from(categories).map((category) => ({
-    params: { categoria: category },
-    props: { category }
-  }));
+  return Array.from(categories).flatMap((category) => {
+    const filteredPosts = posts.filter((post) => post.data.categories?.includes(category));
+    return paginate(filteredPosts, {
+      params: { categoria: category, page: undefined },
+      props: { category },
+      pageSize: 10,
+    });
+  });
 }
 
-const { category } = Astro.props;
-
-const posts = (await getCollection('blog', ({ data }) => {
-  return data.categories?.includes(category);
-})).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const { page, category } = Astro.props;
+const posts = page.data;
 
 const cdnBase = 'https://img.efrank.xyz';
 const getCdnUrl = (coverImage: string, date: Date) => {
@@ -58,6 +61,7 @@ const getCdnUrl = (coverImage: string, date: Date) => {
               <div class="post-content">
                 <h2>{post.data.title}</h2>
                 {post.data.description && <p class="excerpt">{post.data.description}</p>}
+                {post.data.excerpt && <p class="excerpt">{post.data.excerpt}</p>}
                 <span class="read-more">Leer más &raquo;</span>
               </div>
             </a>
@@ -69,6 +73,12 @@ const getCdnUrl = (coverImage: string, date: Date) => {
             <p>No hay publicaciones en esta categoría.</p>
           </div>
         )}
+
+        <div class="pagination">
+          {page.url.prev ? <a href={page.url.prev}>&laquo; Anterior</a> : <div></div>}
+          <span class="page-info">Página {page.currentPage} de {page.lastPage}</span>
+          {page.url.next ? <a href={page.url.next}>Siguiente &raquo;</a> : <div></div>}
+        </div>
       </main>
 
       <Sidebar />
@@ -202,6 +212,28 @@ const getCdnUrl = (coverImage: string, date: Date) => {
   .no-posts {
     text-align: center;
     padding: 3rem;
+    color: var(--color-muted);
+  }
+
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+  }
+
+  .pagination a {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .pagination a:hover {
+    text-decoration: underline;
+  }
+
+  .page-info {
+    font-size: 14px;
     color: var(--color-muted);
   }
 

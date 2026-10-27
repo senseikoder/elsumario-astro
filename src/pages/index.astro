@@ -1,18 +1,56 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import HomeDestacadas from '../components/HomeDestacadas.astro';
-import HomeMasLeidas from '../components/HomeMasLeidas.astro';
-import HomeLoNuestro from '../components/HomeLoNuestro.astro';
-import HomeFavoritas from '../components/HomeFavoritas.astro';
-import HomePerfiles from '../components/HomePerfiles.astro';
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HomeDestacadas from "../components/HomeDestacadas.astro";
+import HomeMasLeidas from "../components/HomeMasLeidas.astro";
+import HomeLoNuestro from "../components/HomeLoNuestro.astro";
+import HomeFavoritas from "../components/HomeFavoritas.astro";
+import HomePerfiles from "../components/HomePerfiles.astro";
+
+import { Image } from "astro:assets";
+import hyundaiAd from "../assets/Hyundai-Kona-1.webp";
+import venemergenciaAd from "../assets/Venemergencia-970X90.webp";
+import jagiAd from "../assets/Jagi-970x90-1.gif";
+import kitzaletAd from "../assets/KIT-banner-970x90-1.gif";
+import mqsAd from "../assets/MQS-somos-ciber-seguridad-728x90.gif";
 ---
 
 <BaseLayout title="El Sumario - Resúmenes de noticias">
   <div class="container">
     <HomeDestacadas />
+
+    <div class="ad-container">
+      <Image src={hyundaiAd} alt="Hyundai El Accento Venezolano" />
+      <Image src={venemergenciaAd} alt="Telemedicina Venemergencia" />
+    </div>
+
     <HomeMasLeidas />
+
+    <div class="ad-container">
+      <Image src={jagiAd} alt="Jagi" />
+    </div>
+
     <HomeLoNuestro />
+
     <HomeFavoritas />
+    
+    <div class="ad-container">
+      <Image src={kitzaletAd} alt="Kitzalet" />
+    </div>
+    
     <HomePerfiles />
+    
+    <div class="ad-container">
+      <Image src={mqsAd} alt="MQS" />
+    </div>
   </div>
 </BaseLayout>
+
+<style>
+  .ad-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+    margin: 4rem 0;
+  }
+</style>
