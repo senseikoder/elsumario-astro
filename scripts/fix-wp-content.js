@@ -56,7 +56,7 @@ function parseCaptionShortcode(content) {
     
     let finalSrc = src;
     if (src.startsWith('images/')) {
-      finalSrc = `https://tu-r2-bucket.r2.cloudflarestorage.com/images/${src.replace('images/', '')}`;
+      finalSrc = `https://img.efrank.xyz/${src.replace('images/', '')}`;
     } else if (src.includes('r2.cloudflarestorage.com')) {
       finalSrc = src;
     }
