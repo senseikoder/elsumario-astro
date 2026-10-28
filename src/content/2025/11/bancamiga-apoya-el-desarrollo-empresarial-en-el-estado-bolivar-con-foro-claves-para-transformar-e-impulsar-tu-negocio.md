@@ -35,15 +35,15 @@ coverImage: "Doctor-Elarba-Destacada-o-Ppal-ES-y-PV.jpeg"
 
 **El Sumario** - **Bancamiga**, como parte de su compromiso con el fomento del desarrollo productivo nacional, celebró con éxito el foro **“Claves para transformar e impulsar tu negocio”** en **Ciudad Guayana, estado Bolívar**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Expositores-y-emprendedor-Para-acompanar-texto-1024x574.jpeg)](https://elsumario.com/wp-content/uploads/2025/11/Expositores-y-emprendedor-Para-acompanar-texto.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Expositores-y-emprendedor-Para-acompanar-texto-1024x574.jpeg)](https://elsumario.com/wp-content/uploads/2025/11/Expositores-y-emprendedor-Para-acompanar-texto.jpeg)
 
 Esta importante iniciativa de capacitación, organizada en alianza estratégica con la **Gobernación del estado Bolívar**, la **Alcaldía del municipio Caroní** y **Fedeindustria**, reunió a **más de 500 emprendedores, pequeños y medianos empresarios de la región** en un evento diseñado para ofrecer **herramientas esenciales para el crecimiento y la sostenibilidad de sus negocios**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Foto-general-Evento-Bancamiga-Para-acompanar-texto-1024x549.jpeg)](https://elsumario.com/wp-content/uploads/2025/11/Foto-general-Evento-Bancamiga-Para-acompanar-texto.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Foto-general-Evento-Bancamiga-Para-acompanar-texto-1024x549.jpeg)](https://elsumario.com/wp-content/uploads/2025/11/Foto-general-Evento-Bancamiga-Para-acompanar-texto.jpeg)
 
 Durante la inauguración del evento, **José Simón Elarba**, presidente de la junta Directiva de [Bancamiga](https://www.instagram.com/bancamiga/?hl=es), afirmó que “este banco reconoce y valora el esfuerzo constante de emprendedores y microempresarios por superar sus metas e impulsar sus negocios. Es por eso que no solo realizamos actividades de capacitación para fomentar el desarrollo empresarial, sino que somos ese brazo de apoyo y asistencia financiera que necesitan para crecer”.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Emprendedores-Desatcada-o-Ppal-DLL-y-BFN-1024x554.jpeg)](https://elsumario.com/wp-content/uploads/2025/11/Emprendedores-Desatcada-o-Ppal-DLL-y-BFN.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Emprendedores-Desatcada-o-Ppal-DLL-y-BFN-1024x554.jpeg)](https://elsumario.com/wp-content/uploads/2025/11/Emprendedores-Desatcada-o-Ppal-DLL-y-BFN.jpeg)
 
 El evento contó con la participación **Yesel Calzadilla**, presidente de la Corporación de Bolívar, en representación del Gobierno regional; **Orlando Camacho**, presidente de Fedeindustria y **Zenaida Curapiaca**, gerente general del Instituto de Emprendimiento e Innovación de Caroní, quienes compartieron su visión sobre el potencial económico de la región y la relevancia del apoyo a los microempresarios.
 
@@ -51,7 +51,7 @@ El evento contó con la participación **Yesel Calzadilla**, presidente de la Co
 
 La **jornada formativa** ofreció una **programación de alto valor** con la intervención de especialistas para optimizar el desarrollo empresarial, como **Mauricio Parilli**, director de Aprendo y Emprendo, quien presentó la conferencia “Claves para transformar tu negocio, desde el propósito al triple impacto”, enfocándose en la **sostenibilidad de las empresas**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ejecutiva-Atencion-de-clientes-y-usuarios-Para-acompanar-texto-1024x849.jpeg)](https://elsumario.com/wp-content/uploads/2025/11/Ejecutiva-Atencion-de-clientes-y-usuarios-Para-acompanar-texto.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Ejecutiva-Atencion-de-clientes-y-usuarios-Para-acompanar-texto-1024x849.jpeg)](https://elsumario.com/wp-content/uploads/2025/11/Ejecutiva-Atencion-de-clientes-y-usuarios-Para-acompanar-texto.jpeg)
 
 La estratega de marketing, innovación y ventas, **Isa Bermúdez**, ofreció la ponencia “La voz de tu marca: comunicando con impacto”, brindando herramientas para construir narrativas empresariales poderosas.
 

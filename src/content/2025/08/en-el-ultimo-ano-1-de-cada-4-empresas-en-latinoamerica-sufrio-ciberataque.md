@@ -41,7 +41,7 @@ El reporte revela que el **27% de las organizaciones afirmó haber sufrido un ci
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-que-acompana-el-texto-A.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-que-acompana-el-texto-A.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-que-acompana-el-texto-A.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-que-acompana-el-texto-A.jpg)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ A pesar de esta preocupación generalizada, menos de la mitad de las **empresas*
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-que-acompana-el-texto-B.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-que-acompana-el-texto-B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-que-acompana-el-texto-B.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-que-acompana-el-texto-B.jpg)
 
 <figcaption>
 

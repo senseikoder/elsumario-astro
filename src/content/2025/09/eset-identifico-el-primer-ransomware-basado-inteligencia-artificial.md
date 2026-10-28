@@ -24,7 +24,7 @@ coverImage: "Imagen-referencial-ESET-descubre-el-primer-ransomware-basado-en-IA-
 
 Si bien este nuevo malware **PromptLock** no ha sido detectado en ataques reales y se cree que es una prueba de concepto (PoC) o un trabajo en curso, **el descubrimiento de ESET muestra cómo el uso malicioso de herramientas de IA disponibles de manera pública podría potenciar el ransomware y otras ciberamenazas generalizadas**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-que-acompana-el-texto.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/09/Imagen-que-acompana-el-texto.jpg)
 
 _“Independientemente de la intención de PromptLock, su descubrimiento indica que las herramientas de IA pueden utilizarse para automatizar varias fases de los ataques de ransomware, desde el reconocimiento hasta la extracción de datos, a una velocidad y escala que antes se consideraban imposibles. La perspectiva de un [malware impulsado por IA](https://www.welivesecurity.com/2023/02/20/will-chatgpt-start-writing-killer-malware/) que pueda, entre otras cosas, adaptarse al entorno y cambiar sus tácticas sobre la marcha puede representar, en general, una nueva frontera en los ciberataques”_, explica el equipo de **ESET Research**.  
 

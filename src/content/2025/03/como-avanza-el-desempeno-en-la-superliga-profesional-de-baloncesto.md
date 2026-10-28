@@ -16,7 +16,7 @@ Luego de un primer cuarto parejo, los locales pusieron distancia con un parcial 
 
 Michael Carrera (17 puntos, 5 rebotes, 1 asistencia), Matthew Butler (19 puntos, 3 asistencias, 1 rebote, 1 robo) y Raymond Rada (17 puntos, 1 rebote, 1 robo), lideraron el triunfo.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Michael-Carrera-Gladiadores-Imagen-referencial-Fuente-SPB-1024x665.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Michael-Carrera-Gladiadores-Imagen-referencial-Fuente-SPB.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Michael-Carrera-Gladiadores-Imagen-referencial-Fuente-SPB-1024x665.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Michael-Carrera-Gladiadores-Imagen-referencial-Fuente-SPB.jpg)
 
 Por Piratas destacó Kevin Niño, con 15 puntos, 3 rebotes y 2 asistencias.
 
@@ -72,7 +72,7 @@ Gaiteros del Zulia no tuvo problemas para derrotar por segunda noche consecutiva
 
 Luis “Tapipa” Duarte volvió a ser el más valioso de Gaiteros, al conseguir 24 puntos, 3 rebotes, 2 asistencias, 2 robos y un bloqueo. Le siguió Michael Warren con 20 puntos, 3 rebotes, 3 asistencias y un robo.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Luis-Duarte-Imagen-referencial-Fuente-SPB-1024x1018.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/03/Luis-Duarte-Imagen-referencial-Fuente-SPB-1024x1018.jpg)
 
 El más destacado por Toros fue Alani Moore con 21 puntos, 2 asistencias y un robo.
 

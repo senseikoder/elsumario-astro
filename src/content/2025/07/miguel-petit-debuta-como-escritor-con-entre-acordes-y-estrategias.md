@@ -43,7 +43,7 @@ coverImage: "El-autor-Imagen-referencial-A.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Portada-725x1024.jpeg)](https://elsumario.com/wp-content/uploads/2025/07/Portada.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/Portada-725x1024.jpeg)](https://elsumario.com/wp-content/uploads/2025/07/Portada.jpeg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Con un enfoque decidido en innovación, digitalización y sostenibilidad, Petit 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-del-autor-B.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-del-autor-B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-del-autor-B.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-del-autor-B.jpg)
 
 <figcaption>
 

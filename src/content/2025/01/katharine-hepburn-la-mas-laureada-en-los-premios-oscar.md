@@ -29,7 +29,7 @@ Las películas en las que ganó un Oscar son:
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/GiJf8D6XUAAEIBz.jpg)](http://elsumario.com/wp-content/uploads/2025/01/GiJf8D6XUAAEIBz.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/01/GiJf8D6XUAAEIBz.jpg)](http://elsumario.com/wp-content/uploads/2025/01/GiJf8D6XUAAEIBz.jpg)
 
 <figcaption>
 

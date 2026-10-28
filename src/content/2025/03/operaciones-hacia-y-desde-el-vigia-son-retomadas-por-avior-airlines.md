@@ -41,7 +41,7 @@ El Vigía – Caracas 18:00 / 19:00
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Avior-Airlines-PV-1024x535.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Avior-Airlines-PV.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Avior-Airlines-PV-1024x535.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Avior-Airlines-PV.jpg)
 
 <figcaption>
 

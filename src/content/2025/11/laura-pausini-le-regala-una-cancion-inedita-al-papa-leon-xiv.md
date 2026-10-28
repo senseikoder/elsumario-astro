@@ -24,7 +24,7 @@ La **artista italiana** acudió a la cita vestida completamente de negro, acompa
 
 Laura Pausini recibió ante la presencia de León XIV el premio **"Global Icon"** otorgado por **_Billboard Italia_** por su "talento y compromiso para inspirar y unir a generaciones de todo el mundo", informó la revista especializada.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/papa-Leon-XIV-Laura-Pausini.jpg)](https://elsumario.com/wp-content/uploads/2025/11/papa-Leon-XIV-Laura-Pausini.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/papa-Leon-XIV-Laura-Pausini.jpg)](https://elsumario.com/wp-content/uploads/2025/11/papa-Leon-XIV-Laura-Pausini.jpg)
 
 Después, la cantante obsequió al papa una canción inédita, grabada en una sola copia, en la que interpreta una parte del **"Cantico de las criaturas"** de San Francisco de Asís.
 

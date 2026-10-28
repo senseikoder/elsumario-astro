@@ -35,17 +35,17 @@ coverImage: "IMG-DESTAC.jpg"
 
 Mil ciclistas provenientes de todos los estados venezolanos participaron este **domingo 23 de marzo** en el GFCDC en **cuatro distancias, una de las cuales (125 km) logró la certificación Guinness como la carrera con el ascenso más largo del mundo**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-3-1024x591.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-3.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/IMG-3-1024x591.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-3.jpg)
 
 Bajo la organización de Ultrabikex y con transmisión en streaming por su canal de _YouTube_, un grupo de ciclistas partió desde Estanques, a 425 metros sobre el nivel del mar, con el fin de coronar el Collado del Cóndor, a 4.200 msnm. Fue la primera de las cuatro salidas previstas durante la mañana, las que se darían desde distintos lugares.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-5-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-5.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/IMG-5-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-5.jpg)
 
 En esta distancia de 125 km, [Bancamiga](https://www.instagram.com/bancamiga/?hl=es) impulsó el _Reto Bancamiga Ultrabikex_, que contó con la presencia de los ciclistas profesionales ganadores de la Vuelta al Táchira **José Rujano** (2004, 2005, 2010 y 2015), **José Alarcón** (2023) y **Edwin Becerra** (2025) y los destacados aficionados **Alfonso Márquez (ganador el Gran Fondo Collado del Cóndor en 2023 y 2024)**, **Alan Noya** y **Jeison Avendaño**.
 
 A través del “Reto Bancamiga Ultrabikex”, una iniciativa de **Alberto Camardiel**, Director Ejecutivo de Marketing, Productos y Servicios de Bancamiga, se buscaba que al menos cuatro de ellos llegaran a la meta en menos de 5h15 minutos. Y este domingo **el denodado esfuerzo de estos seis pedalistas permitió cruzar la meta en 5h03 minutos, una marca que Alarcón considera se mantendrá por años**.
 
-[![IMG-2](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-2-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-2.jpg)
+[![IMG-2](http://elsumario.com/wp-content/uploads/2025/03/IMG-2-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-2.jpg)
 
 Para Camardiel, el _Reto Bancamiga Ultrabikex_ es una forma de promover el ciclismo en el país y de hacer que el Gran Fondo Collado del Cóndor se convierta en una **referencia para el ciclismo latinoamericano y mundial**, pues además de su certificación Guinness, abre las puertas para que otros pedalistas del mundo vean este logro como una marca a romper.
 
@@ -61,7 +61,7 @@ Este domingo, Brea se impuso en 80 kilómetros. Reconoció que fue una prueba mu
 
 Expresó que su presencia en el Gran Fondo Collado del Cóndor le sirvió de **entrenamiento mientras se recupera de una lesión**. Espera regresar en las próximas semanas al atletismo.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-4-1024x625.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-4.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/IMG-4-1024x625.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-4.jpg)
 
 Durante el GFCDC se rifaron dos paquetes con todos los gastos pagos para asistir en noviembre de este año al **Gran Fondo de Ciclismo de Egan Bernal** en **Colombia**, los cuales recayeron en los participantes de la prueba de 125 kilómetros **Ericka Urrea** y **Thomas Silveira**.
 

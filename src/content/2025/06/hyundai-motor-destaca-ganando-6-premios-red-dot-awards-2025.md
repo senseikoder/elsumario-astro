@@ -33,7 +33,7 @@ Junto con los **iF Design Awards** y los **International Design Excellence Aw
 
 “Nos sentimos profundamente honrados de haber sido reconocidos con el prestigioso **Premio Red Dot** por el diseño innovador de nuestro producto”, declaró **SangYup Lee, Vicepresidente Ejecutivo y Director de Diseño Global de Hyundai y Genesis**. “Estos premios son el resultado de la filosofía de diseño única de Hyundai y su inspiración vanguardista. Mantenemos nuestro compromiso de ofrecer a nuestros clientes experiencias de movilidad únicas inspiradas en nuestra visión de marca: **'Progreso para la Humanidad'”**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vocero-Hyundai.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Vocero-Hyundai.jpg)
 
 ## **Diseño de cada producto galardonado y sus características clave**
 

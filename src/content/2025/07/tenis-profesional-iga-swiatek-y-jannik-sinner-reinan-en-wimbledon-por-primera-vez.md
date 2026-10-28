@@ -37,7 +37,7 @@ El italiano, ingresó su nombre a la tabla de campeones que domina el suizo **R.
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/JS-Imagen-referencial-principal-Wimbledon.jpg)](http://elsumario.com/wp-content/uploads/2025/07/JS-Imagen-referencial-principal-Wimbledon.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/JS-Imagen-referencial-principal-Wimbledon.jpg)](http://elsumario.com/wp-content/uploads/2025/07/JS-Imagen-referencial-principal-Wimbledon.jpg)
 
 <figcaption>
 

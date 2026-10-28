@@ -31,13 +31,13 @@ coverImage: "ES-y-PV-Destacada-o-principal-BA.jpg"
 
 Durante **10 sábados de los meses de julio/agosto y noviembre/diciembre**, Bancamiga abrió sus agencias en Caracas y el interior, con el fin de aperturar cuentas a **niños y adolescentes cedulados entre los 9 y 17 años**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Para-acompanar-cuerpo-de-texto-1-BA-1024x732.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-1-BA.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-1-BA-1024x732.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-1-BA.jpg)
 
 Esta iniciativa **también sirvió para bancarizar a 6.875 adultos, de los cuales 4.097 abrieron su cuenta en divisas (dólares/euros) y 63 en pesos**.
 
 En estos operativos especiales Kids, **[Bancamiga](https://www.instagram.com/bancamiga/?hl=es) obsequió la Tarjeta de Débito Mastercard que en sus distintas versiones, cuenta con tecnología Contactless (sin contacto) y ofrece la posibilidad de pagar en puntos de venta, hacer recargas de telefonía celular y pago móvil**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Para-acompanar-cuerpo-de-texto-2-BA-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-2-BA.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-2-BA-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-2-BA.jpg)
 
 Una vez culminado el proceso de apertura de cuenta, los niños y adolescentes deben dirigirse a **[www.bancamiga.com](http://www.bancamiga.com)**, ir a la sección Kids y seguir los pasos para registrarse, explica la institución financiera en un comunicado.
 
@@ -47,7 +47,7 @@ Para Bancamiga, el éxito alcanzado este año con Kids establece bases firmes pa
 
 El **Presidente de la Junta Directiva de Bancamiga**, **José Simón Elarba**, indicó que la bancarización de niños y adolescentes es **una forma de inculcar desde temprana edad la importancia del manejo responsable del dinero**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Para-acompanar-cuerpo-de-texto-3-BA-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-3-BA.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-3-BA-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Para-acompanar-cuerpo-de-texto-3-BA.jpg)
 
 “Es una manera de formar hábitos financieros sólidos que perduran en la adultez. **Los niños aprenden a valorar el esfuerzo detrás del dinero y a priorizar sus necesidades**. Esto promueve independencia económica y confianza en los servicios financieros digitales”, agregó Elarba.
 

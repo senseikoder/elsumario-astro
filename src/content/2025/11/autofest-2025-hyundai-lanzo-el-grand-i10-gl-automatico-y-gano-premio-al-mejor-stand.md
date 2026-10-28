@@ -35,7 +35,7 @@ A lo largo del **AutoFest**, **Hyundai** registró un total de [75 reservas d
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Grand-i10-Referencial-B-1024x541.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Grand-i10-Referencial-B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Grand-i10-Referencial-B-1024x541.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Grand-i10-Referencial-B.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Más de **22.000 asistentes** disfrutaron de la experiencia **Hyundai**, dond
 
 ### **Reconocimiento al Mejor Stand Empresarial**
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Vzla-Imagen-referencial-AutoFest.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Hyundai-Vzla-Imagen-referencial-AutoFest.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Hyundai-Vzla-Imagen-referencial-AutoFest.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Hyundai-Vzla-Imagen-referencial-AutoFest.jpg)
 
 El **premio al Mejor Stand Empresarial** otorgado por los organizadores del **AutoFest** se adjudicó a **Hyundai Venezuela**. Fue destacada la excelencia del diseño, la atención al cliente y su coherencia con la identidad global de la marca.  
   

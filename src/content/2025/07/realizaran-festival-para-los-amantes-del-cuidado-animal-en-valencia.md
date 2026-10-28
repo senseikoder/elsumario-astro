@@ -38,7 +38,7 @@ El lugar o locación contará con zonas para expositores y emprendedores, así
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Redes-sociales-819x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-Redes-sociales.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-Redes-sociales-819x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-Redes-sociales.jpg)
 
 <figcaption>
 

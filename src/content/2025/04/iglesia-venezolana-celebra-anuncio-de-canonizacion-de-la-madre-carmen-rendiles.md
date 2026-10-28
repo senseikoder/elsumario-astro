@@ -26,7 +26,7 @@ coverImage: "Madre-Carmen-Rendiles.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Madre-Carmen-2.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Madre-Carmen-2.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Madre-Carmen-2.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Madre-Carmen-2.jpg)
 
 <figcaption>
 
@@ -46,7 +46,7 @@ Por su parte, la vicaria general de la Congregación Siervas de Jesús, Carmen E
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/placas-Carmen-Rendiles.jpg)](http://elsumario.com/wp-content/uploads/2025/04/placas-Carmen-Rendiles.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/placas-Carmen-Rendiles.jpg)](http://elsumario.com/wp-content/uploads/2025/04/placas-Carmen-Rendiles.jpg)
 
 <figcaption>
 

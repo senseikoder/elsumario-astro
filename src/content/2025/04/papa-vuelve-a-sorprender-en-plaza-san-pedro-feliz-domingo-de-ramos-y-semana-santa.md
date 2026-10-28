@@ -27,7 +27,7 @@ Se trató de una nueva aparición en público o visita sorpresa del pontífice c
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Papa-Francisco-Domingo-de-ramos-VATICAN-MEDIA-Divisione-.jpeg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Papa-Francisco-Domingo-de-ramos-VATICAN-MEDIA-Divisione-.jpeg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Papa-Francisco-Domingo-de-ramos-VATICAN-MEDIA-Divisione-.jpeg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Papa-Francisco-Domingo-de-ramos-VATICAN-MEDIA-Divisione-.jpeg)
 
 <figcaption>
 

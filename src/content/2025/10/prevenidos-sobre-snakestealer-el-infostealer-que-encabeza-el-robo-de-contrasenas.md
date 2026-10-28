@@ -34,7 +34,7 @@ Durante 2020 y 2021 este código malicioso [vio su pico en cuanto a campañas](
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-Acompanamiento-del-texto.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-B-Acompanamiento-del-texto.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-B-Acompanamiento-del-texto.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-B-Acompanamiento-del-texto.jpg)
 
 <figcaption>
 

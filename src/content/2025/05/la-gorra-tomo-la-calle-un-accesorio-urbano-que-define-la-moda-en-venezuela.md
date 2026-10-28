@@ -34,13 +34,13 @@ coverImage: "Gorras-Vzla.jpg"
 
 ### La gorra: señal clave de cómo somos
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/variedad-para-cada-gusto-o-preferencia.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/05/variedad-para-cada-gusto-o-preferencia.jpg)
 
 No importa si es para un día en la universidad, una salida al centro comercial o un concierto, **la gorra es protagonista**. Los jóvenes venezolanos la usan como expresión de actitud y estilo propio. Desde modelos deportivos hasta piezas gráficas con mensajes o referencias culturales, la gorra se ha vuelto tan esencial como unos buenos _sneakers_ o una camiseta _oversized_.
 
 ### Del sol a la tarima: la gorra como emblema del estilo criollo
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/dragon-ball.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/05/dragon-ball.jpg)
 
 Inspirada por el rap, el reguetón, el _skate_ y las calles vibrantes del país, **la moda urbana local se ha adueñado de la gorra**. Pero no como moda pasajera, sino como un elemento cultural: un lienzo donde se combinan y plasman diseño, identidad nacional y códigos estéticos que reflejan lo que somos.
 
@@ -48,7 +48,7 @@ Hoy, llevar una gorra **no es solo una cuestión de moda: es una forma de hablar
 
 ### Gorras con historia y cultura pop
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/referencia-epicas.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/05/referencia-epicas.jpg)
 
 Bordados personalizados, frases icónicas, guiños a series animadas, videojuegos, anime y elementos de la venezolanidad hacen que cada gorra tenga una historia. Esto ha abierto paso a colecciones con valor simbólico, casi como si se tratara de _trading cards_ del _streetwear_ criollo.
 
@@ -56,7 +56,7 @@ Bordados personalizados, frases icónicas, guiños a series animadas, videojuego
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Gorras-Tiendas.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/05/Gorras-Tiendas.jpg)
 
 <figcaption>
 

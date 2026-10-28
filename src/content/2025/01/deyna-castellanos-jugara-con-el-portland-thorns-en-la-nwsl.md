@@ -29,7 +29,7 @@ Cabe destacar que **Castellanos** cuenta con positiva experiencia en el fútbo
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Deyna-Caastellanos-Cuenta-de-Facebook.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/01/Imagen-referencial-Deyna-Caastellanos-Cuenta-de-Facebook.jpg)
 
 <figcaption>
 

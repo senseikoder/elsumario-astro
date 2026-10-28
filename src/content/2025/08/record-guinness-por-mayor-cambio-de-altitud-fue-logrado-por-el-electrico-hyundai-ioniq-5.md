@@ -27,7 +27,7 @@ El evento fue organizado en su momento por _**Hyundai Motor India Limited (HMIL)
 
 La extraordinaria hazaña se logró durante 14 días, enfrentando terrenos desafiantes y condiciones climáticas extremas; demostrando así la resistencia, tecnología avanzada y rendimiento del **Hyundai IONIQ 5**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/B-1024x560.jpg)](https://elsumario.com/wp-content/uploads/2025/08/B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/B-1024x560.jpg)](https://elsumario.com/wp-content/uploads/2025/08/B.jpg)
 
 A lo largo del recorrido -se explica- este modelo de _Hyundai_ reafirmó su posición como referente en movilidad eléctrica, sorteando sin problemas entornos hostiles, desde **temperaturas gélidas y** **escarpados pasos de montaña en el** **Himalaya**, hasta **regiones costeras húmedas en Kerala**.
 
@@ -35,7 +35,7 @@ A lo largo del recorrido -se explica- este modelo de _Hyundai_ reafirmó su posi
 
 **Unsoo Kim**, **Director General de Hyundai Motor India Limited**, expresó respecto a este éxito y resultado: “Estamos increíblemente orgullosos de ver al **Hyundai IONIQ 5** hacer historia al lograr el [**Récord Mundial Guinness™**](https://www.guinnessworldrecords.com/) por el mayor cambio de altitud logrado por un automóvil eléctrico. Este logro es un testimonio del compromiso inquebrantable de Hyundai con la innovación, la excelencia tecnológica y la sostenibilidad. El rendimiento del IONIQ 5 en condiciones tan extremas refleja su destreza en ingeniería y su durabilidad. En **Hyundai**, nos dedicamos a superar los límites y establecer nuevos puntos de referencia en movilidad eléctrica, y este récord refuerza aún más nuestra visión de _'Progreso para la humanidad'_**”**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/A.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/A.jpg)
 
 El Hyundai IONIQ 5, desarrollado sobre la _plataforma modular eléctrica global de última generación (E-GMP)_, ha sido diseñado para redefinir las experiencias de movilidad inteligente. Presenta un diseño futurista y progresivo, inspirado en el icónico **PONY de Hyundai**, como un paso revolucionario hacia una nueva era de movilidad eléctrica.
 

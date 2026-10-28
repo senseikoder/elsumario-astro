@@ -31,7 +31,7 @@ La primera gran polémica de la 64 edición del festival, también llevó a los 
 
 <figure>
 
-[![George Harris](https://tu-r2-bucket.r2.cloudflarestorage.com/images/George-Harris-1024x625.jpg)](http://elsumario.com/wp-content/uploads/2025/02/George-Harris.jpg)
+[![George Harris](http://elsumario.com/wp-content/uploads/2025/02/George-Harris-1024x625.jpg)](http://elsumario.com/wp-content/uploads/2025/02/George-Harris.jpg)
 
 <figcaption>
 

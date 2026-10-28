@@ -27,7 +27,7 @@ Del mismo modo, "Eco’s Sports Park", un complejo deportivo y de entretenimient
 
 El gastrobar, "Pira Rum", precisó que abrirá sus puertas para que los fanáticos de Bad Bunny puedan observar el espectáculo.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Bad-Bunny-3.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Bad-Bunny-3.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Bad-Bunny-3.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Bad-Bunny-3.jpg)
 
 El concierto estará disponible gratis a nivel mundial en la aplicación de **_Amazon Music_** y en el canal de Amazon Music en Twitch (@AmazonMusic), y también será transmitido por _**Prime Video**_ para todos los clientes de _Amazon_.
 

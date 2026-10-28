@@ -28,7 +28,7 @@ De acuerdo con el doctor Echenique, el **concepto central de esta especialidad 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-774x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-A.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-A-774x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-A.jpg)
 
 <figcaption>
 

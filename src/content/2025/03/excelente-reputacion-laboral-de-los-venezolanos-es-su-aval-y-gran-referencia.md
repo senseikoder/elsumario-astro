@@ -50,7 +50,7 @@ Dos aspectos potencian la fuerza laboral venezolana en la región, el compromiso
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/christina-wocintechchat-com-YCrgxs3e9lY-unsplash-1024x629.jpg)](http://elsumario.com/wp-content/uploads/2025/03/christina-wocintechchat-com-YCrgxs3e9lY-unsplash.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/christina-wocintechchat-com-YCrgxs3e9lY-unsplash-1024x629.jpg)](http://elsumario.com/wp-content/uploads/2025/03/christina-wocintechchat-com-YCrgxs3e9lY-unsplash.jpg)
 
 <figcaption>
 

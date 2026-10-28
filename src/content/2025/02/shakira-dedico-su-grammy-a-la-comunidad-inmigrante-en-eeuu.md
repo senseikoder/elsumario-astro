@@ -26,9 +26,7 @@ coverImage: "Shakira.jpg"
 
 El mensaje de la **cantante colombiana** llega en un momento de tensión política con la llegada al poder de **Donald Trump** a la **Casa Blanca**, quien prometió la mayor deportación de latinoamericanos de la historia de suelo estadounidense.
 
-\<figure class="wp-caption alignnone" style="max-width:1920px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jennifer-Lopez-y-Shakira.jpg "Shakira"" alt="Shakira" />
-<figcaption>Jennifer López entregó a Shakira su premio Gammy</figcaption></figure>
+\[caption id="attachment\_338653" align="alignnone" width="1920"\][![Shakira](http://elsumario.com/wp-content/uploads/2025/02/Jennifer-Lopez-y-Shakira.jpg "Shakira")](http://elsumario.com/wp-content/uploads/2025/02/Jennifer-Lopez-y-Shakira.jpg) Jennifer López entregó a Shakira su premio Gammy\[/caption\]
 
 El disco de Shakira logró el reconocimiento de la **Academia de la Grabación** frente a "Funk Generation", de Anitta; "El Viaje", de Luis Fonsi; "GARCÍA", de la puertorriqueña Kany García; y "ORQUÍDEAS", de la colombo estadounidense Kali Uchis.
 

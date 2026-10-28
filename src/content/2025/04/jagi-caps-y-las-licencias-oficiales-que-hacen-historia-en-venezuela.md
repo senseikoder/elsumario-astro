@@ -48,7 +48,7 @@ coverImage: "Destacada-ES-scooby-doo-snoopy.jpg"
 
 **El Sumario** - El **equipo creativo y de producción** en **Jagi Caps** no solo diseña gorras, **genera** **cultura pop** para distinguir y lucir en nuestras cabezas. En esta oportunidad Jagi ha presentado y expuesto en su conjunto, con sólido respaldo y fortaleza, que **cuentan con un impresionante catálogo o portafolio de licencias oficiales para Venezuela**, lo cual les permite y hace posible llevar a otro nivel el diseño, la calidad así como la originalidad de cada pieza que lanzan, convirtiéndolas en **moda** de acuerdo con la preferencia y estilo de sus **muchos -aunque a la vez distinguidos- clientes, seguidores y usuarios**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/MLB-Rick-and-Morty-1024x641.jpg)](http://elsumario.com/wp-content/uploads/2025/04/MLB-Rick-and-Morty.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/MLB-Rick-and-Morty-1024x641.jpg)](http://elsumario.com/wp-content/uploads/2025/04/MLB-Rick-and-Morty.jpg)
 
 Algunas de las prestigiosas licencias que forman parte del **universo Jagi**, son:
 
@@ -76,7 +76,7 @@ Algunas de las prestigiosas licencias que forman parte del **universo Jagi**, so
 
 **• MLB** (_Major League Baseball_) – **Incluyendo equipos legendarios** como los **Yankees, Dodgers, Red Sox** y más.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/harry-potter-gumbal-1024x641.jpg)](http://elsumario.com/wp-content/uploads/2025/04/harry-potter-gumbal.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/harry-potter-gumbal-1024x641.jpg)](http://elsumario.com/wp-content/uploads/2025/04/harry-potter-gumbal.jpg)
 
 ## **Qué significa esto: Cero piratería, autenticidad**
 
@@ -86,7 +86,7 @@ Algunas de las prestigiosas licencias que forman parte del **universo Jagi**, so
 
 **[Jagi Caps](https://www.instagram.com/jagicapsve/)**, **líder en Venezuela de esta categoría y segmento de mercado**, subraya **el poder de una gorra con licencia oficial**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Destacada-DLL-mortal-kombat-looney-tunes-1024x641.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Destacada-DLL-mortal-kombat-looney-tunes.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Destacada-DLL-mortal-kombat-looney-tunes-1024x641.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Destacada-DLL-mortal-kombat-looney-tunes.jpg)
 
 **_De interés: [Jagi Caps y Flow Brass impregnaron de música el Sambil La Candelaria](https://elsumario.com/jagi-caps-y-flow-brass-impregnaron-de-musica-poderosa-el-sambil-la-candelaria/)_**
 

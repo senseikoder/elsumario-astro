@@ -24,7 +24,7 @@ coverImage: "Maraton-CAF.jpg"
 
 En una rueda de prensa, los organizadores del evento informaron que las inscripciones estarán abiertas desde el próximo 1 de septiembre al 8 de diciembre, o hasta agotar los cupos, tal como sucedió, por primera vez, en 2025.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/1_FOTO_PANEL_Maraton_CAF-1024x550.jpg)](https://elsumario.com/wp-content/uploads/2025/08/1_FOTO_PANEL_Maraton_CAF.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/1_FOTO_PANEL_Maraton_CAF-1024x550.jpg)](https://elsumario.com/wp-content/uploads/2025/08/1_FOTO_PANEL_Maraton_CAF.jpg)
 
 Se dispondrá de 2.000 plazas para la distancia de 42K, de 5.200 para la de 21K y de 2.800 para la de 10K.
 
@@ -32,7 +32,7 @@ El vicepresidente corporativo de Programación Estratégica de CAF, **Christian 
 
 Los reconocimientos se dan por las mejores prácticas en materia de responsabilidad social y medioambiental, en cuanto a la gestión de residuos, del agua, cálculo de huella de carbono, consumo energético, entre otras.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/2_FOTO_AUDITORIO_Maraton_CAF-1024x595.jpg)](https://elsumario.com/wp-content/uploads/2025/08/2_FOTO_AUDITORIO_Maraton_CAF.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/2_FOTO_AUDITORIO_Maraton_CAF-1024x595.jpg)](https://elsumario.com/wp-content/uploads/2025/08/2_FOTO_AUDITORIO_Maraton_CAF.jpg)
 
 En 2023, los corredores Magaly García (Venezuela) y Justino Da Silva (Brasil) rompieron récords del Maratón CAF, con un tiempo de 2h36:07 y 2h16:15 en 42K, respectivamente, destacó Asinelli, y confió en que en esta décima edición se batan nuevas marcas.
 

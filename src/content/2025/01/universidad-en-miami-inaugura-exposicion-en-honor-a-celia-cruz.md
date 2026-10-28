@@ -27,7 +27,7 @@ La exposición, organizada en colaboración con **Omer Pardillo Cid**, albacea d
 
 El **homenaje** no sólo celebra la **trayectoria artística** de la cantante, sino también su inquebrantable compromiso a lo largo de su vida con su público en general y con su gente de Cuba en particular, señala la nota.
 
-[![Celia Cruz](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Homenaje-Celia-Cruz.jpg "Celia Cruz")](http://elsumario.com/wp-content/uploads/2025/01/Homenaje-Celia-Cruz.jpg)
+[![Celia Cruz](http://elsumario.com/wp-content/uploads/2025/01/Homenaje-Celia-Cruz.jpg "Celia Cruz")](http://elsumario.com/wp-content/uploads/2025/01/Homenaje-Celia-Cruz.jpg)
 
 Igualmente, la coincidencia del centenario de Celia Cruz con el de la ciudad de **Hialeah** y la **Torre de la Libertad** subraya la profunda conexión de la artista con la **comunidad cubana** de Miami.
 

@@ -29,7 +29,7 @@ Después de dos oportunidades desperdiciadas, el delantero **Enner Valencia** ab
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Enner-Valencia.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Enner-Valencia.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Enner-Valencia.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Enner-Valencia.jpg)
 
 <figcaption>
 

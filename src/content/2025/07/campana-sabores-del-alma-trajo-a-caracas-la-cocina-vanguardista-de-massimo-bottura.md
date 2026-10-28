@@ -29,7 +29,7 @@ coverImage: "Massimo-Botura-equipo-ES-y-PV.jpg"
 
 Junto a un grupo de cocineros venezolanos y otros que le acompañaron desde Italia, el hombre nacido en Módena en 1962, deleitó a los asistentes con un menú que incluyó ternera, láminas de pasta tricolor, puré de patatas, un arroz con infusión cítrica y el infaltable Parmigiano Reggiano, pero sobre todo puso de manifiesto mucha creatividad, sapiencia y una técnica impecable.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Massimo-Botura-Bancamiga-DLL.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Massimo-Botura-Bancamiga-DLL.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/Massimo-Botura-Bancamiga-DLL.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Massimo-Botura-Bancamiga-DLL.jpg)
 
 El Presidente de la Junta Directiva de [Bancamiga](https://www.instagram.com/bancamiga/?hl=es), **José Simón Elarba**, expresó su complacencia porque un grupo de clientes de la institución haya tenido la posibilidad de degustar los platos de Bottura, quien ha logrado **tres estrellas Michelin** y **una estrella Michelin verde** por su compromiso con el medio ambiente.
 
@@ -49,7 +49,7 @@ Sobre Bottura el Presidente de la Junta Directiva de Bancamiga indicó que “su
 
 Con la campaña “Sabores del Alma”, Bancamiga busca conectar con sus clientes a través de sus pasiones. La comida siempre ha sido un elemento poderoso porque conecta con el presente y con emociones muy positivas del pasado. Es una vía para ofrecer experiencias gastronómicas inolvidables y para que los clientes se acerquen a productos y servicios financieros que ayudan a vivir esos momentos de una manera diferente.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Massimo-Bottura-Bancamiga-BFN.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Massimo-Bottura-Bancamiga-BFN.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/Massimo-Bottura-Bancamiga-BFN.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Massimo-Bottura-Bancamiga-BFN.jpg)
 
 “Con Sabores del Alma recogemos todos los valores del banco. Es un programa que conecta, inspira y está hecho con esa filosofía de compromiso y pasión con la que cada día nuestros colaboradores enfrentan sus responsabilidades. Es una forma de devolver a un grupo de nuestros selectos clientes todo lo que dan por el banco”, subrayó Elarba.
 

@@ -27,7 +27,7 @@ La **selección nacional** de **fútbol** logró imponerse con gol de **Salomón
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Salomon-Rondon-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Salomon-Rondon.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Salomon-Rondon-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Salomon-Rondon.jpg)
 
 <figcaption>
 

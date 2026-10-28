@@ -29,7 +29,7 @@ Bajo el lema 'Sociedades sostenibles a través de la robótica', la muestra arra
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/ff8273096966676218e398beba221e3c5baef468m-e1764790315417.jpg)](https://elsumario.com/wp-content/uploads/2025/12/ff8273096966676218e398beba221e3c5baef468m-e1764790315417.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/ff8273096966676218e398beba221e3c5baef468m-e1764790315417.jpg)](https://elsumario.com/wp-content/uploads/2025/12/ff8273096966676218e398beba221e3c5baef468m-e1764790315417.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ Esta tecnología busca dar la capacidad a máquinas como robots o vehículos de 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/fc4a54c8745798bd50921c8c512d3c66dc65459dm.jpg)](https://elsumario.com/wp-content/uploads/2025/12/fc4a54c8745798bd50921c8c512d3c66dc65459dm.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/fc4a54c8745798bd50921c8c512d3c66dc65459dm.jpg)](https://elsumario.com/wp-content/uploads/2025/12/fc4a54c8745798bd50921c8c512d3c66dc65459dm.jpg)
 
 <figcaption>
 

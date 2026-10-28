@@ -41,7 +41,7 @@ Creada la Asociación Civil, **comenzó la búsqueda del terreno**. Había uno "
 
 Ante el asombro y la alegría de los visitantes, la señora relató que "uno de mis hijos, cuando era niño, tenía una enfermedad que parecía incurable y **le pedí a la Virgen de Fátima que intercediera y mi hijo se curó...** es una deuda que tengo con la Virgen".
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/1744491097747-ES-C-576x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/1744491097747-ES-C.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/1744491097747-ES-C-576x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/1744491097747-ES-C.jpg)
 
 ## **De la primera piedra a las misas en el estacionamiento**
 
@@ -63,7 +63,7 @@ Para Dib, la construcción del Santuario de la Virgen de Fátima en Venezuela **
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Padre-Henry-e1744550229172.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Padre-Henry-e1744550229172.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Padre-Henry-e1744550229172.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Padre-Henry-e1744550229172.jpg)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ Cuando el padre José Antonio Da Conceicao Ferreira es designado obispo de Puert
 
 La pieza ya fue donada por el Sr. **Norberto Freitas**, según informa la cuenta de Instagram [**@santuariodefatimavzla**](https://www.instagram.com/santuariodefatimavzla/)
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/1744491146011-ES-D-663x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/1744491146011-ES-D.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/1744491146011-ES-D-663x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/1744491146011-ES-D.jpg)
 
 Rivero precisó que **en mayo hay dos grandes celebraciones**: El 13, la aparición de la Virgen de Fátima y 5 días después, **el domingo 18, un Gran Arraial (fiesta popular)** en honor a Nuestra Señora de Fátima, en beneficio de la construcción del Santuario.
 
@@ -111,7 +111,7 @@ El Santuario de la Virgen de Fátima dio a conocer su **programación para la** 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/1744491061824-ES-B-706x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/1744491061824-ES-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/1744491061824-ES-B-706x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/1744491061824-ES-B.jpg)
 
 <figcaption>
 

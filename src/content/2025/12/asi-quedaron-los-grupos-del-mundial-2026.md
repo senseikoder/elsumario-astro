@@ -27,15 +27,15 @@ La ceremonia de apertura estuvo a cargo del tenor italiano **Andrea Bocelli**. E
 
 El presidente de la FIFA, **Gianni Infantino**, le otorgó al mandatario estadounidense, **Donald Trump**, el primer **Premio de la Paz de la FIFA**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Donald-Trump-Giannu-Infantino.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Donald-Trump-Giannu-Infantino.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Donald-Trump-Giannu-Infantino.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Donald-Trump-Giannu-Infantino.jpg)
 
 Después de hora y media de entrevistas, videos y música, los mandatarios de **Estados Unidos**, **México** y **Canadá**, países anfitriones de la **Copa del Mundo 2026**, sacaron las bolitas de sus respectivos países para dar comienzo al sorteo.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Infantino-EEUU-Mexico-Canada.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Infantino-EEUU-Mexico-Canada.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Infantino-EEUU-Mexico-Canada.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Infantino-EEUU-Mexico-Canada.jpg)
 
 Las leyendas y estrellas deportivas **Shaquille O'neal,** T**om Brady**, **Wayne Gretzky**, **Tom Brady** y **Aaron Judge** fueron los encargados de sacar las bolitas de los países para iniciar el sorteo.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Sorteo-del-Mundial.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Sorteo-del-Mundial.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Sorteo-del-Mundial.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Sorteo-del-Mundial.jpg)
 
 A continuación, te decimos cómo quedaron los grupos del Mundial 2026:
 

@@ -28,7 +28,7 @@ Este triunfo no solo es un hito deportivo, sino también un reflejo de la sólid
 
 Durante el partido, [Bancamiga](https://www.instagram.com/bancamiga/?hl=es) desplegó un operativo especial de **bancarización** que incluyó apertura de cuentas, establecimiento de cuentas kids para los jóvenes seguidores, y la entrega de puntos de venta, acercando los servicios financieros a la comunidad trujillana con auténtico compromiso.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Para-acompanar-texto-2-compressed-1024x585.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-texto-2-compressed.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-texto-2-compressed-1024x585.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-texto-2-compressed.jpg)
 
 El entusiasmo se extendió al medio tiempo con **activaciones** de marca: **lanzamiento de gorras y franelas oficiales,** que fortalecieron aún más la identidad con la marca del público trujillano en las gradas.
 
@@ -36,7 +36,7 @@ Esta alianza no solo celebra la victoria de Trujillanos FC en el campo, sino que
 
 ¡Los Guerreros de la montaña ahora brillan con más fuerza, dentro y fuera de la cancha!
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Para-acompanar-texto-3-compressed-1024x623.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-texto-3-compressed.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-texto-3-compressed-1024x623.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-texto-3-compressed.jpg)
 
 **_De interés: [Tiburones de La Guaira conquistan la Copa Bancamiga por tercera ocasión](https://elsumario.com/tiburones-de-la-guaira-conquistan-la-copa-bancamiga-por-tercera-ocasion/)_**
 

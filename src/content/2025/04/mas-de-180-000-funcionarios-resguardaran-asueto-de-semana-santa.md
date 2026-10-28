@@ -25,7 +25,7 @@ El funcionario venezolano llamó a "prestar atención extrema" a los niños para
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Diosdado-Cabello-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Diosdado-Cabello.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Diosdado-Cabello-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Diosdado-Cabello.jpg)
 
 <figcaption>
 

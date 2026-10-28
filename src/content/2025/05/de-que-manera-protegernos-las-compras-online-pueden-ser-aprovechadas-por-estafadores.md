@@ -53,7 +53,7 @@ _“Estos son solo algunos escenarios entre tantísimos otros, como el_ _que inv
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-1.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/05/Imagen-referencial-B-1.jpg)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ Ejemplo de sitio falso en los resultados de búsqueda en Google "pasajes en micr
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C-2.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/05/Imagen-referencial-C-2.jpg)
 
 <figcaption>
 

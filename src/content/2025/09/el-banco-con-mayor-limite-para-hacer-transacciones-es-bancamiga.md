@@ -23,13 +23,13 @@ coverImage: "Imagen-destacada-o-principal-B.A.jpg"
 
 A partir de ahora, los clientes de Bancamiga podrán realizar **transferencias hasta Bs. 16.000.000** en el caso de personas jurídicas y **Bs. 1.000.000** para personas naturales. Las operaciones por **Pago Móvil suben hasta Bs. 250.000**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-1-Acompana-texto-819x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Imagen-referencial-1-Acompana-texto.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Imagen-referencial-1-Acompana-texto-819x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Imagen-referencial-1-Acompana-texto.jpg)
 
 La institución financiera ha informado que, también los clientes podrán efectuar **transacciones sin límites al usar las tarjetas Bancamiga** en los **casi 200.000 puntos de venta Bancamiga distribuidos en el país**, que además ofrecen a los comercios la posibilidad de efectuar recargas y pagos de servicios de Inter, Simple TV, Movistar, Movilnet, Digitel y Cantv; sellar el 5y6 y jugar loterías.
 
 **En caso de usar las tarjetas** [**Bancamiga**](https://www.bancamiga.com/) **en puntos de otros bancos, el límite diario será de Bs. 400.000**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-2-Acompana-texto-819x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Imagen-referencial-2-Acompana-texto.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Imagen-referencial-2-Acompana-texto-819x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Imagen-referencial-2-Acompana-texto.jpg)
 
 De esta manera, **Bancamiga responde a las solicitudes de los clientes y ratifica su compromiso con el desarrollo financiero de los venezolanos**.
 

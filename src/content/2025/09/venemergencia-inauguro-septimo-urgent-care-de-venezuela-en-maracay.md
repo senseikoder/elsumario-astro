@@ -42,11 +42,11 @@ El Dr. González Silén destacó que con esta inauguración de Urgent Care Marac
 
 Esta sede consolida también la **alianza de Venemergencia con Proyecto Remo** para **promover la lectura en las microbibliotecas "Dr. José María Vargas"** bajo la dinámica o fórmula de **“toma un libro, lleva un libro”** que mejora la experiencia de quienes van a Urgent Care, promoviendo la experiencia lectora y generando toda una **red de ciudadanía y confianza**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Parte-de-las-instalaciones.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Parte-de-las-instalaciones.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Parte-de-las-instalaciones.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Parte-de-las-instalaciones.jpg)
 
 A la inauguración asistieron periodistas, empresarios locales y fue precedida por varios encuentros con corredores de seguros. El evento contó con la destacada participación de la **agrupación Quattro Corde de El Sistema** quienes deleitaron a los asistentes con sus interpretaciones. Esto como parte de la **alianza institucional entre Fundación Venemergencia y El Sistema**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Inauguracion-musical.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Inauguracion-musical.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Inauguracion-musical.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Inauguracion-musical.jpg)
 
 Para más información y datos de utilidad, puedes seguir las cuentas de Instagram: **@venemergencia** **@fundacionvenemergencia** **@urgentcare.ve** 
 

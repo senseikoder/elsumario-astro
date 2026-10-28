@@ -38,7 +38,7 @@ coverImage: "egor-litvinov-nPU3eMvA8jI-unsplash.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/vadim-paripa-x4uksKFZMsA-unsplash-1024x495.jpg)](https://elsumario.com/wp-content/uploads/2025/08/vadim-paripa-x4uksKFZMsA-unsplash.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/vadim-paripa-x4uksKFZMsA-unsplash-1024x495.jpg)](https://elsumario.com/wp-content/uploads/2025/08/vadim-paripa-x4uksKFZMsA-unsplash.jpg)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ Fuente de esta imagen referencial: Vadim Paripa en Unsplash
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Marco-Rios-A.jpg)
+![](https://doblellave.com/wp-content/uploads/2023/10/Marco-Rios-A.jpg)
 
 <figcaption>
 

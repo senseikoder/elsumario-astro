@@ -32,13 +32,13 @@ Este domingo 16 a las 09:00 pm (hora local), regresa al país la **delegación v
 
 El equipo estuvo conformado por los atletas: **Belkis Zurita**, **Virginia Guevara**, **Joseph Marcano** y **Whilnner Lazo**, junto a sus compañeras unificadas: **Mariclara Aranguren** y **Keinerly Roca**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Delegacion-OEV-Torino-1-1024x695.jpeg)](http://elsumario.com/wp-content/uploads/2025/03/Delegacion-OEV-Torino-1.jpeg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Delegacion-OEV-Torino-1-1024x695.jpeg)](http://elsumario.com/wp-content/uploads/2025/03/Delegacion-OEV-Torino-1.jpeg)
 
 El cual recibió acompañamiento, colaboración y soporte del staff técnico integrado por: **Reinaldo Espinoza**, jefe de delegación; **Jean Carlos Caballero,** entrenador principal; **Miriam Dookie**, entrenadora asistente; Dra. **Lelia Bonillo**, médico de la delegación; así como **Evelyn Guiralt de Genty** y **María Alejandra Pellicer**, presidente honoraria y directora de comunicaciones respectivamente, de @oevenezuela
 
 Espinoza sobre la experiencia, dejó constancia que “estos fueron unos excelentes juegos, con una organización impecable. Los atletas, entrenadores y delegados hicieron uso de instalaciones de primer nivel, adecuada alimentación y un gran ambiente de competencia”.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-OEV-Resultados-1024x1024.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/03/Imagen-referencial-OEV-Resultados-1024x1024.jpg)
 
 \-Un agradecimiento especial para nuestros DAL (asistentes y enlaces con el Comité Organizador): **Michel Richard** y **Maha Eddaoudi**, quienes brindaron su apoyo incondicional a la delegación.
 

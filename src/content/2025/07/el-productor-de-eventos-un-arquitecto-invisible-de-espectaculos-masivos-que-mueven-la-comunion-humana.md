@@ -46,7 +46,7 @@ coverImage: "valentin-lacoste-JBYmUzFyMb4-unsplash.-AT.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/woshiyingxiong202-xvWzyxdG15E-unsplash-1024x680.jpg)](https://elsumario.com/wp-content/uploads/2025/10/woshiyingxiong202-xvWzyxdG15E-unsplash.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/woshiyingxiong202-xvWzyxdG15E-unsplash-1024x680.jpg)](https://elsumario.com/wp-content/uploads/2025/10/woshiyingxiong202-xvWzyxdG15E-unsplash.jpg)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ Un concierto no comienza cuando se encienden las luces del escenario, sino meses
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Augusto-Fereda.jpg)
+![](https://doblellave.com/wp-content/uploads/2023/09/Augusto-Fereda.jpg)
 
 <figcaption>
 

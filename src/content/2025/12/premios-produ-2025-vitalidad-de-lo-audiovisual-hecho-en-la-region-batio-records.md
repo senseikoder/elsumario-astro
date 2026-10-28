@@ -31,7 +31,7 @@ Escoger estos premios, entre tanta calidad audiovisual, fue una **ardua tarea pa
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bigwp-ChespiritoPP2025-1.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-ChespiritoPP2025-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/bigwp-ChespiritoPP2025-1.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-ChespiritoPP2025-1.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ La actriz y conductora **Galilea Montijo** recibió el Premio PRODU Honorífico 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Galilea-Montijo-1024x682.jpeg)](https://elsumario.com/wp-content/uploads/2025/12/Galilea-Montijo.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Galilea-Montijo-1024x682.jpeg)](https://elsumario.com/wp-content/uploads/2025/12/Galilea-Montijo.jpeg)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ El escritor de _Accidente_, **Leonardo Padrón**, dedicó el premio al fandom de
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bigwp-LeonardoPadronAccidenteNetflixPP2025-1.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-LeonardoPadronAccidenteNetflixPP2025-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/bigwp-LeonardoPadronAccidenteNetflixPP2025-1.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-LeonardoPadronAccidenteNetflixPP2025-1.jpg)
 
 <figcaption>
 

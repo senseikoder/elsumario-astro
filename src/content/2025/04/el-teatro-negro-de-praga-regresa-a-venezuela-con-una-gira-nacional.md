@@ -31,7 +31,7 @@ El Teatro Negro de Praga ha fascinado a audiencias de todas las edades alrededor
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/TEATRO-NEGRO-DE-PRAGA-1-1024x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/TEATRO-NEGRO-DE-PRAGA-1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/TEATRO-NEGRO-DE-PRAGA-1-1024x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/TEATRO-NEGRO-DE-PRAGA-1.jpg)
 
 <figcaption>
 

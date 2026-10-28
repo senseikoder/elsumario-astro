@@ -21,7 +21,7 @@ Actualmente Guiralt también lidera con acierto a la fundación **Venezuela Libr
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/La-nueva-presidenta-de-Fipan.jpg)](http://elsumario.com/wp-content/uploads/2025/05/La-nueva-presidenta-de-Fipan.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/La-nueva-presidenta-de-Fipan.jpg)](http://elsumario.com/wp-content/uploads/2025/05/La-nueva-presidenta-de-Fipan.jpg)
 
 <figcaption>
 
@@ -37,7 +37,7 @@ La presidencia de una federación tan emblemática como FIPAN no solo es un hono
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-B.jpg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ Olimpiadas Especiales Venezuela reafirma su compromiso con el trabajo colaborati
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-C.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-C.jpg)
 
 <figcaption>
 

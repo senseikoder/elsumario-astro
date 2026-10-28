@@ -31,7 +31,7 @@ coverImage: "Imagen-referencial-principal-Como-ayudar-a-los-adultos-mayores-para
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-complementaria-A-1024x766.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/11/Imagen-referencial-complementaria-A-1024x766.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ _Cantidad de víctimas de más de 60 años y pérdidas económicas por año. Fue
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-complementaria-B.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/11/Imagen-referencial-complementaria-B.jpg)
 
 <figcaption>
 

@@ -52,7 +52,7 @@ El taller de 8 horas académicas, es una experiencia presencial, teórico-práct
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/sandra-harris-BhZwh8JGOVg-unsplash-1024x660.jpg)](http://elsumario.com/wp-content/uploads/2025/07/sandra-harris-BhZwh8JGOVg-unsplash.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/sandra-harris-BhZwh8JGOVg-unsplash-1024x660.jpg)](http://elsumario.com/wp-content/uploads/2025/07/sandra-harris-BhZwh8JGOVg-unsplash.jpg)
 
 <figcaption>
 

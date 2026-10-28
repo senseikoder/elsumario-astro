@@ -34,7 +34,7 @@ El concierto tuvo lugar en la emblemática **Aula Magna de la Universidad Centra
 
 <figure>
 
-[![Concierto - Santos venezolanos](https://tu-r2-bucket.r2.cloudflarestorage.com/images/917ba6ddcf146c42dcca599b452f7f45a4df0a7am.jpg)](https://elsumario.com/wp-content/uploads/2025/09/917ba6ddcf146c42dcca599b452f7f45a4df0a7am.jpg)
+[![Concierto - Santos venezolanos](https://elsumario.com/wp-content/uploads/2025/09/917ba6ddcf146c42dcca599b452f7f45a4df0a7am.jpg)](https://elsumario.com/wp-content/uploads/2025/09/917ba6ddcf146c42dcca599b452f7f45a4df0a7am.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ Los años pasaron en el relato de ambos y, para 1918, **Quintero recordó que la
 
 <figure>
 
-[![Concierto santos venezolanos](https://tu-r2-bucket.r2.cloudflarestorage.com/images/1afeab4b387bc8af9c2e0fd2426874b3d497a22cm.jpg)](https://elsumario.com/wp-content/uploads/2025/09/1afeab4b387bc8af9c2e0fd2426874b3d497a22cm.jpg)
+[![Concierto santos venezolanos](https://elsumario.com/wp-content/uploads/2025/09/1afeab4b387bc8af9c2e0fd2426874b3d497a22cm.jpg)](https://elsumario.com/wp-content/uploads/2025/09/1afeab4b387bc8af9c2e0fd2426874b3d497a22cm.jpg)
 
 <figcaption>
 

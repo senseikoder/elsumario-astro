@@ -29,7 +29,7 @@ La **selección nacional** de **fútbol** no pudo hacer un buen partido frente a
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jugadores-uruguayos.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Jugadores-uruguayos.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Jugadores-uruguayos.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Jugadores-uruguayos.jpg)
 
 <figcaption>
 

@@ -37,9 +37,7 @@ El acuerdo es por **2,5 millones de dólares** (2,4 millones de euros) de la c
 
 ## De Portugal a los Estados Unidos
 
-\<figure class="wp-caption aligncenter" style="max-width:650px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/T.-Segovia-Imagen-referencial-Archivo.jpg" alt="" />
-<figcaption>El nuevo jugador del Inter Miami, Telasco Segovia (Fuente de esta imagen referencial: Archivo)</figcaption></figure> 
+\[caption id="attachment\_337455" align="aligncenter" width="650"\][![](http://elsumario.com/wp-content/uploads/2025/01/T.-Segovia-Imagen-referencial-Archivo.jpg)](http://elsumario.com/wp-content/uploads/2025/01/T.-Segovia-Imagen-referencial-Archivo.jpg) El nuevo jugador del Inter Miami, Telasco Segovia (Fuente de esta imagen referencial: Archivo)\[/caption\] 
 
 Segovia venía teniendo protagonismo en la **Liga Portuguesa** pues era parte del once titular del técnico **João Pereira**. Jugó 15 de 17 partidos esta temporada, sumando dos goles, y se marcha convirtiéndose en la venta más cara de **Casa Pia AC**.
 

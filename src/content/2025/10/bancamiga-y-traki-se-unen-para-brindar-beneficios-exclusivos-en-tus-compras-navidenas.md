@@ -26,7 +26,7 @@ coverImage: "Imagen-referencial-principal-para-ES-PV-y-BFN.jpg"
 
 La **Tarjeta Bancamiga-Traki** está concebida exclusivamente para su uso dentro de las tiendas Traki a escala nacional, lo que garantiza que cada compra realizada en estos espacios contribuya a una experiencia de compra personalizada y llena de ventajas, explica un comunicado de la institución bancaria.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-a-incluirse-dentro-del-cuerpo-de-texto-de-la-informacion-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-a-incluirse-dentro-del-cuerpo-de-texto-de-la-informacion.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-a-incluirse-dentro-del-cuerpo-de-texto-de-la-informacion-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-a-incluirse-dentro-del-cuerpo-de-texto-de-la-informacion.jpg)
 
 ## **Experiencias de compra que valoran y recompensan la lealtad de sus clientes**
 

@@ -26,13 +26,13 @@ En una nota de prensa, la CRV explicó que el memorando de entendimiento estable
 
 De esta forma se formaliza un "trabajo silencioso" de la institución "en las canchas desde el 2024".
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/FVF-CRV-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/05/FVF-CRV.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/FVF-CRV-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/05/FVF-CRV.jpg)
 
 Agregó la entidad que el objetivo es "garantizar condiciones óptimas de seguridad y atención ante cualquier eventualidad", con el fin de generar "un ambiente seguro y confiable tanto para los profesionales del deporte como para los aficionados".
 
 El presidente de la CRV, **Luis Farías**, expresó que esta alianza refleja la unión de dos instituciones que "comparten valores esenciales, como el compromiso, la solidaridad y el trabajo por el bienestar común, para potenciar el desarrollo de los jóvenes".
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/CRV-FVF-Vinotinto-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/05/CRV-FVF-Vinotinto.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/CRV-FVF-Vinotinto-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/05/CRV-FVF-Vinotinto.jpg)
 
 El presidente de la FVF, **Jorge Giménez**, reconoció el "trabajo que ya se viene haciendo de manera ejemplar, gracias al compromiso y la entrega" de los voluntarios de la Cruz Roja Venezolana.
 

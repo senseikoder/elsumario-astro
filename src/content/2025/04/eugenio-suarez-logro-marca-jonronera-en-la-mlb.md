@@ -30,7 +30,7 @@ Los cuadrangulares del **pelotero venezolano** se produjeron en la segunda, cuar
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Eugenio-Suarez-MLB-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Eugenio-Suarez-MLB.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Eugenio-Suarez-MLB-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Eugenio-Suarez-MLB.jpg)
 
 <figcaption>
 

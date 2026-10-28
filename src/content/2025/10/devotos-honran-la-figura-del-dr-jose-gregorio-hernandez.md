@@ -26,7 +26,7 @@ Una de las presentes, **María Teresa Borjas**, coordinadora del apostolado cent
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Dr.-Jose-Gregorio-Hernandez.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Dr.-Jose-Gregorio-Hernandez.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Dr.-Jose-Gregorio-Hernandez.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Dr.-Jose-Gregorio-Hernandez.jpg)
 
 <figcaption>
 

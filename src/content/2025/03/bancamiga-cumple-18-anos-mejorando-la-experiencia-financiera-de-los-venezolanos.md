@@ -45,7 +45,7 @@ El Presidente de la Junta Directiva de [Bancamiga](https://www.instagram.com/ban
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/73-colaboradores-comprometidos-recibieron-reconocimientos-por-10-y-5-anos-de-servicios-860x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/03/73-colaboradores-comprometidos-recibieron-reconocimientos-por-10-y-5-anos-de-servicios.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/73-colaboradores-comprometidos-recibieron-reconocimientos-por-10-y-5-anos-de-servicios-860x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/03/73-colaboradores-comprometidos-recibieron-reconocimientos-por-10-y-5-anos-de-servicios.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ La certificación PCI DSS (**Payment Card Industry Data Security Standard**) es 
 
 En los próximos años la innovación y la seguridad de los clientes continuarán siendo prioridad para Bancamiga, que mantendrá su expansión para llegar a **más lugares con nuevas oficinas** **y acercándose a más venezolanos con el Bancamiga Móvil**, adelanta y resume un comunicado de la institución bancaria en esta importante fecha.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Bancamiga-Referencial-Imagen-destacada-DLL-y-PV-1024x664.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Bancamiga-Referencial-Imagen-destacada-DLL-y-PV.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Bancamiga-Referencial-Imagen-destacada-DLL-y-PV-1024x664.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Bancamiga-Referencial-Imagen-destacada-DLL-y-PV.jpg)
 
 José Simón Elarba expuso que **Bancamiga seguirá reafirmando su compromiso con el desarrollo sostenible**, a través de distintas iniciativas en materia de **Responsabilidad Social**, donde **la capacitación será el hilo conductor de muchos de sus programas y proyectos**. Igual continuará demostrando su compromiso con la sociedad venezolana en salud, educación, ambiente y cultura.
 

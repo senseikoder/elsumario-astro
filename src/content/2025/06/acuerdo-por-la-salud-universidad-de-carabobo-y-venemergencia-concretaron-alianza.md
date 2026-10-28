@@ -27,7 +27,7 @@ Este es el primer desfibrilador externo automático que dona **Fundación Veneme
 
 La rectora de la Universidad de Carabobo, **Jessy Divo de Romero**, agradeció a Fundación Venemergencia en compañía de los decanos de esta casa de estudios superiores y destacó la importancia de la alianza, la cual es un gran paso para seguir trabajando en el fortalecimiento del sector salud, resaltando que “en nuestro sistema de salud debemos sumar todos; no importa si es una empresa privada, si es el sector oficial o si es la academia, hay que hacer alianzas para beneficio de todos”; enfatizó la principal autoridad de la institución universitaria.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C-1-1024x957.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-C-1-1024x957.jpg)
 
 ## **Cada segundo cuenta en una emergencia**
 
@@ -37,7 +37,7 @@ En el acto inaugural, el doctor **Luis Velásquez**, socio fundador de **Venemer
 
 Esta alianza entre [Fundación Venemergencia](https://www.instagram.com/fundacionvenemergencia/reels/) y la Universidad de Carabobo no solo busca proteger y fortalecer la salud de la comunidad universitaria, sino que también quiere promover el trabajo conjunto para elaborar una oferta académica para la profesionalización de los paramédicos y primeros respondedores de la comunidad.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-2-1024x636.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-A-2-1024x636.jpg)
 
 **_De interés: [Premio Especial Venemergencia será entregado en el Concurso Ideas, por cuarto año consecutivo](https://elsumario.com/premio-especial-venemergencia-sera-entregado-en-el-concurso-ideas-por-cuarto-ano-consecutivo/)_**
 

@@ -27,7 +27,7 @@ Explicó que **la actividad se repetirá simultáneamente en más de 80 países 
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Universidad-de-Formosa-Cortesia.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/11/Imagen-referencial-Universidad-de-Formosa-Cortesia.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ Informó que el año pasado, en su primera campaña, se recolectaron 5,5 tonelad
   
 Los interesados en participar en la jornada de recolección de alimentos pueden prontamente registrarse como voluntarios en la página [bancoalimentarve.org](http://bancoalimentarve.org/), sección "Quiero ser voluntario".
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/BAV-jornada-1024x724.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/11/BAV-jornada-1024x724.jpg)
 
 **_De interés:_** **_[Museo de los Niños renueva su compromiso y abre sus puertas a la Navidad](https://elsumario.com/museo-de-los-ninos-renueva-su-compromiso-y-abre-sus-puertas-a-la-navidad/)_**
 

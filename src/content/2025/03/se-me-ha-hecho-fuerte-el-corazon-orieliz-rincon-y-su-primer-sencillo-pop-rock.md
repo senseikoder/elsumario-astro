@@ -28,7 +28,7 @@ Con potente voz y emotivas letras, Orieliz Rincón avanza a conectarse con su au
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Orieliz-Rincon-Imagen-referencial-B.jpeg)
+![](https://purovinotinto.com/wp-content/uploads/2025/03/Orieliz-Rincon-Imagen-referencial-B.jpeg)
 
 <figcaption>
 
@@ -42,7 +42,7 @@ _"Se me ha hecho fuerte el corazón"_ refleja un viaje personal de lucha y esper
 
 Este lanzamiento se considera un paso clave y determinante en la carrera de Orieliz Rincón, presentándola como una artista que no solo tiene talento, sino también capacidad para conectar con la audiencia. Orieliz, quien ha trabajado duro para hacer realidad este lanzamiento, expresó su entusiasmo y agradecimiento por el apoyo recibido: _**“Este sencillo es muy especial para mí, ya que refleja una etapa importante de mi vida. Agradezco a todos los que han sido parte de este proyecto y han creído en mi música”**_.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/OR-Imagen-referencial-C.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/03/OR-Imagen-referencial-C.jpg)
 
 El estreno de “Se me ha hecho fuerte el corazón” marca el comienzo de una nueva etapa en la carrera de Orieliz Rincón, quien está decidida a dejar huella en la industria musical. Su autenticidad sumada a su pasión por la música la convierten en una prometedora artista y cantante. 
 

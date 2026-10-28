@@ -59,7 +59,7 @@ A continuación, ESET recopiló algunas imágenes de usuarios que en videos en _
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-1.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/Imagen-referencial-1.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ Usuarios de distintas partes del mundo comentan sus malas experiencias descargan
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/florian-olivo-Mf23RF8xArY-unsplash.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/florian-olivo-Mf23RF8xArY-unsplash.jpg)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ Fuente de esta imagen meramente referencial: Florian Olivo en Unsplash
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-2.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/Imagen-referencial-2.jpg)
 
 <figcaption>
 
@@ -97,7 +97,7 @@ Otra gran problemática de Solara surge a partir de la forma en la que se distri
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-3.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/Imagen-referencial-3.jpg)
 
 <figcaption>
 

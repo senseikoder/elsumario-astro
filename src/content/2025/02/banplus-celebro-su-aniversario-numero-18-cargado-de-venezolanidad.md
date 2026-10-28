@@ -45,7 +45,7 @@ Los asistentes disfrutaron de un **recorrido musical por los 4 calendarios que l
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Concierto-18-anos-Banplus-1024x503.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Concierto-18-anos-Banplus.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Concierto-18-anos-Banplus-1024x503.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Concierto-18-anos-Banplus.jpg)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ Una vez más, Banplus reafirma su compromiso de hacer país fomentando la cultur
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Orquesta-Simon-Diaz-Durante-el-Concierto-por-el-18-Aniversario-de-Banplus-1024x608.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/02/Orquesta-Simon-Diaz-Durante-el-Concierto-por-el-18-Aniversario-de-Banplus-1024x608.jpg)
 
 <figcaption>
 

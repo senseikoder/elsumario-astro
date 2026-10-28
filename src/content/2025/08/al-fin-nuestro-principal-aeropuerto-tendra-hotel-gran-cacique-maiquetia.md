@@ -27,7 +27,7 @@ Ha trascendido que, **aproximadamente en un mes se realizará la inauguración**
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-que-acompana-el-texto.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/08/Imagen-referencial-que-acompana-el-texto.jpg)
 
 <figcaption>
 

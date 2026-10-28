@@ -29,13 +29,13 @@ coverImage: "IMG-20250717-WA0007.jpg"
 
 Venemeregencia ya cuenta con seis salas propias que ofrecen atención de urgencias médicas a través de las principales aseguradoras del país, dos en Caracas y una en cada una de las siguientes ciudades: Valencia, Lechería, Maracaibo, Barquisimeto y otra en Maracay que abrirá sus puertas en septiembre. Alianzas estratégicas como las consolidadas con estas clínicas en la **Isla de Margarita** son un testimonio vivo de que sí existen maneras de brindar excelentes servicios de salud aplicando protocolos diseñados para conseguir una verdadera eficiencia de costos.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250717-WA0005-1024x686.jpg)](http://elsumario.com/wp-content/uploads/2025/07/IMG-20250717-WA0005.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/IMG-20250717-WA0005-1024x686.jpg)](http://elsumario.com/wp-content/uploads/2025/07/IMG-20250717-WA0005.jpg)
 
 A través de esta alianza, Urgent Care y sus **clínicas asociadas** garantizan una **experiencia médica integral,** con **tiempos de respuesta rápidos** y un **enfoque centrado en el paciente**. Especialmente ahora que arranca la temporada vacacional y la Isla de Margarita es uno de los destinos más visitados, esta es una noticia con un gran **impacto positivo para quienes hacen vida y visitan la isla**.
 
 “Esto no es solo un anuncio. Es una realidad que empieza hoy y seguirá creciendo en cada región del país. Nuestro objetivo es claro: estar donde más nos necesiten, acercando soluciones de salud confiables a más venezolanos”, expresó el Dr. **Andrés Simón González - Silén**, Director Ejecutivo de _Venemergencia Urgent Care_.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250717-WA0003-1024x831.jpg)](http://elsumario.com/wp-content/uploads/2025/07/IMG-20250717-WA0003.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/IMG-20250717-WA0003-1024x831.jpg)](http://elsumario.com/wp-content/uploads/2025/07/IMG-20250717-WA0003.jpg)
 
 En relación a esta alianza, el Ing. **Rafael Tovar**, Presidente del Centro Médico Quirúrugico La Fe explicó que esta colaboración implica poner al servicio de los pacientes una **infraestructura de excelente calidad**, con un equipo de profesionales de alto nivel y una impecable trayectoria en la isla. Todo bajo un esquema de atención que realmente genere valor en la calidad de vida de los pacientes.
 

@@ -27,7 +27,7 @@ Según informaron los organizadores, la undécima edición de este **festival ec
 
 Al mundialmente conocido cantante dominicano, se une [la banda venezolana Rawayana](https://x.com/Rawayana "la banda venezolana Rawayana ") y el grupo emergente puertorriqueño Chuwi, que ha logrado colocarse en el escenario global tras colaborar en el último álbum de **Bad Bunny**, **"Debí Tirar Más Fotos"**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Rawayana-Chuwi-y-Juan-Luis-Guerra.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Rawayana-Chuwi-y-Juan-Luis-Guerra.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Rawayana-Chuwi-y-Juan-Luis-Guerra.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Rawayana-Chuwi-y-Juan-Luis-Guerra.jpg)
 
 Los asistentes al Garnier Green Fest deben entregar, como en anteriores ediciones, el llamado **"green bag"** lleno de plástico reciclable en la entrada del evento.
 

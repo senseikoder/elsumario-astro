@@ -37,7 +37,7 @@ En la **víspera de 2026**, _Unión Radio_, entrevistó a **Rafael Núñez Apont
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/rafa.jpg)](https://elsumario.com/wp-content/uploads/2025/12/rafa.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/rafa.jpg)](https://elsumario.com/wp-content/uploads/2025/12/rafa.jpg)
 
 <figcaption>
 

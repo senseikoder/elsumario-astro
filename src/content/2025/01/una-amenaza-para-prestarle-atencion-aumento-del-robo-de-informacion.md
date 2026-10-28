@@ -39,23 +39,17 @@ Según los datos presentados en el [ESET Threat Report](https://web-assets.esets
 
 También conocido como **XLoader**, se difunde principalmente por medio de adjuntos maliciosos en correos electrónicos de **phishing**. Es un infostealer que recolecta datos del portapapeles, registros de tecleo, capturas de pantalla y cachés de navegadores web.
 
-\<figure class="wp-caption alignnone" style="max-width:675px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-1-1024x225.jpg" alt="" />
-<figcaption>Correo de phishing distribuyendo formbook</figcaption></figure>
+\[caption id="attachment\_330814" align="alignnone" width="675"\]![](https://doblellave.com/wp-content/uploads/2025/01/Imagen-referencial-B-1-1024x225.jpg) Correo de phishing distribuyendo formbook\[/caption\]
 
 **Lumma Stealer:** Logró posicionarse por primera vez en el top 10 de detecciones de ESET en el segundo semestre de 2024. En total, en ese periodo mostró un **crecimiento récord de 395%** más de 50.000 detecciones registradas. El mayor número de detecciones se focalizaron en Perú, Polonia, España, México y Eslovaquia.
 
-\<figure class="wp-caption alignnone" style="max-width:671px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C.jpg" alt="" />
-<figcaption>Detecciones de telemetría ESET donde se observa el crecimiento de Lumma</figcaption></figure>
+\[caption id="attachment\_330816" align="alignnone" width="671"\]![](https://doblellave.com/wp-content/uploads/2025/01/Imagen-referencial-C.jpg) Detecciones de telemetría ESET donde se observa el crecimiento de Lumma\[/caption\]
 
 Se dirige a las extensiones de navegador para autenticación de dos factores, las credenciales de usuario y **billeteras de criptomonedas**.
 
 Algunos de los métodos para su distribución fueron a través de repositorios de _GitHub_, haciéndose pasar por un editor de imágenes _IA EditPro_, o a través de archivos e instaladores parcheados, principalmente los _KMS_ de copias ilegítimas de Windows. En una investigación de ESET Research, de octubre, se descubrió que varios criptors contenían este infostealer listo para infectar dispositivos de jugadores que buscaban bots de granja o autoclickers (mejoras para el juego) del popular _Hamster Kombat_ (en repositorios de GitHub).
 
-\<figure class="wp-caption alignnone" style="max-width:670px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-D.jpg" alt="" />
-<figcaption>Lumma Stealer distribuyéndose en respositorio de GitHub</figcaption></figure>
+\[caption id="attachment\_330818" align="alignnone" width="670"\]![](https://doblellave.com/wp-content/uploads/2025/01/Imagen-referencial-D.jpg) Lumma Stealer distribuyéndose en respositorio de GitHub\[/caption\]
 
 **RedLine:** Activo desde 2020, luego de la **Operación Magnus** de octubre 2024, se observó un declive en la actividad de este infostealer aunque no ha desaparecido por completo. Se han observado campañas de phishing pasivas que entregan RedLine **en comentarios de YouTube** o en repositorios de GitHub.
 

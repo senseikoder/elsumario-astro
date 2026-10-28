@@ -31,7 +31,7 @@ coverImage: "Imagen-referencial-La-ciberseguridad-es-el-nuevo-eje-estrategico-de
 
 **El Sumario - ESET Venezuela** realizó con éxito su **9no. Desayuno Tecnológico** con medios y periodistas especializados en temas de **ciberseguridad**, un encuentro esencial para analizar los riesgos digitales y redefinir la protección corporativa en la **era de la Inteligencia Artificial (IA)**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-ESET-destacada-o-principal-1024x598.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/12/Imagen-referencial-ESET-destacada-o-principal-1024x598.jpg)
 
 La jornada se centró en desmantelar conceptos erróneos, destacar la necesidad de una estrategia de protección integral y abordar la responsabilidad social.
 
@@ -51,7 +51,7 @@ Por ello, recomendó mantener contraseñas fuertes y el uso del **multifactor d
 
 López enfatizó la necesidad de atender las vulnerabilidades reportadas, citando casos donde fallas de seguridad permanecieron sin ser corregidas durante años, incluso en grandes corporaciones como Telefónica (afectada por el ransomware WannaCry en 2017). Advirtió que **uno de cada seis ataques ya es potenciado por Inteligencia Artificial**, haciendo que la prevención sea más crítica que nunca.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-D-1024x620.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/12/Imagen-referencial-D-1024x620.jpg)
 
 “Si una organización tiene una vulnerabilidad que fue reportada hace siete años y no hace nada por repararla, ahí está pasando algo a todo nivel” expresó López, argumentando que la inacción es un riesgo global.
 
@@ -63,11 +63,11 @@ El tiempo promedio de recuperación de un ataque, para aquellas empresas o insti
 
 **José Luis Rangel**, gerente de comercialización, quien lleva los asuntos de sostenibilidad en Venezuela, cerró la jornada al hablar sobre **“La gestión sostenible de ESET - experiencias en LATAM”**. Rangel resaltó que la empresa es una de las pocas del sector que alinea su estrategia con los **Objetivos de Desarrollo Sostenible (ODS) de la ONU** y el **Pacto Global**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C-1024x538.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/12/Imagen-referencial-C-1024x538.jpg)
 
 Esta gestión busca un **equilibrio entre lo ambiental, lo social y lo económico**. Implica el fomento de la **igualdad de género**, la buena gestión del **talento humano** y la **responsabilidad en la cadena de valor**, demostrando que la seguridad digital se integra con un compromiso global por la sostenibilidad.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-E-1024x576.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/12/Imagen-referencial-E-1024x576.jpg)
 
 Rangel dio a conocer algunas de las iniciativas en materia de sostenibilidad que han llevado a cabo en LATAM así como en Venezuela durante los últimos años, las cuales están alineadas con los cuatro pilares de acción de la marca ESET en la región: **ambiente, cadena de valor, colaboradores** y **comunidad**.
 

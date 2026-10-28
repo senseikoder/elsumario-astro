@@ -25,7 +25,7 @@ Bajo el lema «El rostro del futuro», esta nueva Tucson llega para cautivar al 
 
 **«_La nueva Hyundai Tucson 2025 es una muestra de nuestra visión de futuro, donde la innovación y el diseño se fusionan para crear experiencias de conducción excepcionales»_**, expresó **Alberto Fagré**, Gerente de **Planificación y Mercadeo** de Hyundai Venezuela. 
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-acompanamiento-de-texto-B.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-acompanamiento-de-texto-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-acompanamiento-de-texto-B.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-acompanamiento-de-texto-B.jpg)
 
 ## Este modelo empuja los límites del segmento para reinventarlo todo
 
@@ -35,7 +35,7 @@ Su motor es de 4 cilindros en línea con un tanque de combustible de 54L para un
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Acompanamiento-de-texto-C.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Acompanamiento-de-texto-C.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Acompanamiento-de-texto-C.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Acompanamiento-de-texto-C.jpg)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ Con capacidad de 5 pasajeros, posee un amplio maletero para equipaje de 620 litr
 
 - **_Espacio y versatilidad_**: Este modelo empuja los límites del segmento para reinventarlo todo. Por fuera, está diseñada para impresionar, mientras que por dentro descubrirás un nivel de amplitud, comodidad y versatilidad que supera todas las expectativas. Sumado a esto, avances en tecnología que se esperaban y hacen presente al futuro.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Acompanamiento-de-texto-D.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Acompanamiento-de-texto-D.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Acompanamiento-de-texto-D.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Acompanamiento-de-texto-D.jpg)
 
 ### Confiable garantía y respaldo; disponibilidad inmediata
 

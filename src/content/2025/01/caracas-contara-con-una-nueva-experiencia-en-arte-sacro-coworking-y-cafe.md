@@ -26,7 +26,7 @@ Núñez, además de ser un exitoso empresario venezolano, es también un afanoso
 
 La propuesta de Nexus Cultural según nos ha explicado **incluye tres áreas principales**:
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-B.jpg)
 
 1. _**Galería de arte sacro**_: Una exhibición permanente y rotativa de piezas artísticas que trascienden lo religioso, promoviendo la reflexión y la conexión espiritual.
 2. _**Coworking creativo**_: Un espacio diseñado para profesionales y emprendedores que buscan inspiración en un entorno artístico y tranquilo.

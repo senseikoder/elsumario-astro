@@ -26,7 +26,7 @@ coverImage: "Imagen-referencial-destacada-C.jpg"
 
 La fanaticada basquetbolista en general, y los habitantes o nacidos en el Estado Zulia en particular, se encuentren donde sea, arrancaron a celebrar el pasado sábado, al concluir el encuentro. No obstante los festejos se han prolongado, día tras día. Pues este éxito deportivo de la divisa gaitera, es asumido también como un triunfo de la zulianidad. Y la alegría que implica ha trascendido las fronteras de Venezuela.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imgen-referencial-1-1024x514.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/07/Imgen-referencial-1-1024x514.jpg)
 
 El elenco zuliano tenía 24 años sin titularse, de manera que logró cortar una larga sequía, para retornar a la gloria de nuestro baloncesto.
 
@@ -34,7 +34,7 @@ Liderados por el técnico **Julio Duquela**, y con figuras como **Michael Warren
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-4-1024x512.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/07/Imagen-referencial-4-1024x512.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ El MVP de Gaiteros del Zulia, declaró que “este campeonato es un sueño hecho
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-destacada-B-1024x511.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/07/Imagen-referencial-destacada-B-1024x511.jpg)
 
 <figcaption>
 
@@ -62,13 +62,13 @@ Sólida alianza desde el inicio de la temporada
 
 Fuera del tabloncillo, la victoria también se hizo presente en la identidad visual del equipo. **Jagi Caps**, firma internacional especializada en gorras deportivas, fue la responsable de fabricar tanto la **gorra oficial de Gaiteros del Zulia** como la **exclusiva gorra de campeón SPB 2025**. Con atractivo y profesional diseño, materiales de alta calidad y acabados premium, esta pieza conmemorativa representa el orgullo y la historia de una **franquicia emblemática**: Gaiteros del Zulia. Por ahora, la gorra de campeones está disponible únicamente para los jugadores, cuerpo técnico y miembros del staff oficial del equipo. Su lanzamiento al público aún no ha sido anunciado.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-2-1024x512.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/07/Imagen-referencial-2-1024x512.jpg)
 
 ### **Gorras SPB; calidad certificada, íconos culturales dentro del deporte venezolano**
 
 La participación de Jagi Caps en la SPB no es nueva. La marca se ha posicionado como uno de los principales fabricantes de gorras SPB en Venezuela, apostando a la conexión emocional con los fanáticos, por su autenticidad u originalidad, así como por sus diseños exclusivos que dan uso a materiales de alto rendimiento, pero que al mismo tiempo son amables con el ambiente.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-destacada-A-1024x512.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-destacada-A.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-destacada-A-1024x512.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-destacada-A.jpg)
 
 Las gorras de Gaiteros del Zulia diseñadas por Jagi Caps más allá de tener y cumplir un rol funcional, donde destaca su identidad e imagen: han logrado posicionarse como, y representar, íconos culturales dentro del deporte venezolano, reflejando tanto el legado del equipo como la evolución del estilo, moda u onda deportiva nacional. Importantes equipos del baloncesto venezolano, de mucha proyección y con una sólida vocación de liderazgo en este deporte, han lucido y cuentan con prendas o productos de Jagi Caps. Marca y empresa para la que tuvieron palabras de reconocimiento.
 

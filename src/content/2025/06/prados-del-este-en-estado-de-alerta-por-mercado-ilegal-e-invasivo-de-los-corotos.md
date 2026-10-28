@@ -23,13 +23,13 @@ coverImage: "Imagen-referencial-Prados-del-Este-Caracas.jpg"
 
 Innumerables vecinos han alzado su voz oponiéndose a la realización de esta actividad, porque viola las normas de zonificación, además de preguntarse a qué será destinado el dinero que se obtenga.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250601-WA0009-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0009.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0009-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0009.jpg)
 
 ### **Deporte vs. buhonería disfrazada, en un sector principalmente residencial** **con instalaciones deportivas**
 
 Igualmente hicieron un llamado a las autoridades, entre ellas al **Fiscal General de la República**, para que interceda para evitar acciones que afecten a la urbanización. Consideran, además, que ese mercado de los corotos **promueve la competencia desleal en contra de los comerciantes** **formales** que puntualmente pagan sus impuestos.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250601-WA0010-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0010.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0010-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0010.jpg)
 
 **Prados del Este es una urbanización principalmente residencial**, cuya construcción se inició en 1952 y fue inaugurada dos años después. Su consolidación llegó con la Autopista Prados del Este en 1961, lo que facilitó la conexión con otras zonas de **Caracas**.
 
@@ -37,7 +37,7 @@ En la actualidad se estima que unas 10.000 familias viven en Prados del Este, cu
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250601-WA0007-1024x575.jpg)](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0007.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0007-1024x575.jpg)](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250601-WA0007.jpg)
 
 <figcaption>
 

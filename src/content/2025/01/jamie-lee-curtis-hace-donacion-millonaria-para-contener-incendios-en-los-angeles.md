@@ -28,7 +28,7 @@ La actriz promete informar a menudo a través de la red sobre esas necesidades.
 
 "Publicaremos con frecuencia información sobre dónde puede enviar los recursos necesarios a organismos acreditados", indico Jamie Lee Curtis, de 66 años de edad, quien precisó que el dinero que ha donado será para ayudar a los bomberos a "combatir el fuego y salvar vidas".
 
-[![Jamie Lee Curtis](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Incendio-Los-Angeles-California-Estados-Unidos.jpg "Jamie Lee Curtis")](http://elsumario.com/wp-content/uploads/2025/01/Incendio-Los-Angeles-California-Estados-Unidos.jpg)
+[![Jamie Lee Curtis](http://elsumario.com/wp-content/uploads/2025/01/Incendio-Los-Angeles-California-Estados-Unidos.jpg "Jamie Lee Curtis")](http://elsumario.com/wp-content/uploads/2025/01/Incendio-Los-Angeles-California-Estados-Unidos.jpg)
 
 La actriz reside en **Pacific Palisades**, una de las localidades del condado de Los Ángeles más afectada por los incendios y también donde hay más vecinos famosos, según las revistas especializadas en farándula.
 

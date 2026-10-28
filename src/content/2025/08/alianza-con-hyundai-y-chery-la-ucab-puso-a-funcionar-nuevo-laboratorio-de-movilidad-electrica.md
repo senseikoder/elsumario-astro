@@ -23,11 +23,11 @@ coverImage: "Imagen-referencial-1-e1755355115995.jpg"
 
 El acto tuvo lugar y se llevó a cabo en el edificio de Laboratorios de la [**Facultad de Ingeniería**](https://linktr.ee/ingenieriaucab_), en el **campus de Montalbán**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Laboratorio-movilidad-electrica-imagen-referencial-2.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/08/Laboratorio-movilidad-electrica-imagen-referencial-2.jpg)
 
 Con la presencia de las autoridades universitarias, entre ellas el rector, **padre jesuita Arturo Peraza**, invitados especiales, socios comerciales y medios de comunicación, el director de la Escuela de Ingeniería Industrial, **Joao De Gouveia, presentó ‘Zero**‘, el **primer vehículo eléctrico elaborado por una universidad privada venezolana**, apadrinado por las empresas automotrices **[Hyundai Venezuela](https://www.instagram.com/hyundaivzla/?hl=es)** y **Chery Venezuela**, aliadas de la UCAB en este proyecto.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-3.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/08/Imagen-referencial-3.jpg)
 
 ## **Laboratorio de Movilidad Eléctrica: dos años de trabajo e innovación**
 
@@ -35,7 +35,7 @@ Este hito marca la culminación de los casi dos años de trabajo constante que s
 
 Bajo la conducción de De Gouveia, la iniciativa fue repensada. En lugar de trabajar en vehículos con motores de combustión interna y dedicar una importante inversión en un viaje a Estados Unidos para competir en los eventos de Fórmula SAE, **el foco se centró en un abordaje más innovador y práctico, que mejorase la experiencia educativa**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Laboratorio-movilidad-electrica-inauguracion-destacada-1024x657.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Laboratorio-movilidad-electrica-inauguracion-destacada.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Laboratorio-movilidad-electrica-inauguracion-destacada-1024x657.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Laboratorio-movilidad-electrica-inauguracion-destacada.jpg)
 
 Con este propósito en mente, **nace este laboratorio conceptualizado para ofrecer experiencias completamente inmersivas en entornos reales**.
 

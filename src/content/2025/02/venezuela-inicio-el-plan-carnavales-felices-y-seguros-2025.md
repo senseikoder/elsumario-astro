@@ -25,7 +25,7 @@ A través de Instagram, el funcionario anunció el comienzo del plan denominado 
 
 "El gobierno bolivariano del presidente Nicolás Maduro está en la calle para proteger a cada familia venezolana. Disfrutemos con responsabilidad y en paz", expresó Cabello en la red social.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Carnavales-Seguros-2025.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Carnavales-Seguros-2025.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Carnavales-Seguros-2025.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Carnavales-Seguros-2025.jpg)
 
 Según el ministro, estarán desplegados en todo el país efectivos de la **Fuerza Armada Nacional Bolivariana** (FANB) y agentes policiales nacionales, regionales y locales, así como funcionarios del **Servicio Bolivariano de Inteligencia** (Sebin), del **Cuerpo de Investigaciones Científicas, Penales y Criminalísticas** (Cicpc), de **Protección Civil**, **bomberos** y funcionarios de las carteras de Turismo y Deporte.
 

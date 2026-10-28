@@ -29,7 +29,7 @@ Pese a los cambios que ha vivido el país y el mundo, **el Museo se ha mantenido
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/museo-de-los-ninos-imagen-referencial-A-1024x573.jpg)](https://elsumario.com/wp-content/uploads/2025/11/museo-de-los-ninos-imagen-referencial-A.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/museo-de-los-ninos-imagen-referencial-A-1024x573.jpg)](https://elsumario.com/wp-content/uploads/2025/11/museo-de-los-ninos-imagen-referencial-A.jpg)
 
 <figcaption>
 

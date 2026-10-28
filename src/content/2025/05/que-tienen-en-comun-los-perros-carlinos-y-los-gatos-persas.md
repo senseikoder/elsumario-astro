@@ -25,7 +25,7 @@ Sin embargo, las caras de las citadas mascotas (perros carlinos y gatos persas y
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bruce-galpin-h7oZAHnS9_E-unsplash-1024x732.jpg)](http://elsumario.com/wp-content/uploads/2025/05/bruce-galpin-h7oZAHnS9_E-unsplash.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/bruce-galpin-h7oZAHnS9_E-unsplash-1024x732.jpg)](http://elsumario.com/wp-content/uploads/2025/05/bruce-galpin-h7oZAHnS9_E-unsplash.jpg)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Para constatar esta convergencia, **los científicos midieron las formas de los 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/vianney-cahen-Diu7_5TvXFw-unsplash-1024x686.jpg)](http://elsumario.com/wp-content/uploads/2025/05/vianney-cahen-Diu7_5TvXFw-unsplash.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/vianney-cahen-Diu7_5TvXFw-unsplash-1024x686.jpg)](http://elsumario.com/wp-content/uploads/2025/05/vianney-cahen-Diu7_5TvXFw-unsplash.jpg)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ La selección artificial a partir de la cría ha dado lugar a una **notable dive
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/matt-odell-yWiUC-mqLw-unsplash-1024x701.jpg)](http://elsumario.com/wp-content/uploads/2025/05/matt-odell-yWiUC-mqLw-unsplash.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/matt-odell-yWiUC-mqLw-unsplash-1024x701.jpg)](http://elsumario.com/wp-content/uploads/2025/05/matt-odell-yWiUC-mqLw-unsplash.jpg)
 
 <figcaption>
 

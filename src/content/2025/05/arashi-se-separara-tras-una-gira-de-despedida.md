@@ -31,7 +31,7 @@ Tras mucho meditarlo, el quinteto llegó a la conclusión de que disolver la ban
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Arashi-I-1024x681.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Arashi-I.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Arashi-I-1024x681.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Arashi-I.jpg)
 
 <figcaption>
 

@@ -26,7 +26,7 @@ Pese a dominar buena parte del primer tiempo, la selección nacional Sub-20 reci
 
 **Paraguay** se llevó tres puntos de oro tras caer por goleada el lunes ante **Uruguay** (6 a 0), situación que representó la salida del director técnico, para encaminarse hacia el hexagonal final.
 
-[![Vinotinto Sub-20](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Paraguay-Sub-20.jpg "Vinotinto Sub-20")](http://elsumario.com/wp-content/uploads/2025/01/Paraguay-Sub-20.jpg)
+[![Vinotinto Sub-20](http://elsumario.com/wp-content/uploads/2025/01/Paraguay-Sub-20.jpg "Vinotinto Sub-20")](http://elsumario.com/wp-content/uploads/2025/01/Paraguay-Sub-20.jpg)
 
 Por su parte, la [Vinotinto Sub-20](https://x.com/juvenilesfvf) quedó sin opciones de trascender en el torneo, a pesar de todavía restar un fecha para culminar la primera fase o etapa del **Campeonato Sudamericano**.
 

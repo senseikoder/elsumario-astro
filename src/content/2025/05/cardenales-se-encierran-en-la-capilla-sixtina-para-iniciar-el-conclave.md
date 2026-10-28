@@ -25,7 +25,7 @@ Los portones de madera de la Capilla Sixtina, custodiados por dos guardias suizo
 
 En su interior quedaron los **purpurados electores** con el predicador capuchino **Raniero Cantalamessa**, que será el encargado de pronunciar una meditación antes de salir de la capilla y dejarles solos.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Cardenales-Capilla-Sixtina.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Cardenales-Capilla-Sixtina.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Cardenales-Capilla-Sixtina.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Cardenales-Capilla-Sixtina.jpg)
 
 A partir de ese momento, los 133 cardenales llamados a votar por tener menos de 80 años quedaron encerrados para elegir al nuevo pontífice, 17 días después de la muerte de Francisco el pasado 21 de abril.
 

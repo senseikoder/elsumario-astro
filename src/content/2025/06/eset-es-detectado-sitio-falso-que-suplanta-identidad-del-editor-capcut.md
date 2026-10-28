@@ -37,7 +37,7 @@ Además de la URL, desde ESET advierten que los cibercriminales **también tomar
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-ESET-detecta-un-sitio-falso-que-se-hace-pasar-por-la-popular-app-CapCut-para-distribuir-malware-Suministrada-por-ESET-y-Comstat-R.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-ESET-detecta-un-sitio-falso-que-se-hace-pasar-por-la-popular-app-CapCut-para-distribuir-malware-Suministrada-por-ESET-y-Comstat-R.jpg)
 
 <figcaption>
 

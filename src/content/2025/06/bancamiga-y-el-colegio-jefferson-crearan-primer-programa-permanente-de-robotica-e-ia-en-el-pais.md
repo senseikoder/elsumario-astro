@@ -32,11 +32,11 @@ Expresó que en los próximos 18 meses también contemplan la creación de la Ac
 
 Las palabras del Presidente de la Junta Directiva de [Bancamiga](https://www.instagram.com/bancamiga/?hl=es) precedieron el concierto de la **Orquesta Sinfónica Juvenil de Caracas**, que estuvo acompañada por la **Coral Regional Juan Bautista Plaza**, la **Joven Coral Ángel Sauce** y los **Niños Cantores de Venezuela**, bajo la dirección musical de **Jesús Uzcátegui**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-B-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-B.jpg)
 
 En el **Centro Nacional de Acción Social por la Música**, en Quebrada Honda, Caracas, los asistentes disfrutaron por más de 90 minutos de un repertorio que incluyó _Fanfarria para el Hombre Común_ de Aaron Copland, _Romeo y Julieta_ de Piotr Ilich Chaikovski, y _Carmina Burana_ de Carl Orff.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-C.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-C-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-C.jpg)
 
 Para Tabares, conmemorar 50 años representa “una vida de triunfo, esfuerzo y trabajo. Es una manera de honrar a nuestros niños y padres, a nuestra gente, sin olvidar que todos somos venezolanos. Me emociona que el auditorio lleve mi nombre, pero más me emociona que pronto podamos contar con este espacio”.
 

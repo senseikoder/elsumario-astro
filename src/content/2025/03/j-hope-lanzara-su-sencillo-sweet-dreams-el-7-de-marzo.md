@@ -31,7 +31,7 @@ Lollapalooza, un importante festival de música que comenzó en Estados Unidos e
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Archivo-J-Hope.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Archivo-J-Hope.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Archivo-J-Hope.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Archivo-J-Hope.jpg)
 
 <figcaption>
 

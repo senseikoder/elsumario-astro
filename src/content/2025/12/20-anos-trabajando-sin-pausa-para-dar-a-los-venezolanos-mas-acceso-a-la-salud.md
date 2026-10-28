@@ -45,7 +45,7 @@ En la introducción del texto se afirma y resume que: “… el caso de Venemerg
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Un-aspecto-interior-del-libro-1024x758.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Un-aspecto-interior-del-libro.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Un-aspecto-interior-del-libro-1024x758.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Un-aspecto-interior-del-libro.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Una de las páginas internas de la obra. Se observa a los hoy directivos de Vene
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Luis-Enrique-Velasquez-Diaz-y-German-Febres-Chataing.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Luis-Enrique-Velasquez-Diaz-y-German-Febres-Chataing.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Luis-Enrique-Velasquez-Diaz-y-German-Febres-Chataing.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Luis-Enrique-Velasquez-Diaz-y-German-Febres-Chataing.jpg)
 
 <figcaption>
 

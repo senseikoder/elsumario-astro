@@ -46,7 +46,7 @@ Los actores maliciosos pudieron acceder al control de la cámara, y así lo que 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial.jpg)
 
 <figcaption>
 

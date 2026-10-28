@@ -27,7 +27,7 @@ Para los habitantes de esta importante urbanización del municipio Baruta, “la
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250607-WA0001-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250607-WA0001.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250607-WA0001-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/06/IMG-20250607-WA0001.jpg)
 
 <figcaption>
 

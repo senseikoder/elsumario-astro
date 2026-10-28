@@ -31,7 +31,7 @@ El vuelo despegó el lunes 07 de abril a la 01:00pm desde el **Aeropuerto Intern
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Merida-jardin-botanico-Archivo-Imagen-referencial.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Merida-jardin-botanico-Archivo-Imagen-referencial.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Merida-jardin-botanico-Archivo-Imagen-referencial.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Merida-jardin-botanico-Archivo-Imagen-referencial.jpg)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Imagen referencial: Archivo, Jardín Botánico de Mérida
 
 Los boletos aéreos pueden ser adquiridos en cualquiera de los canales de venta disponibles: página web, aplicación móvil, centros de servicios y agencias de viaje, con una propuesta tarifaria desde 50 USD, por trayecto.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Avior-El-Vigia-2022.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Avior-El-Vigia-2022.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Avior-El-Vigia-2022.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Avior-El-Vigia-2022.jpg)
 
 Estas nuevas operaciones permitirán a **Avior Airlines** redimensionarse y optimizar los procesos que brinden la oportunidad a los pasajeros de llegar a la mayor cantidad de destinos: “apostamos al crecimiento del sector aeronáutico, buscamos consolidarnos nacional e internacionalmente, como la aerolínea que sigue volando para llegar cada vez más lejos”, indicó Jorge Añez Dager, Fundador de **Avior Airlines.**
 

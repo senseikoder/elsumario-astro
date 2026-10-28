@@ -40,7 +40,7 @@ Si se recibe un correo con la promesa de haber ganado algún premio o una oferta
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ejemplo-de-correo-malicioso.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Ejemplo-de-correo-malicioso.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Ejemplo-de-correo-malicioso.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Ejemplo-de-correo-malicioso.jpg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ Desde ESET aclaran que el phishing no solamente llega por correo electrónico, s
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-o-ilustrativa.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-o-ilustrativa.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-o-ilustrativa.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-o-ilustrativa.jpg)
 
 <figcaption>
 

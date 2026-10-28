@@ -36,9 +36,7 @@ Núñez puntualiza que esta asistencia y productos **“**combinan **servicios p
 
 En **Venezuela**, la transformación digital ha llevado a las empresas a enfrentar nuevos riesgos. Según datos compartidos durante el **Primer Congreso Internacional de Ciberseguridad**, el aumento anual del _ransomware_ o secuestro de datos a nivel mundial creció 20 % año tras año, continuamente durante los últimos cuatro.
 
-\<figure class="wp-caption aligncenter" style="max-width:1407px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Rafael-Nunez-MQS.jpg" alt="" />
-<figcaption>El director de MQS, Rafael Núñez Aponte, es experto en tecnologías de la información y comunicación (TIC), así como un calificado conferencista internacional</figcaption></figure>
+\[caption id="attachment\_337620" align="aligncenter" width="1407"\][![](http://elsumario.com/wp-content/uploads/2025/01/Rafael-Nunez-MQS.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Rafael-Nunez-MQS.jpg) El director de MQS, Rafael Núñez Aponte, es experto en tecnologías de la información y comunicación (TIC), así como un calificado conferencista internacional\[/caption\]
 
 \-Solo en Latinoamérica se registraron más de 470 mil ataques, y muchas empresas venezolanas son parte de esta estadística, con un impacto financiero alto en varios **sectores de la economía** y **vida nacional**, en especial el **financiero** y de **telecomunicaciones**.
 

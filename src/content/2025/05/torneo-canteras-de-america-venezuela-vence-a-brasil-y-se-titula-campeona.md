@@ -36,7 +36,7 @@ https://twitter.com/idiomafutve/status/1926367322924593543
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Fuente-@HeideggerJAF.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-Fuente-@HeideggerJAF.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-Fuente-@HeideggerJAF.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-Fuente-@HeideggerJAF.jpg)
 
 <figcaption>
 

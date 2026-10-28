@@ -36,7 +36,7 @@ Este **programa inédito de Bancamiga** busca generar un impacto positivo en la 
 
 ## Desde Bancamiga se promueve el trabajo en equipo
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/DLL-Creando-ideas2-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/DLL-Creando-ideas2.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/DLL-Creando-ideas2-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/DLL-Creando-ideas2.jpg)
 
 El programa **“Creando Ideas. Juntos por Venezuela”** contempló dos sesiones de trabajo o talleres, implementados en alianza con la **asociación civil Aprendo y Emprendo**, donde los estudiantes, primero aprendieron sobre los ODS y cómo aplicarlos, fomentando las iniciativas y las actividades que pueden contribuir con el alcance de la Agenda 2030.
 
@@ -48,7 +48,7 @@ Asimismo, el programa les permitió **desarrollar habilidades como la investigac
 
 ## _Jóvenes estudiantes comprometidos con la humanidad_
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/PV-Creando-ideas3-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/03/PV-Creando-ideas3.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/PV-Creando-ideas3-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/03/PV-Creando-ideas3.jpg)
 
 **Bancamiga apoya el logro de la Agenda 2030 para el desarrollo sostenible que fue adoptada por la Asamblea General de la ONU en el año 2015**, estableciendo un plan de acción que busca superar los mayores desafíos para la calidad de vida de los habitantes del planeta, la preservación del ambiente y la prosperidad.
 

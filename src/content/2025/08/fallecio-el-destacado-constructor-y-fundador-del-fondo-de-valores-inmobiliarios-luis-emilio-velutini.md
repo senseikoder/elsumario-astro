@@ -22,15 +22,15 @@ Su vida es la historia de un **empresario** e **inversionista** venezolano que c
 
 Formado en **Administración de Empresas en la Universidad de Nueva York**, Luis Emilio Velutini regresó a Venezuela para integrarse a desafiantes proyectos inmobiliarios como el complejo turístico **Aguasal**, en el que acompañó a su hermano **Guillermo Velutini**. En la década de 1990 fundó el **Fondo de Valores Inmobiliarios**, hito que llevó por primera vez el negocio inmobiliario al mercado de capitales venezolano, dotando al sector de una estructura moderna, transparente y capaz de atraer inversiones globales. Para ese entonces gestó e impulsó una nueva era en el desarrollo de activos de lujo y alta rentabilidad, en **Venezuela**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/tolon-fashion-mall-1024x462.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/tolon-fashion-mall-1024x462.jpg)
 
 Con el _Fondo de Valores Inmobiliarios_ (**FVI**), edificó obras emblemáticas por su arquitectura y movimiento comercial, en **Caracas** el **Tolón Fashion Mall** y **[Paseo El Hatillo](https://paseoelhatillo.com/) La Lagunita**, que integraron comercio, gastronomía, entretenimiento y moda.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Paseo-El-Hatillo-de-noche-1024x640.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/Paseo-El-Hatillo-de-noche-1024x640.jpg)
 
 Mientras que, en **República Dominicana**, el **Grupo Velutini** dio vida a [proyectos](https://bluemall.com.do/) como **Blue Mall Santo Domingo y Blue Mall Punta Cana**. A ellos se sumaron el **JW Marriott** y el inminente **World Trade Center** en dicha ciudad. Su capacidad para cerrar alianzas con gigantes como **George Soros y Sam Zell** habla de un liderazgo sólido en las altas esferas empresariales.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/BlueMall-RD.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/BlueMall-RD.jpg)
 
 En Luis Emilio Velutini convergieron o se fusionaron **la audacia del pionero** y la **constancia del constructor**. Para él, invertir era sembrar confianza, generar empleo, activar economías y dejar huella.
 

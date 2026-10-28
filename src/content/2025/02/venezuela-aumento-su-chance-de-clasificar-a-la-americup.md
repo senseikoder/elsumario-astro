@@ -29,7 +29,7 @@ Así la Vinotinto, que el domingo 23 de febrero se enfrentará a Chile, ve aumen
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Yohanner-Sifontes-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Yohanner-Sifontes.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Yohanner-Sifontes-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Yohanner-Sifontes.jpg)
 
 <figcaption>
 

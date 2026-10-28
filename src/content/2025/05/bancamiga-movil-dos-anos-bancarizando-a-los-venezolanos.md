@@ -24,13 +24,13 @@ Todo comenzó el 18 de mayo de 2023. Ese día inició un recorrido que lo mantuv
 
 Desde ese momento, el equipo de **Fuerza Móvil** se convirtió en un puente para la inclusión de miles de venezolanos, que han podido acercarse a las facilidades de [Bancamiga](https://www.instagram.com/bancamiga/?hl=es), a través de la apertura de cuentas en bolívares y en divisas con requisitos mínimos.
 
-[![Bancamiga Móvil dos años](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Bancamiga-Movil-dos-anos-5-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Bancamiga-Movil-dos-anos-5.jpg)
+[![Bancamiga Móvil dos años](http://elsumario.com/wp-content/uploads/2025/05/Bancamiga-Movil-dos-anos-5-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Bancamiga-Movil-dos-anos-5.jpg)
 
 También han podido conocer las ventajas de la **Tarjeta de Débito Bancamiga**, de la cuenta para menores de edad (Kids) y estar en contacto con las potencialidades de los versátiles y modernos **Puntos de Venta Bancamiga**, que desarrollados en alianza con **Soluciones Integrales Tecnológicas SITCA**, ofrecen a **emprendedores** y **pequeños empresarios** generar ingresos extras por el pago y recarga de servicios como **Cantv**, **Corpoelec**, **Digitel**, **Movilnet**, **Movistar**, **Inter** y **Simple TV**, además de que sirven para otras operaciones como sellar el 5y6 o participar en loterías.
 
 Estos últimos meses han servido para captar nuevos clientes, entre ellos jurídicos, que han logrado vincularse a facilidades que se ajustan a sus necesidades como los servicios de Nómina, Global Ticket y al amplio abanico de créditos.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Bancamiga-Movil-dos-anos-en-baja-compressed-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Bancamiga-Movil-dos-anos-en-baja-compressed.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Bancamiga-Movil-dos-anos-en-baja-compressed-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Bancamiga-Movil-dos-anos-en-baja-compressed.jpg)
 
 Hasta ahora el Bancamiga Móvil ha recorrido los estados **Falcón**, **Lara**, **Zulia**, **Bolívar**, **Distrito Capital**, **Aragua**, **Portuguesa**, **Cojedes**, **Apure**, **Nueva Esparta**, **La Guaira**, **Miranda** y **Yaracuy**. Ha llegado incluso a abrir cuentas en la inmensidad de Canaima y a acompañar las procesiones de la **Divina Pastora** en Lara y de la **Virgen del Valle** en Nueva Esparta.
 

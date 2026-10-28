@@ -28,7 +28,7 @@ Flammia ha comentado que la pandemia aceleró esta tendencia y que la misma se h
 
 En **Venezuela**, aunque la oferta de ciberseguros aún es incipiente, naciente, Flammia destaca que existe **un grupo reducido de aseguradoras que ofrece esta posibilidad**, la cual, tarde o temprano, pasará a convertirse en una necesidad. Además, se vislumbra la posibilidad de establecer sistemas de **“ciberclasificación”** para las personas, similares a las clasificaciones crediticias, con el fin de evaluar su nivel de conocimiento en ciberseguridad y promover prácticas más seguras.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Una-poliza-de-ciberseguro-es-un-escudo-indispensable-ante-la-tormenta-digital-Suministrada-por-ESET-y-Comstat-Rowland.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/01/Imagen-referencial-Una-poliza-de-ciberseguro-es-un-escudo-indispensable-ante-la-tormenta-digital-Suministrada-por-ESET-y-Comstat-Rowland.jpg)
 
 **Sin embargo, el gerente general de [ESET Venezuela](https://www.instagram.com/eset_ve/) advierte sobre los riesgos asociados a la ciberclasificación**, como la posibilidad de **discriminación laboral y la vulnerabilidad de las personas con bajos puntajes a sufrir ataques dirigidos**. Asimismo, destaca la **importancia de proteger la confidencialidad de esta eventual información para evitar que sea utilizada en contra de las personas**.
 

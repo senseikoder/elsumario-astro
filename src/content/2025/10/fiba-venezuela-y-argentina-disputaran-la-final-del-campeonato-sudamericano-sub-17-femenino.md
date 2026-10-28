@@ -25,7 +25,7 @@ Tras cuatro presentaciones perfectas, que incluyen victorias ante **Colombia, Pa
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Venezuela-Imagen-referencial-Astrid-Inojosa-Cortesia-FIBA.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Venezuela-Imagen-referencial-Astrid-Inojosa-Cortesia-FIBA.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Venezuela-Imagen-referencial-Astrid-Inojosa-Cortesia-FIBA.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Venezuela-Imagen-referencial-Astrid-Inojosa-Cortesia-FIBA.jpg)
 
 <figcaption>
 
@@ -43,7 +43,7 @@ En el caso de Venezuela, buscará su segunda diadema desde 2005, luego de levant
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Argentina-Imagen-referencial-Francisca-Canello-Cortesia-FIBA.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Argentina-Imagen-referencial-Francisca-Canello-Cortesia-FIBA.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Argentina-Imagen-referencial-Francisca-Canello-Cortesia-FIBA.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Argentina-Imagen-referencial-Francisca-Canello-Cortesia-FIBA.jpg)
 
 <figcaption>
 

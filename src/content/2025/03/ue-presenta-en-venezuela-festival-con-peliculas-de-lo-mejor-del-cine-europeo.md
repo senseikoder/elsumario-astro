@@ -29,7 +29,7 @@ La jefa de la delegación, **María Antonia Calvo**, dijo que se trata de un esf
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Maria-Antonia-Calvo-Puerta-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Maria-Antonia-Calvo-Puerta.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Maria-Antonia-Calvo-Puerta-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Maria-Antonia-Calvo-Puerta.jpg)
 
 <figcaption>
 

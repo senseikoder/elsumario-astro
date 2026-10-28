@@ -26,9 +26,7 @@ coverImage: "Imagen-referencial-A.jpg"
 
 Así se divulgó la noticia este sábado 4 de enero, que enluta a las industrias de la radiodifusión y la publicidad en **Venezuela**.
 
-\<figure class="wp-caption aligncenter" style="max-width:1031px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Destacada.jpg" alt="" />
-<figcaption>Rodolfo Rodríguez Miranda, sinónimo de radio, entretenimiento, música, espectáculos y publicidad</figcaption></figure>
+\[caption id="attachment\_337225" align="aligncenter" width="1031"\][![](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-Destacada.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-Destacada.jpg) Rodolfo Rodríguez Miranda, sinónimo de radio, entretenimiento, música, espectáculos y publicidad\[/caption\]
 
 «Siempre convencido de lo nuestro, descubrió, promovió y apoyó incansablemente a los artistas venezolanos, muchos de los que hoy figuran como los más importantes de las últimas décadas. Y como uno de los empresarios discográficos más destacados en Latinoamérica, su sello llevó el nombre de nuestro país a lo más alto través de la música», agrega el documento compartido.
 

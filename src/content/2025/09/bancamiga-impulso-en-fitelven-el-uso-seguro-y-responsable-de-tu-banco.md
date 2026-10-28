@@ -28,7 +28,7 @@ coverImage: "IMG-20250918-WA0007.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Fitelven-general-2025-1024x569.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Fitelven-general-2025.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Fitelven-general-2025-1024x569.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Fitelven-general-2025.jpg)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ En el stand de **Bancamiga en Fitelven**, los visitantes igualmente conocieron a
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bancamiga-Carlos-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/09/bancamiga-Carlos.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/bancamiga-Carlos-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/09/bancamiga-Carlos.jpg)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ Al igual que en la edición pasada, Bancamiga emplazó en **Fitelven 2025** el *
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Bancamiga-movil.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Bancamiga-movil.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Bancamiga-movil.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Bancamiga-movil.jpg)
 
 <figcaption>
 

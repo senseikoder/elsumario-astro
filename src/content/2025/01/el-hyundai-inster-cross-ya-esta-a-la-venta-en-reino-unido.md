@@ -32,7 +32,7 @@ El Inster había sido presentado durante 2024, y, en países como **España**,�
 
 El equipamiento de serie se completa con un alerón trasero, **barras portaequipajes en el techo**, luces traseras LED, faros y limpiaparabrisas con activación automática, luces led para todas las funciones, retrovisores con ajuste y plegado eléctrico.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Hyundai-Imagen-referencial-C.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/01/Hyundai-Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Hyundai-Imagen-referencial-C.jpg)
 
 ## El Hyundai Inster Cross, líder de gama
 
@@ -40,7 +40,7 @@ La combinación más generosa de motor y batería (115 CV y 49 kWh) brinda una a
 
 El Inster Cross viene con asientos traseros reclinables y deslizantes con división 50/50, columna de dirección ajustable en altura y profundidad, ajuste manual de la altura del asiento del conductor, asientos delanteros y volante con calefacción, climatizador automático monozona, iluminación ambiental, y otras innovaciones como espejo retrovisor con oscurecimiento automático, cristales polarizados en las ventanas traseras y el portón trasero, apertura de puertas y arranque sin llave y un techo solar de apertura eléctrica. El paquete Tech –opcional– agrega la funcionalidad Vehicle-to-Load con un enchufe interno de tres clavijas y una llave digital.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Hyundai-Imagen-referencial-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/01/Hyundai-Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Hyundai-Imagen-referencial-B.jpg)
 
 En cuanto respecta a la **seguridad activa**, el Inster Cross sorprende igualmente con su avanzada tecnología, pues siendo un vehículo de pequeñas dimensiones viene dotado de asistente para evitar colisiones en el punto ciego (BCA), monitor de vista del punto ciego (BVM), monitor de vista envolvente (SVM), eCall, asistente para evitar colisiones frontales (FCA 1.5) –automóvil, peatón, ciclista y cruce– asistente para conducir en autopista (HDA 1.5), asistente inteligente para límites de velocidad (ISLA), asistente para mantenerse en el carril (LKA), asistente para seguir el carril (LFA) y **asistente para evitar colisiones en el estacionamiento marcha atrás (PCA-R).**
 

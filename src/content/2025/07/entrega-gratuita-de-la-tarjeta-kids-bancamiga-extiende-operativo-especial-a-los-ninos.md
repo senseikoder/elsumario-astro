@@ -26,7 +26,7 @@ coverImage: "Destacada-ES-y-BFN-Dia-del-Nino-2025.jpg"
 
 **El Sumario** \- Después de la exitosa jornada por el **Día del Niño** realizada este fin de semana en Caracas y el interior del país, [**Bancamiga**](https://www.instagram.com/bancamiga/?hl=es) decidió efectuar un **operativo especial este sábado 26 de julio en un total de 24 agencias**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Para-acompanar-el-texto-de-primera-Dia-del-Nino-2025-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Para-acompanar-el-texto-de-primera-Dia-del-Nino-2025.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/Para-acompanar-el-texto-de-primera-Dia-del-Nino-2025-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Para-acompanar-el-texto-de-primera-Dia-del-Nino-2025.jpg)
 
 A partir de las 9:00 am, los **niños y adolescentes en compañía de su representante** podrán abrir sus cuentas para menores y **recibir de manera gratuita la tarjeta Kids** en las **agencias Centro Lido, Las Ibarras, Chacao, El Hatillo, Sabana Grande, Altamira, La Castellana, Los Teques, Guaparo, Galerías Plaza en Maracay, Valle de la Pascua, Calabozo, Rattan Plaza en Porlamar,  Puerto La Cruz, Mérida, San Francisco en Maracaibo, Taquilla VIVA, Barquisimeto Centro, Barquisimeto Este, Sambil San Cristóbal, Ciudad Ojeda, Barinas, Guatire** y **Maiquetía**.
 
@@ -34,13 +34,13 @@ Ya este sábado 2.000 cuentas se abrieron en el operativo por el Día de los Ni�
 
 **En variados diseños, la tarjeta Kids Bancamiga está soportada con tecnología sin contacto y fue concebida especialmente para que los niños comiencen a aprender sobre el manejo responsable del dinero**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Destacada-PV-Dia-del-Nino-2025-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Destacada-PV-Dia-del-Nino-2025.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/Destacada-PV-Dia-del-Nino-2025-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Destacada-PV-Dia-del-Nino-2025.jpg)
 
 Con la cuenta para menores de edad cedulados (entre los 9 y 17 años), los niños y adolescentes **también podrán registrarse en el portal y visualizar su saldo y movimientos de cuenta**.
 
 “Si no tuviste la oportunidad de abrir la cuenta y recibir de manera gratuita la tarjeta Kids, aprovecha este sábado la ocasión. Solo es necesario consignar copia de la cédula de identidad laminada y vigente, y copia del acta de nacimiento (a los fines de verificar la afiliación entre el niño, niña, adolescente y representante legal) en el nuevo formato, emitida por el CNE” explica un comunicado de la institución bancaria.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Destacada-DLL-Dia-del-Nino-2025-1024x481.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Destacada-DLL-Dia-del-Nino-2025.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/Destacada-DLL-Dia-del-Nino-2025-1024x481.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Destacada-DLL-Dia-del-Nino-2025.jpg)
 
 Para conocer detalles sobre la ubicación de las agencias Bancamiga en Venezuela se puede visitar el siguiente link: **[https://www.bancamiga.com/agencias-bancamiga/](https://www.bancamiga.com/agencias-bancamiga/)**
 

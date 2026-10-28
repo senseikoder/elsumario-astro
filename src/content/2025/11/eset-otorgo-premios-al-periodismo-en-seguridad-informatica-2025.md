@@ -27,7 +27,7 @@ El premio para el ganador principal es un viaje a Barcelona, España, para parti
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Premio-ESET-Periodismo-1.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-referencial-Premio-ESET-Periodismo-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Imagen-referencial-Premio-ESET-Periodismo-1.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-referencial-Premio-ESET-Periodismo-1.jpg)
 
 <figcaption>
 

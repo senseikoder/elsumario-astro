@@ -33,7 +33,7 @@ Los amantes del ciclismo y del deporte en Venezuela y el mundo apreciarán la ev
 
 Presentado por el influencer internacional, Rodri Sábato, el **audiovisual de 33 minutos** será una **oportunidad inolvidable para acercarse a la majestuosidad de los Andes y conectarse con la batalla épica que los pedalistas sostienen kilómetro a kilómetro contra el viento, la altitud y la montaña**. También al esfuerzo del sexteto de ciclistas que conforman los experimentados **José Rujano, Alfonso Márquez, José Alarcón, Jeison Avendaño, Edwin Becerra** y **Alan Noya** por cruzar la meta en menos de 5h15 minutos en el **Reto Bancamiga Ultrabikex**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Destacada-DLL-y-BFN-1024x492.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Destacada-DLL-y-BFN.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Destacada-DLL-y-BFN-1024x492.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Destacada-DLL-y-BFN.jpg)
 
 El Gran Fondo Collado del Cóndor se ha constituido en la competencia de ciclismo más atractiva y exigente del país, congregando a pedalistas en cuatro distancias: 26 kilómetros desde Mucuchíes; 46 km desde Valle Hermoso; 80 km desde Mérida y 125 kilómetros desde Estanques.
 
@@ -43,7 +43,7 @@ En el **especial que se transmite en toda América este domingo a las 8:30 pm (a
 
 Aunque fue el domingo 23 de marzo cuando los ciclistas lucharon por llegar al Collado, **muchos fueron los meses de entrenamiento**, donde en el camino fueron animados e inspirados por ciclistas internacionales como el **esloveno Tadej Pogačar**, ganador el año pasado del Tour de Francia y del Giro de Italia; el **colombiano Egan Bernal**, quien en 2019 se convirtió en el primer latinoamericano en ganar el Tour de Francia, y por el también **colombiano Nairo Quintana**, ganador en 2014 del Giro de Italia.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencail-adicional-1024x738.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencail-adicional.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencail-adicional-1024x738.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencail-adicional.jpg)
 
 El documental sobre el Gran Fondo Collado del Cóndor implicó cientos de horas de producción en **Caracas** y en distintos lugares de **Mérida**, que hoy permiten mostrar un hecho histórico como es el Récord Guinness con la pasión de los ciclistas y de todos aquellos que desde temprano salieron a las calles para también ser protagonistas del Gran Fondo más alto del planeta.
 

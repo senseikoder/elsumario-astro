@@ -33,7 +33,7 @@ Es un despertar **para aquellas mujeres que están claras que para que todo func
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Referencial-2-1024x683.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/10/Referencial-2-1024x683.jpg)
 
 <figcaption>
 

@@ -29,7 +29,7 @@ Con esta **colección compuesta de 44 atuendos**, la marca celebró su primera d
 
 <figure>
 
-[![Intermoda](https://tu-r2-bucket.r2.cloudflarestorage.com/images/9dc62e2a4c963365eeecfc8e3415adaa1c9eea47m.jpg)](https://elsumario.com/wp-content/uploads/2025/07/9dc62e2a4c963365eeecfc8e3415adaa1c9eea47m.jpg)
+[![Intermoda](https://elsumario.com/wp-content/uploads/2025/07/9dc62e2a4c963365eeecfc8e3415adaa1c9eea47m.jpg)](https://elsumario.com/wp-content/uploads/2025/07/9dc62e2a4c963365eeecfc8e3415adaa1c9eea47m.jpg)
 
 <figcaption>
 

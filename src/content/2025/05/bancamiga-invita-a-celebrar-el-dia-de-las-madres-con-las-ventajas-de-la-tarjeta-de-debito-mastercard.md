@@ -37,7 +37,7 @@ A estas características se suman **descuentos exclusivos disponibles a escala n
 
 También los clientes disfrutan de **10% de descuento en cualquiera de las sedes de Poke Pok Caracas** y de **5 y 10% en compras en las sedes de Mercado Familia Caracas**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-principal-ES-y-PV-1-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-principal-ES-y-PV-1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-principal-ES-y-PV-1-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-principal-ES-y-PV-1.jpg)
 
 Este Día de las Madres es una buena ocasión para consentir a mamá y hacer realidad algunos de sus deseos, recuerda y recomienda Bancamiga.
 

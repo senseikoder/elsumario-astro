@@ -30,7 +30,7 @@ Mientras tanto, diversos líderes políticos de Uruguay y el mundo también reco
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jose-Mujica.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Jose-Mujica.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Jose-Mujica.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Jose-Mujica.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ El pasado 27 de diciembre, el expresidente fue sometido a una intervención quir
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jose-Pepe-Mujica.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Jose-Pepe-Mujica.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Jose-Pepe-Mujica.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Jose-Pepe-Mujica.jpg)
 
 <figcaption>
 

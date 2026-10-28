@@ -26,7 +26,7 @@ En el torneo, que en 2024 contó con la presencia de otras estrellas retiradas, 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Forum-Jet.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Forum-Jet.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Forum-Jet.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Forum-Jet.jpg)
 
 <figcaption>
 

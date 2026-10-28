@@ -26,7 +26,7 @@ El conocido como **Comité Inaugural Trump-Vance** está obligado por ley federa
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Donald-Trump-Toma-de-posesion-1024x682.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Donald-Trump-Toma-de-posesion.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Donald-Trump-Toma-de-posesion-1024x682.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Donald-Trump-Toma-de-posesion.jpg)
 
 <figcaption>
 

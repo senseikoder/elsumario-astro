@@ -27,7 +27,7 @@ Actualmente, las unidades de transporte público integradas a Movi by Bancamiga,
 
 Este nuevo aplicativo digital no solo agiliza el pago del pasaje, sino que también aumenta la seguridad y transparencia en las transacciones, beneficiando tanto a los usuarios como a los transportistas. Movi by [Bancamiga](https://www.instagram.com/bancamiga/?hl=es) se adapta a la necesidad de una movilidad más eficiente y tecnológica, alineándose con las tendencias globales en innovación financiera y dejando atrás el uso del efectivo, informa un comunicado de la institución bancaria.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Para-acompanar-el-texto-Imagen-referencial-1024x575.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-el-texto-Imagen-referencial.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-el-texto-Imagen-referencial-1024x575.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Para-acompanar-el-texto-Imagen-referencial.jpg)
 
 Con _Movi by Bancamiga_ damos un paso firme hacia la **modernización del transporte público en Venezuela**. Nuestro compromiso es ofrecer soluciones seguras, accesibles y que mejoren la **calidad de vida de los ciudadanos**.
 

@@ -43,13 +43,13 @@ El premio rinde homenaje a una campaña que trascendió la publicidad para conve
 
 _Saving Pelotica de Goma_ se destacó por su **concepto auténtico y multifacético**. La campaña no solo evocó la nostalgia, sino que involucró activamente a las comunidades a través de torneos en los barrios, contenido documental en redes sociales y la distribución de las icónicas peloticas de goma, logrando reconectar a las nuevas generaciones con un juego-deporte que fomenta la amistad, el sano esparcimiento o recreación y la resiliencia.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/SavingPeloticadeGoma-LaWebBuentipoVacilateEsto.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/SavingPeloticadeGoma-LaWebBuentipoVacilateEsto.jpg)
 
 En declaraciones ofrecidas en Cannes, por **Joffre Carmona**, Chief Creative Officer de Buentipo, se explicó que la campaña galardonada se hizo en colaboración por dos agencias. Ambos equipos lo lograron: **La Web**, que es una agencia de Venezuela y **Buentipo**, que tiene oficinas en Caracas y en Bogotá.
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Joffre-Carmona-2-1.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Joffre-Carmona-2-1.jpg)
 
 <figcaption>
 

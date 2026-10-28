@@ -25,7 +25,7 @@ El evento se realizó en la _Mega Sala de la Torre Telefónica_ y reunió a más
 
 Para **Andrea Galarraga**, directora de Sostenibilidad de [Fundación Venemergencia](https://www.instagram.com/fundacionvenemergencia/), esta jornada es la materialización del quehacer académico de la organización. **“**Seguimos sumando esfuerzos por fortalecer el eslabón que conecta al personal prehospitalario con el hospitalario, para brindar mejor atención al paciente politraumatizado, una iniciativa que promueve el **acceso a la salud a través de la educación”**. 
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B.jpeg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-B.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-B.jpeg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-B.jpeg)
 
 Liderazgo en situaciones críticas, gestión de la escena en trauma, comunicación en emergencias prehospitalarias y manejo quirúrgico del politraumatizado fueron algunas de las ponencias de la jornada dictadas por médicos y paramédicos como **Wilbani León**, **Roberto Cecchini**, **Dr. Javier Goncalves**, **Dr. Cristopher Varela**, **Dr. Adrián León** y la **Dra. Jaddink Rosales**.
 

@@ -23,7 +23,7 @@ coverImage: "stephen-kidd-4QHd2jLvYN0-unsplash.jpg"
 
 **Hyundai Motor** recibió seis premios [**GOOD DESIGN®**](https://gooddesignawards.org/) en la categoría de Diseño gráfico por **Hyundai Advanced Air Mobility: Supernal, Hyundai Heritage 'PONY' Exhibition Branding, Hyundai Heritage Retrace Collection Book 'PONY', Hyundai Re:Style 2023 Exhibition Branding, Hyundai Re:Style 2023 Archiving Book y The All-New SANTA FE Launching Book**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-2-1024x560.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/03/Imagen-referencial-2-1024x560.jpg)
 
 La empresa ganó **tres premios** [**GOOD DESIGN®**](https://gooddesignawards.org/) en la **categoría de Transporte**, incluido el difusor de automóvil PONY y el cargador doméstico global, y **tres conceptos de movilidad futura presentados juntos**: _DICE_ (experiencia digital curada), _SPACE_ (experiencia espacial curada) y _CITY POD_.
 
@@ -31,7 +31,7 @@ La empresa ganó **tres premios** [**GOOD DESIGN®**](https://gooddesignawards.
 
 Asimismo, el laboratorio de robótica del grupo fue galardonado con cinco premios [**GOOD DESIGN®**](https://gooddesignawards.org/) en la **categoría de Robótica** con el X-ble Shoulder, el MobED Delivery, el Safety Inspection Robot, el DAL-e Delivery y el Service Robot DAL-e. Estos representan la mitad de todos los ganadores en el campo de la robótica en estos premios del año.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-1-1024x560.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/03/Imagen-referencial-1-1024x560.jpg)
 
 “Los premios son el resultado de los esfuerzos y el compromiso constantes de los diseñadores e ingenieros para dar un paso hacia el mundo de la inteligencia robótica”, afirmó **Dong Jin Hyun**, vicepresidente y director de **Robotics LAB en Hyundai Motor** y **Kia**. “Seguiremos esforzándonos para garantizar que la tecnología robótica innovadora satisfaga de forma natural las necesidades de los clientes”.
 
@@ -41,7 +41,7 @@ La marca de exhibición **Hyundai Heritage 'PONY'** ganó el oro en los premio
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-1024x650.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/03/Imagen-referencial-B-1024x650.jpg)
 
 <figcaption>
 

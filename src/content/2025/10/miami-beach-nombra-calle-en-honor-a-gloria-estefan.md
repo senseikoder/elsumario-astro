@@ -26,7 +26,7 @@ Se trata de la **calle 13** de **South Beach**, en el sur de Miami Beach, lugar 
 
 La comisionada (concejal) **Laura Domínguez**, respaldada por la Comisión de Mujeres de Miami Beach, promovió el nombramiento de la **"Gloria Estefan Way"**, señaló en un comunicado.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Gloria-Estefan-Miami-Beach.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Gloria-Estefan-Miami-Beach.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Gloria-Estefan-Miami-Beach.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Gloria-Estefan-Miami-Beach.jpg)
 
 La estrella latina "personifica el sueño americano" al haber llegado de Cuba y lograr "tremendo éxito en Miami Beach, donde formó una hermosa familia con el amor de su vida", detalla la nota.
 

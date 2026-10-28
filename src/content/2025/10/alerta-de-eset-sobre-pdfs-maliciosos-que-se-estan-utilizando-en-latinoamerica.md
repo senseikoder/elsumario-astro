@@ -27,7 +27,7 @@ Se trata de una información de valor tanto para usuarios esporádicos u ocasion
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-Para-acompanar-el-texto.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/10/Imagen-referencial-A-Para-acompanar-el-texto.jpg)
 
 <figcaption>
 
@@ -43,7 +43,7 @@ La campaña maliciosa comienza con un correo de phishing que incluye un archivo 
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-Para-acompanar-el-texto.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/10/Imagen-referencial-B-Para-acompanar-el-texto.jpg)
 
 <figcaption>
 
@@ -73,7 +73,7 @@ Diagrama de infección
 
 - **Transferencia de archivos y exfiltración:** Presencia de paquetes que permiten descargar y subir archivos entre el C2 y el dispositivo infectado. También HTTPUtil.java que gestionaría comunicaciones HTTP.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-ESET-advierte-por-PDFs-maliciosos-que-circulan-en-Latinoamerica-Suministrada-por-ESET-y-Comstat-R-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-ESET-advierte-por-PDFs-maliciosos-que-circulan-en-Latinoamerica-Suministrada-por-ESET-y-Comstat-R.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-ESET-advierte-por-PDFs-maliciosos-que-circulan-en-Latinoamerica-Suministrada-por-ESET-y-Comstat-R-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-ESET-advierte-por-PDFs-maliciosos-que-circulan-en-Latinoamerica-Suministrada-por-ESET-y-Comstat-R.jpg)
 
 ESET invita a conocer más sobre seguridad informática visitando: [https://www.welivesecurity.com/es/](https://www.welivesecurity.com/es/)
 

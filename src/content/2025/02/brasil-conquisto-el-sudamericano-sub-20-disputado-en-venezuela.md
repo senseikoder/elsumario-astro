@@ -25,7 +25,7 @@ Los dirigidos por **Ramon Menezes** llegaron así a su título número 13, el se
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Brasil.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Brasil.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Brasil.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Brasil.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ El elenco nacional finalizó en la cuarta casilla del **Grupo A** con un balance
 
 <figure>
 
-[![Vinotinto Sub-20](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vinotinto-Sub-20-2.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Vinotinto-Sub-20-2.jpg)
+[![Vinotinto Sub-20](http://elsumario.com/wp-content/uploads/2025/01/Vinotinto-Sub-20-2.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Vinotinto-Sub-20-2.jpg)
 
 <figcaption>
 

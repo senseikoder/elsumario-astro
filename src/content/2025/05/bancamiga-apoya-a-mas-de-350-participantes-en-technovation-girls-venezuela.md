@@ -29,7 +29,7 @@ coverImage: "Technovation-Girls-grupo-Destacada-B-BFN-y-ES.jpg"
 
 _Technovation Girls_ es una competencia global que invita a equipos de jóvenes a identificar problemas en su entorno y a desarrollar aplicaciones móviles para resolverlos. **A lo largo de 18 semanas de mentoría y aprendizaje, las participantes adquieren habilidades cruciales en programación, innovación, negocios, mercadeo y liderazgo**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Technovation-Girls-grupo-Destacada-A-DLL-y-PV-1024x632.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Technovation-Girls-grupo-Destacada-A-DLL-y-PV.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Technovation-Girls-grupo-Destacada-A-DLL-y-PV-1024x632.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Technovation-Girls-grupo-Destacada-A-DLL-y-PV.jpg)
 
 “La participación de Bancamiga como aliado estratégico de **Technovation Girls Venezuela** recalca la visión del banco de fomentar el desarrollo de los jóvenes del país en áreas clave como la ciencia, la tecnología, la ingeniería y las matemáticas, para impulsarlas a seguir carreras en estas áreas”, expresó **José Simón Elarba**, Presidente de la Junta Directiva de **Bancamiga Banco Universal**.
 
@@ -45,7 +45,7 @@ Technovation Girls Venezuela culmina con una emocionante jornada de presentació
 
 Los temas abordados son diversos, reflejando las preocupaciones e intereses de las jóvenes, **desde soluciones para mejorar la educación y la salud hasta iniciativas para promover la sostenibilidad ambiental y la inclusión social**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Technovation-Girls-Jovenes-Acompanamiento-de-texto-1024x739.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Technovation-Girls-Jovenes-Acompanamiento-de-texto.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Technovation-Girls-Jovenes-Acompanamiento-de-texto-1024x739.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Technovation-Girls-Jovenes-Acompanamiento-de-texto.jpg)
 
 **Ámbar Córdoba** y su equipo de compañeras desarrollaron la aplicación _Smart Finances_, con la que esperan “que las personas vulnerables se empoderen y se sientan con la libertad de poder generar ingresos”.
 

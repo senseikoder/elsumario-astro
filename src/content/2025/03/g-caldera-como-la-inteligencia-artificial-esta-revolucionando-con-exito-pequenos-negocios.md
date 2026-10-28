@@ -52,7 +52,7 @@ coverImage: "hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/tsuyoshi-kozu-1s5AWr4z6w8-unsplash.jpg)](https://elsumario.com/wp-content/uploads/2025/03/tsuyoshi-kozu-1s5AWr4z6w8-unsplash.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/03/tsuyoshi-kozu-1s5AWr4z6w8-unsplash.jpg)](https://elsumario.com/wp-content/uploads/2025/03/tsuyoshi-kozu-1s5AWr4z6w8-unsplash.jpg)
 
 <figcaption>
 
@@ -70,7 +70,7 @@ Cierro con una invitación realista. Elige un proceso, un indicador y una herram
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/German-Caldera-B.jpg.webp)
+![](https://doblellave.com/wp-content/uploads/2024/10/German-Caldera-B.jpg.webp)
 
 <figcaption>
 

@@ -25,7 +25,7 @@ coverImage: "Jesus-Luzardo.jpg"
 
 El abridor **peruano-venezolano** viene de ser el abridor del Juego Inaugural de los **Marlins de Miami** en 2024.
 
-[![Jesús Luzardo Marlins de Miami](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jesus-Luzardo-Miami.jpg)](http://elsumario.com/wp-content/uploads/2022/04/Jesus-Luzardo-Miami.jpg)
+[![Jesús Luzardo Marlins de Miami](http://elsumario.com/wp-content/uploads/2022/04/Jesus-Luzardo-Miami.jpg)](http://elsumario.com/wp-content/uploads/2022/04/Jesus-Luzardo-Miami.jpg)
 
 El lanzador fue cambiado el 22 de diciembre de los Marlins a los Filis junto al jardinero y receptor de liga menor **Paul McIntosh** a cambio del dominicano **Starlyn Caba** y del jardinero **Emaarion Boyd**.
 
@@ -33,7 +33,7 @@ Los Filis han sido uno de los equipos más competitivos de los últimos años y 
 
 "Pude lanzar en ese ambiente, estando del lado contrario, y ahora estoy ansioso por estar del lado local, obviamente", expresó Luzardo, quien tiró cuatro entradas de tres carreras ante los Filis en la postemporada de 2023 como jugador de los Marlins.
 
-[![Jesús Luzardo](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jesus-Luzardo.jpg)](http://elsumario.com/wp-content/uploads/2022/04/Jesus-Luzardo.jpg)
+[![Jesús Luzardo](http://elsumario.com/wp-content/uploads/2022/04/Jesus-Luzardo.jpg)](http://elsumario.com/wp-content/uploads/2022/04/Jesus-Luzardo.jpg)
 
 Para Luzardo este no es el primer cambio en su carrera, ya que a los Marlins llegó en un traspaso desde los **Atléticos de Oackland**, aunque afirmó que esta vez estaba más preparado.
 

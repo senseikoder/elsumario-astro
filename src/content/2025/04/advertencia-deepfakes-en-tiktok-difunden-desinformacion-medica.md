@@ -30,7 +30,7 @@ Los videos analizados por ESET siguen una estructura muy delimitada: en un forma
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-2.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A-2.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A-2.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A-2.jpg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ Como ejemplo de los videos hallados, una de estas cuentas promueve un extracto n
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-2.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-B-2.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-B-2.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-B-2.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ En este relevamiento, el equipo de investigación de ESET identificó más de 20
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-C.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-C.jpg)
 
 <figcaption>
 

@@ -43,7 +43,7 @@ _“Estas promesas demasiado buenas para ser ciertas, la mayoría de las veces n
 
 8. _**Engaño del partido fijo:**_ En estos casos, el estafador empezará por encontrar un grupo de personas interesadas en partidos previamente “arreglados”: digamos 30 individuos. El estafador les pedirá que paguen por adelantado y les dirá a 10 que apuesten por un resultado, a 10 que apuesten por otro y a 10 que apuesten por un tercero (en la mayoría de los partidos deportivos, sólo hay tres resultados posibles). Los 10 individuos para los que el pronosticador predijo el resultado correcto piensan ahora que acaban de apostar en un auténtico partido alterado, y se verán incentivados a apostar más dinero en el siguiente partido. Los que no hayan ganado serán bloqueados por el estafador.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Para-acompanar-texto-del-analisis.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/02/Imagen-referencial-Para-acompanar-texto-del-analisis.jpg)
 
 ### Las mejores tácticas para apostar con seguridad y para mantener a los estafadores a distancia, según ESET
 

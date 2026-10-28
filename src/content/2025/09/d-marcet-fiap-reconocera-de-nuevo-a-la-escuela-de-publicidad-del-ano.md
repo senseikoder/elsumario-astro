@@ -30,7 +30,7 @@ coverImage: "Daniel-Marcet-2025_1-1-1comp-1.jpg"
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/triven-samir-cVYupBT0UTo-unsplash-1024x789.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/09/triven-samir-cVYupBT0UTo-unsplash-1024x789.jpg)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ Fuente de esta imagen referencial: Triven Samir en Unsplash
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/roman-holoschchuk-SNa3JzPTqJY-unsplash-1024x683.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/09/roman-holoschchuk-SNa3JzPTqJY-unsplash-1024x683.jpg)
 
 <figcaption>
 

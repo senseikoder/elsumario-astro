@@ -33,7 +33,7 @@ Según la **Organización de las Naciones Unidas para la Alimentación y la Agri
   
 Fernandes dijo que el BAV es una organización sin fines de lucro, independiente, basada en el voluntariado, con la misión de rescatar alimentos, y colocarlos en el plato de quienes más los necesitan.  
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Marianela-Fernandes-BA-4.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Marianela-Fernandes-BA-4.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Marianela-Fernandes-BA-4.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Marianela-Fernandes-BA-4.jpg)
 
 La iniciativa cuenta con el apoyo de distintas organizaciones aliadas y en la medida que reciba más respaldo, mayor será su impacto social y presencia en el país.  
   

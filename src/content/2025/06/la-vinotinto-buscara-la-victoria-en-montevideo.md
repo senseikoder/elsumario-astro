@@ -29,7 +29,7 @@ Asimismo, remarcó que Venezuela se enfrentará a un equipo que está necesitand
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Fernando-Batista-1.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Fernando-Batista-1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Fernando-Batista-1.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Fernando-Batista-1.jpg)
 
 <figcaption>
 

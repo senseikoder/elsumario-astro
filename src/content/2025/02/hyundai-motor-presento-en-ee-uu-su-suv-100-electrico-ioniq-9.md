@@ -49,9 +49,7 @@ El evento de lanzamiento y presentación contó con más de 300 representantes d
 
 Por su parte, **Olabisi Boyle**, Vicepresidente Senior de Planificación de Producto y Estrategia de Movilidad de Hyundai Motor North America, subrayó que el amplio espacio que ofrece el interior de IONIQ 9 es efectiva y realmente _premium_ donde las personas pueden estar separadas, pero en última instancia juntas.
 
-\<figure class="wp-caption aligncenter" style="max-width:985px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Imagen-referencial-B.jpg" alt="Evento de lanzamiento y presentación de IONIQ 9" />
-<figcaption>Momento previo a la exhibición de IONIQ 9 en el evento de lanzamiento</figcaption></figure>
+\[caption id="attachment\_338594" align="aligncenter" width="985"\][![Evento de lanzamiento y presentación de IONIQ 9](http://elsumario.com/wp-content/uploads/2025/02/Hyundai-Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Hyundai-Imagen-referencial-B.jpg) Momento previo a la exhibición de IONIQ 9 en el evento de lanzamiento\[/caption\]
 
 ## Una "Grand" oportunidad
 
@@ -59,9 +57,7 @@ Entre tanto, en **Venezuela**, Hyundai cuenta con **otros diferentes modelos***
 
 Uno de los concesionarios **Hyundai** siempre dispuestos a brindar oportuna información y útil asesoramiento es **[Iksan Motors](https://www.instagram.com/iksan.caracas/?hl=es)**, ubicado en Las Mercedes, Caracas (Telf. 0412-6393167).
 
-\<figure class="wp-caption aligncenter" style="max-width:749px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Imagen-referencial-C.jpg" alt="" />
-<figcaption>"Grand" oportunidad</figcaption></figure>
+\[caption id="attachment\_338595" align="aligncenter" width="749"\][![](http://elsumario.com/wp-content/uploads/2025/02/Hyundai-Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Hyundai-Imagen-referencial-C.jpg) "Grand" oportunidad\[/caption\]
 
 Hyundai Venezuela ofrece actualmente un vehículo 0 km por tan solo _¡$19.990!_ El Grand i10 Hatchback GL, que **viene con todo**, es decir, con un excelente precio y enorme calidad.
 

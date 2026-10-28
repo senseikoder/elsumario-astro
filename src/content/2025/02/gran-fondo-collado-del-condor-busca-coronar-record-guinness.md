@@ -52,7 +52,7 @@ Este evento atraerá a **más de** **1.000 ciclistas de diversas partes del mund
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jenny-Castro-Coordinadora-General-del-GFCDC2025-Imagen-referencial-C-1024x560.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Jenny-Castro-Coordinadora-General-del-GFCDC2025-Imagen-referencial-C.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Jenny-Castro-Coordinadora-General-del-GFCDC2025-Imagen-referencial-C-1024x560.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Jenny-Castro-Coordinadora-General-del-GFCDC2025-Imagen-referencial-C.jpg)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ Un anunció relevante fue que el **Gran Fondo de Ciclismo Egan Bernal** así
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Rueda-de-prensa-GFCDC2025-Imagen-referencial-B-1024x494.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Rueda-de-prensa-GFCDC2025-Imagen-referencial-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Rueda-de-prensa-GFCDC2025-Imagen-referencial-B-1024x494.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Rueda-de-prensa-GFCDC2025-Imagen-referencial-B.jpg)
 
 <figcaption>
 

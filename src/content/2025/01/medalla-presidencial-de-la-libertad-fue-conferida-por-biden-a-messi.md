@@ -36,9 +36,7 @@ _**"**Es un profundo honor haber sido distinguido con este reconocimiento. (...)
 
 Agrega _Clarín_ que, el campeón mundial en Qatar 2022 también dejó abierta la posibilidad de visitar a Biden para **recibir la medalla personalmente** cuando regrese a Estados Unidos. Tendrá, eso sí, que apurarse: el mandato del demócrata culmina el 20 de enero.
 
-\<figure class="wp-caption aligncenter" style="max-width:1256px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Magic-Red-social-X-UPI.jpg" alt="Imagen referencial - Magic - Red social X - UPI" />
-<figcaption>(Fuente de esta imagen referencial: Magic Johnson / Por UPI / Casa Blanca / Red social X)</figcaption></figure>
+\[caption id="attachment\_337216" align="aligncenter" width="1256"\][![Imagen referencial - Magic - Red social X - UPI](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-Magic-Red-social-X-UPI.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-Magic-Red-social-X-UPI.jpg) (Fuente de esta imagen referencial: Magic Johnson / Por UPI / Casa Blanca / Red social X)\[/caption\]
 
 El presidente de Estados Unidos sintetizó sonriente antes de comenzar con la entrega de la medalla que _"Como íconos culturales, dignos estadistas, humanitarios, estrellas del rock, estrellas del deporte, alimentan a los hambrientos, dan esperanza a los que sufren y crean los signos y los sonidos de nuestros movimientos y nuestros recuerdos"._ La ceremonia se extendió por poco más de media hora.
 

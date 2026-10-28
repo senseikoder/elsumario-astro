@@ -25,7 +25,7 @@ Además, a las 19:30 horas locales (17:30 GMT) convocó el rezo de un rosario en
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Papa-Francisco-2-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Papa-Francisco-2.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Papa-Francisco-2-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Papa-Francisco-2.jpg)
 
 <figcaption>
 

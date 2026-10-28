@@ -28,7 +28,7 @@ En ese sentido, el bolívar perdió 8,2 % de su valor frente al dólar en lo que
 
 En 2024, el bolívar se devaluó un 30,9 % respecto al dólar, cuyo precio en el mercado oficial pasó de 35,9 bolívares a 52,02 durante el año, sobre todo, en el último trimestre, cuando se rompió la estabilidad que mantuvo desde enero hasta octubre, período durante el que osciló entre los 36 y 37 bolívares.
 
-[![dinero - OVF - bolívares](https://tu-r2-bucket.r2.cloudflarestorage.com/images/dinero-billeres-dolares-bolivares.jpeg "bolívares")](http://elsumario.com/wp-content/uploads/2024/06/dinero-billeres-dolares-bolivares.jpeg)
+[![dinero - OVF - bolívares](http://elsumario.com/wp-content/uploads/2024/06/dinero-billeres-dolares-bolivares.jpeg "bolívares")](http://elsumario.com/wp-content/uploads/2024/06/dinero-billeres-dolares-bolivares.jpeg)
 
 Pese a todo, la moneda nacional registró una **devaluación** menor en comparación con 2023, cuando el bolívar cayó un 51 % frente al dólar, que se duplicó ese año en el mercado oficial.
 

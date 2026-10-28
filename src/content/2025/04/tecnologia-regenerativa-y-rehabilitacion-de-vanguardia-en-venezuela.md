@@ -35,7 +35,7 @@ La institución de servicios médicos incorporó el **Sistema super inductivo**
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial.jpg)
 
 <figcaption>
 

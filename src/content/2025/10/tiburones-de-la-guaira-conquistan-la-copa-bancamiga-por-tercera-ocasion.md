@@ -26,11 +26,11 @@ coverImage: "Foto-destacada-para-ES-y-PV.jpg"
 
 Este evento, que se ha convertido en un referente dentro del **calendario beisbolístico nacional**, no solo prometió una intensa competencia en el terreno, sino también una experiencia integral para los fanáticos gracias a un **amplio despliegue y posicionamiento de la marca Bancamiga**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-para-acompanar-texto-1-1024x608.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-texto-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-texto-1-1024x608.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-texto-1.jpg)
 
 **El honor del primer lanzamiento fue responsabilidad de Ariel Martínez**, quien selló este símbolo de la alianza entre el deporte y la banca. Por su parte, **el talento de Ramón Delfino se hizo presente con la interpretación del Himno Nacional**, marcando el inicio formal de esta fiesta deportiva con un toque de emoción que unió a todos los presentes.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Foto-destacada-para-DLL-y-BFN-1024x682.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Foto-destacada-para-DLL-y-BFN.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Foto-destacada-para-DLL-y-BFN-1024x682.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Foto-destacada-para-DLL-y-BFN.jpg)
 
 ## Una noche cargada de euforia
 
@@ -38,7 +38,7 @@ Durante el partido, se llevaron a cabo activaciones especiales para mantener la 
 
 Además, se entregaron aplaudidores, diseñados para amplificar el ánimo y la pasión en las gradas, haciendo de cada jugada un momento inolvidable. En el **Bancamiga Móvil**, las personas tuvieron la facilidad de abrir cuentas en bolívares y en divisas, y de retirar la **Tarjeta de Débito Bancamiga**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-para-acompanar-texto-2.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-texto-2.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-texto-2.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-texto-2.jpg)
 
 La **Copa Bancamiga 2025** reafirma así el compromiso de la institución bancaria con el **desarrollo y promoción del béisbol en Venezuela**, brindando un espacio donde la pasión deportiva se fusiona con experiencias de marca únicas, diseñadas para conectar con los aficionados y la comunidad. Este evento representa una oportunidad para que Bancamiga fortalezca su imagen y presencia en el país, a la vez que apoya una tradición deportiva emblemática.
 

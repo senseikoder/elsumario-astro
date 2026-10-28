@@ -31,7 +31,7 @@ Monterrey no pudo asimilar el mazazo y 5 minutos después el guardameta argentin
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Salomon-Rondon-II-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Salomon-Rondon-II.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Salomon-Rondon-II-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Salomon-Rondon-II.jpg)
 
 <figcaption>
 

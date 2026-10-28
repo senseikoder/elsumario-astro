@@ -23,7 +23,7 @@ Sobre su victoria, Mora subrayó que fue producto del "apoyo incondicional que r
 
 Por último, dedicó su victoria a su esposa y su hija que son "mi mayor inspiración en cada competencia".
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Luis-Mora-1024x682.jpeg)](https://elsumario.com/wp-content/uploads/2025/09/Luis-Mora.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Luis-Mora-1024x682.jpeg)](https://elsumario.com/wp-content/uploads/2025/09/Luis-Mora.jpeg)
 
 Entretanto, el colombiano **Cristian Vélez** (GW-Erco Shimano), quien dominó la octava y última etapa en un ajustado sprint final en la llegada del **Muro de Petare** para llevarse, además, la **clasificación por puntos** y de **sprints**, también elogió la organización de la competencia tras cruzar la meta.
 

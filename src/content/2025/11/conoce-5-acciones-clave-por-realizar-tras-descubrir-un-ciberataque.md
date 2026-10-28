@@ -29,7 +29,7 @@ _“Una filtración de datos no tiene por qué ser tan catastrófica como parece
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-Para-acompanar-el-texto.png)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-referencial-B-Para-acompanar-el-texto.png)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Imagen-referencial-B-Para-acompanar-el-texto.png)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-referencial-B-Para-acompanar-el-texto.png)
 
 <figcaption>
 

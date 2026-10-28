@@ -56,7 +56,7 @@ Emerge en la conversación que, un estudio de la compañía _Sounds Profitable_ 
 
 ### **La entrevistada**
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/1738349093807manu-copy.jpg)](http://elsumario.com/wp-content/uploads/2025/05/1738349093807manu-copy.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/1738349093807manu-copy.jpg)](http://elsumario.com/wp-content/uploads/2025/05/1738349093807manu-copy.jpg)
 
 **Manuela Walfenzao** (Caracas, Venezuela) es productora ejecutiva de podcasts y postproductora de cine con más de 10 años de experiencia. Vive en Ciudad de México desde hace 8 años donde ha trabajado en diferentes proyectos creativos. Es cofundadora de [Oronda Studio](https://oronda.studio/) especializado en podcasts. Fue mentora del programa _Sound Up de Spotify_ y entre sus proyectos se encuentran _Las mujeres valientes: Guií Chanáa de Nayelli López Reyes_, el primer podcast en español y triqui ganador del premio Gabo en audio 2024; _Los monstruos no viven bajo tu cama de Jessica Borja Montiel_, que estuvo en el top chart por meses. Entre sus proyectos más recientes se encuentran _El club del cringe_, _La última trinchera_ y _Fans sin guión_.
 

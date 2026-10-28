@@ -31,7 +31,7 @@ La primera colección Primavera-Verano 2025 se centra en alpargatas con suelas d
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Maroas-Imagen-referencial-1024x932.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Maroas-Imagen-referencial.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Maroas-Imagen-referencial-1024x932.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Maroas-Imagen-referencial.jpg)
 
 <figcaption>
 

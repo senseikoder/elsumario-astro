@@ -27,7 +27,7 @@ Según la funcionaria, la muestra representa un recordatorio de la independencia
 
 La **"Expo Simón: de niño a Libertador"**, inaugurada en Caracas el pasado mes de julio y presentada en varios estados del país, incluye educación, cultura y tecnología, y está dirigida a contribuir en la formación académica de estudiantes de primaria y secundaria, según el gobierno.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Expo-Simon-de-Nino-a-Libertador.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Expo-Simon-de-Nino-a-Libertador.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Expo-Simon-de-Nino-a-Libertador.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Expo-Simon-de-Nino-a-Libertador.jpg)
 
 En esta exposición, organizada por la Vicepresidencia, los visitantes podrán realizar experiencias inmersivas de realidad virtual, realidad aumentada e interacciones con avatares de inteligencia artificial (IA).
 

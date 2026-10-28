@@ -25,7 +25,7 @@ Estampas de la vida contemporánea son recreadas mediante una curiosa relación 
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referncial-B.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/02/Imagen-referncial-B.jpg)
 
 <figcaption>
 

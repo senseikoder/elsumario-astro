@@ -24,7 +24,7 @@ Bosch se hizo con el título al término de una gala en la que participaron muje
 
 La mexicana, que sucede a la **danesa Victoria Kjaer**, protagonizó uno de los momentos más virales del concurso, cuando exigió respeto al tailandés **Nawat Itsaragrisil**, encargado de montar el certamen en Bangkok y quien la mandó callar durante una sesión retransmitida en directo, lo que generó una ola de críticas, que llegaron hasta de la presidenta mexicana, **Claudia Sheinbaum**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Fatima-Bosch-1.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Fatima-Bosch-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Fatima-Bosch-1.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Fatima-Bosch-1.jpg)
 
 En las rondas de preguntas durante las sesiones del concurso, la mexicana dijo que usará su plataforma como Miss Universo al servicio de otros, invitando a las mujeres a ser valientes y a marcar una diferencia en las áreas en las que se desarrollen.
 

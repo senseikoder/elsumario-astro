@@ -28,7 +28,7 @@ Así, INITIUM ofrece una vista previa de un nuevo FCEV de producción que Hyunda
 
 Este exclusivo concepto de SUV propulsado por pila de combustible de hidrógeno **también marca el debut del nuevo estilo de diseño de Hyundai Motor, llamado «Art of Steel»**, que encarna el carácter de HTO, la marca comercial dedicada a la cadena de valor del hidrógeno de **Hyundai Motor Group** (el grupo de empresas).
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-referencial-Destacada-DLL.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Hyundai-referencial-Destacada-DLL.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Hyundai-referencial-Destacada-DLL.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Hyundai-referencial-Destacada-DLL.jpg)
 
 > #### _**El compromiso claro e inquebrantable de Hyundai Motor con el hidrógeno durante los últimos 27 años se basa en nuestra creencia en su potencial como fuente de energía limpia, accesible y, por lo tanto, justa para todos. Nos dedicamos a ser pioneros en un futuro en el que el hidrógeno sea utilizado por todos, en todo y en todas partes. Los invitamos a uniros en este viaje.**_
 
@@ -44,7 +44,7 @@ Hyundai Motor también ha equipado el INITIUM con ruedas aerodinámicas para red
 
 En cuanto al rendimiento, INITIUM ofrece una excelente aceleración y una capacidad de adelantamiento suave. Al seguir desarrollando la tecnología de pila de combustible de Hyundai, **la empresa ha aumentado la producción de la pila y ha mejorado la capacidad de la batería**, lo que permite una **potencia del motor eléctrico de hasta 150 kW**. Esto garantiza que los conductores experimenten una conducción suave en áreas urbanas y a velocidades más altas en las autopistas.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imag.-Ref.-Comp.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imag.-Ref.-Comp.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imag.-Ref.-Comp.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imag.-Ref.-Comp.jpg)
 
 ### **Pasado, presente y futuro: el desarrollo de vehículos de hidrógeno de Hyundai Motor**
 

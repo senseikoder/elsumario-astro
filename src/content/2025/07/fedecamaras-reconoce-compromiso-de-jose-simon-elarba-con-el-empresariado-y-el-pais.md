@@ -31,7 +31,7 @@ coverImage: "ES-y-BFN-Imagen-referencial-destacada-o-principal.jpg"
 
 Y es que por su destacada colaboración y esfuerzo en beneficio del empresariado venezolano, Elarba fue homenajeado la noche de este jueves durante el evento llevado a cabo en **Valencia**, resaltando Celis su rol activo en el impulso de la economía nacional y su apoyo indiscutible a la Federación.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/PV-Imagen-referencial-destacada-o-principal-1024x695.jpg)](http://elsumario.com/wp-content/uploads/2025/07/PV-Imagen-referencial-destacada-o-principal.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/PV-Imagen-referencial-destacada-o-principal-1024x695.jpg)](http://elsumario.com/wp-content/uploads/2025/07/PV-Imagen-referencial-destacada-o-principal.jpg)
 
 Antes de la entrega de un galardón o premio, el máximo líder de Fedecámaras valoró a Elarba y a otros siete empresarios **por su compromiso inquebrantable con el país**, señalando que estos hombres de empresa “comprenden la importancia del trabajo colectivo y han tendido la mano en tiempos difíciles”.
 
@@ -43,7 +43,7 @@ El presidente de la Junta Directiva de [Bancamiga](https://www.instagram.com/ban
 
 Al recibir la distinción y reconocimiento frente a cientos de empresarios, José Simón Elarba expresó su agradecimiento, satisfacción y dedicó el honor a todos los colaboradores de Bancamiga y de las empresas que representa, que con su esfuerzo fomentan el **progreso nacional**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-que-acompana-texto-antes-del-ultimo-parrafo-1024x589.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-texto-antes-del-ultimo-parrafo.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-texto-antes-del-ultimo-parrafo-1024x589.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-texto-antes-del-ultimo-parrafo.jpg)
 
 Este reconocimiento reafirma el papel fundamental que desempeñan los líderes empresariales comprometidos con el crecimiento y la estabilidad económica del país.
 

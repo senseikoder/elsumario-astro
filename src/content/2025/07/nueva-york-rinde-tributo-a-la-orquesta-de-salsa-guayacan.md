@@ -29,7 +29,7 @@ Cantantes de otros géneros también han recibido tributos parecidos, como el ro
 
 <figure>
 
-[![Orquesta Guayacán](https://tu-r2-bucket.r2.cloudflarestorage.com/images/3b634db4aaa00cac3d920567af46acf060d48ecdm.jpg)](https://elsumario.com/wp-content/uploads/2025/07/3b634db4aaa00cac3d920567af46acf060d48ecdm.jpg)
+[![Orquesta Guayacán](https://elsumario.com/wp-content/uploads/2025/07/3b634db4aaa00cac3d920567af46acf060d48ecdm.jpg)](https://elsumario.com/wp-content/uploads/2025/07/3b634db4aaa00cac3d920567af46acf060d48ecdm.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ El evento contó con los **miembros del grupo Guayacán**, que expresaron su org
 
 <figure>
 
-[![Orquesta Guayacan](https://tu-r2-bucket.r2.cloudflarestorage.com/images/b0f77585e0ba345274b5d748f969df08a93e4cd7m.jpg)](https://elsumario.com/wp-content/uploads/2025/07/b0f77585e0ba345274b5d748f969df08a93e4cd7m.jpg)
+[![Orquesta Guayacan](https://elsumario.com/wp-content/uploads/2025/07/b0f77585e0ba345274b5d748f969df08a93e4cd7m.jpg)](https://elsumario.com/wp-content/uploads/2025/07/b0f77585e0ba345274b5d748f969df08a93e4cd7m.jpg)
 
 <figcaption>
 

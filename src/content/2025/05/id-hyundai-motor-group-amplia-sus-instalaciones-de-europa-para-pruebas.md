@@ -30,7 +30,7 @@ _Hyundai Motor_ ha pasado una década de éxitos desarrollando sus actividades e
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Hy-B.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/05/Imagen-referencial-Hy-B.jpg)
 
 <figcaption>
 

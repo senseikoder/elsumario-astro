@@ -25,7 +25,7 @@ Nacido el 15 de diciembre de 1936 en Nueva York, de padres puertorriqueños, Pal
 
 Por su parte, el salsero Víctor Manuelle aseguró que con su muerte se ha perdido "uno de los pilares más fuertes" del género musical, ya que "fueron muchas las generaciones que han quedado marcadas" con su música.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Eddie-Palmieri-2.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Eddie-Palmieri-2.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Eddie-Palmieri-2.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Eddie-Palmieri-2.jpg)
 
 "Hoy se apaga una de las luminarias más grandes de nuestra música. Su legado es inmenso, y su influencia en mi vida artística es eterna", expresó la cantante La India.
 

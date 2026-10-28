@@ -45,7 +45,7 @@ En Venezuela, la **Tucson** está disponible con un precio referencial que va d
 
 Los interesados pueden visitar el [concesionario más cercano](https://hyundaivenezuela.com/concesionarios-pasajeros/). Donde equipos de **asesores estarán atentos para brindar información detallada y hacer demostraciones**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Tucson-2025-B.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Tucson-2025-B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Tucson-2025-B.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Tucson-2025-B.jpg)
 
 La representación de la marca en el país, además del [**financiamiento**](https://hyundaivenezuela.com/financiamiento/) ofrece una **amplia así como eficiente garantía y servicio de posventa** (Hyundai en Venezuela otorga garantía de 3 años o 125.000 kilómetros). Uno de los diversos concesionarios **Hyundai** -siempre dispuestos a brindar oportuna información y útil asesoramiento- es **[Iksan Motors](https://concesionariohyundai.com/pasajeros/)**, ubicado en Las Mercedes (Caracas).
 

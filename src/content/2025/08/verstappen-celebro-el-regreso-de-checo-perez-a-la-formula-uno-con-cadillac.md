@@ -25,7 +25,7 @@ coverImage: "Imagen-referencial-principal.jpg"
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Fuente-de-imagen-referencial-Red-social-X--1024x768.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/08/Fuente-de-imagen-referencial-Red-social-X--1024x768.jpg)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Incluso, el neerlandés bromeó sobre el largo receso de Pérez: “Tenía que f
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/GzO-AGdW0AA4WxQ.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/08/GzO-AGdW0AA4WxQ.jpg)
 
 <figcaption>
 

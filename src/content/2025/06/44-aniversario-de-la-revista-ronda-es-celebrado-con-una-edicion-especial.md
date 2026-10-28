@@ -24,7 +24,7 @@ Con **diseño renovado** y enfoque editorial dinámico, la revista del **Bloque
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Revista-Ronda-44-aniversario.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Revista-Ronda-44-aniversario.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Revista-Ronda-44-aniversario.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Revista-Ronda-44-aniversario.jpg)
 
 <figcaption>
 

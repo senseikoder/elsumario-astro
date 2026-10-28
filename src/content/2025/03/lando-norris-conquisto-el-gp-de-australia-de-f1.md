@@ -27,7 +27,7 @@ Por otro lado, fue Jornada negra para los dos españoles de la parrilla: **Carlo
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Lando-Norris-Gran-Premio-de-Australia-2025.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Lando-Norris-Gran-Premio-de-Australia-2025.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Lando-Norris-Gran-Premio-de-Australia-2025.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Lando-Norris-Gran-Premio-de-Australia-2025.jpg)
 
 <figcaption>
 

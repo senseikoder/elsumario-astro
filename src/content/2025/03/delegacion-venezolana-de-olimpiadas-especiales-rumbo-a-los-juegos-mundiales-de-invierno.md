@@ -26,7 +26,7 @@ Venezuela estará representada por una delegación de 4 atletas y 2 compañeras 
 
 El equipo venezolano contará con el apoyo de **Jean Carlos Caballero** (entrenador principal de baile) y **Miriam Dookie** (entrenadora asistente), así como de los delegados deportivos **Reinaldo Espinoza** (jefe de delegación) y **Lelia Bonillo** (A-Staff Médico). **Evelyn Guiralt de Genty**, presidente honoraria, y **María Alejandra Pellicer**, directora de comunicaciones, también estarán viajando con la delegación deportiva.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Atletas-participantes-en-Torino-1024x1024.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/03/Atletas-participantes-en-Torino-1024x1024.jpg)
 
 La disciplina de baile se llevará a cabo y tendrá lugar en **Bardonecchia**, un encantador pueblo de montaña en la región de **Piemonte**. _"Estamos muy emocionados de participar en estos Juegos Mundiales y de mostrar al mundo el talento y la dedicación de nuestros atletas"_, expresó Evelyn Guiralt. _"Este evento es una nueva oportunidad para celebrar la inclusión y la diversidad, así como para crear un mundo más justo y equitativo para todos. Estamos felices de poder decir que lo logramos, Venezuela estará muy bien representada"_, subrayó.
 
@@ -36,7 +36,7 @@ Olimpiadas Especiales Venezuela hizo público su agradecimiento a los **Padrinos
 
 Olimpiadas Especiales Venezuela (OEV) invita a apoyar la delegación en estos Juegos Mundiales. El equipo publicará diariamente información sobre la delegación, sus logros y encuentros en las redes sociales (Facebook – Olimpiadas Especiales Venezuela; Instagram y X bajo el usuario: @OEVenezuela). Igualmente se puede visitar el **sitio web de los Juegos Mundiales de Invierno de Special Olympics, Torino 2025**: [https://www.turin2025.org/en](https://www.turin2025.org/en), para obtener más detalles respecto al importante evento.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Abanderamiento-de-atletas-a-Torino.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Abanderamiento-de-atletas-a-Torino.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Abanderamiento-de-atletas-a-Torino.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Abanderamiento-de-atletas-a-Torino.jpg)
 
 ### _Sobre Olimpiadas Especiales_
 

@@ -15,7 +15,7 @@ coverImage: "Hyundai-Iksan-Maturin-ES.jpg"
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Iksan-Matuin-D.jpg.webp)
+![](https://doblellave.com/wp-content/uploads/2025/03/Hyundai-Iksan-Matuin-D.jpg.webp)
 
 <figcaption>
 
@@ -33,7 +33,7 @@ Destacó la presencia del gobernador de Monagas, **Ernesto Luna**, del presiden
 
 ## El futuro se hace presente con Hyundai e Iksan
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Iksan-Maturin-B.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Hyundai-Iksan-Maturin-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Hyundai-Iksan-Maturin-B.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Hyundai-Iksan-Maturin-B.jpg)
 
 Este nuevo _showroom_ no es un concesionario tradicional. Desde el momento en que los clientes ingresan, son recibidos en un ambiente que fusiona tecnología, diseño y atención personalizada. Algunas de las novedades presentes en _Iksan Maturín_ son:
 
@@ -43,7 +43,7 @@ Este nuevo _showroom_ no es un concesionario tradicional. Desde el momento en 
 
 - **Test drive y exhibición de repuestos:** Los clientes pueden probar los modelos disponibles y explorar la amplia variedad de repuestos originales, lo que materializa una experiencia integral.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Iksan-Maturin-C.jpg.webp)
+![](https://doblellave.com/wp-content/uploads/2025/03/Hyundai-Iksan-Maturin-C.jpg.webp)
 
 El descrito showroom constituye y brinda testimonio respecto al **compromiso con y por Venezuela** de **Iksan Maturín** en conjunto con **Hyundai** (fabricante internacional y marca surcoreana, laureada tanto en diseño e innovación como en seguridad y tecnología).
 

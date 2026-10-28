@@ -47,7 +47,7 @@ La _Media Maratón One Run Venezuela 2025_ constituye una oportunidad única par
 
 **Joselyn Brea**, reconocida atleta que representó a Venezuela en los últimos Juegos Olímpicos, demostró su excelente preparación y mantuvo un ritmo constante a lo largo de los 21 kilómetros, asegurando el primer puesto en la **categoría femenina**. Su victoria confirmó que mantiene su técnica y regularidad en la prueba.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/joselyn-brea-arribando-a-los-proceres.jpg)](http://elsumario.com/wp-content/uploads/2025/05/joselyn-brea-arribando-a-los-proceres.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/joselyn-brea-arribando-a-los-proceres.jpg)](http://elsumario.com/wp-content/uploads/2025/05/joselyn-brea-arribando-a-los-proceres.jpg)
 
 **José Daniel González** se impuso en la **categoría masculina**, mostrando fuerza y resistencia en el exigente trazado caraqueño. González, con experiencia en diversas competencias de trail y carretera, cruzó la meta en primer lugar, superando a sus contrincantes.
 

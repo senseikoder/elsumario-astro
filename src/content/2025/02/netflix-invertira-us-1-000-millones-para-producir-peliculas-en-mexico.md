@@ -33,7 +33,7 @@ Sarandos aseveró que esto "contribuirá al crecimiento de la industria audiovis
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ted-Sarandos-y-Claudia-Sheinbaum-Netflix-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Ted-Sarandos-y-Claudia-Sheinbaum-Netflix.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Ted-Sarandos-y-Claudia-Sheinbaum-Netflix-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Ted-Sarandos-y-Claudia-Sheinbaum-Netflix.jpg)
 
 <figcaption>
 

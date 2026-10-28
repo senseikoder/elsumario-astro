@@ -20,9 +20,7 @@ La serie ya alcanzó el séptimo puesto en la lista de los programas no ingleses
 
 Las millones de horas de visualizaciones acumuladas, además de asegurarle el primer puesto en la categoría de televisión en lengua no inglesa, le llevó a superar las horas de visionado de los títulos de la misma categoría en inglés y de cine tanto en inglés como en lengua no inglesa durante el mismo periodo de tiempo.
 
-\<figure class="wp-caption alignnone" style="max-width:900px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/6b192b21ce69b08e435f4a401ecba2b524a018e7miniw.jpg" alt="El Juego del Calamar" />
-<figcaption>La segunda temporada de "El Juego del Calamar" se estrenó el 26 diciembre</figcaption></figure>
+\[caption id="attachment\_330716" align="alignnone" width="900"\][![El Juego del Calamar](http://elsumario.com/wp-content/uploads/2024/08/6b192b21ce69b08e435f4a401ecba2b524a018e7miniw.jpg)](http://elsumario.com/wp-content/uploads/2024/08/6b192b21ce69b08e435f4a401ecba2b524a018e7miniw.jpg) La segunda temporada de "El Juego del Calamar" se estrenó el 26 diciembre\[/caption\]
 
 Asimismo, la llevó a superar los 448 millones de horas de visionado que había conseguido la primera temporada de la serie cuando se estrenó en la cuarta semana de septiembre de 2021.
 

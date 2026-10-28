@@ -28,7 +28,7 @@ Fernández, puso énfasis en que el propósito central de estas actividades es *
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/cinta-costera-archivo.jpg)](http://elsumario.com/wp-content/uploads/2025/03/cinta-costera-archivo.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/cinta-costera-archivo.jpg)](http://elsumario.com/wp-content/uploads/2025/03/cinta-costera-archivo.jpg)
 
 <figcaption>
 

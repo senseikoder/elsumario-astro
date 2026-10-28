@@ -37,7 +37,7 @@ La incorporación de estas categorías refleja la **evolución del FIAP** y su *
 
 Para ampliar información: [**www.fiapawards.com**](http://www.fiapawards.com/)
 
-**_De interés: [FIAP; evento publicitario regional de alto impacto](FIAP: Evento publicitario regional de alto impacto)_**
+**_De interés: [FIAP; evento publicitario regional de alto impacto](<FIAP: Evento publicitario regional de alto impacto>)_**
 
 El Sumario
 

@@ -29,7 +29,7 @@ coverImage: "Destacada.jpg"
 
 En esta ocasión **como un obsequio decembrino recibirán sin costo alguno la Tarjeta de Débito Bancamiga**, que en sus distintas versiones, cuenta con tecnología Contactless (sin contacto). **Los niños y adolescentes pueden con su tarjeta efectuar pagos en puntos de venta, hacer recargas y pago móvil**; informa un comunicado de la institución bancaria.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/A-1024x598.jpg)](https://elsumario.com/wp-content/uploads/2025/12/A.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/A-1024x598.jpg)](https://elsumario.com/wp-content/uploads/2025/12/A.jpg)
 
 ## Requisitos, alcance y ventajas
 
@@ -37,7 +37,7 @@ Para abrir su cuenta deben llevar partida de nacimiento y copia de la cédula de
 
 Los operativos Kids ofrecen la posibilidad de bancarización de una manera ágil y segura, inculcando desde temprana edad la **importancia del ahorro y del manejo responsable de los recursos**. Este año han permitido sumar a más de 17.100 niños y adolescentes.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/B-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/12/B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/B-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/12/B.jpg)
 
 ### Agencias y horarios este sábado
 

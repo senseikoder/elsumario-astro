@@ -40,7 +40,7 @@ El **puesto 3** de esta lista lo tiene la **Hyundai Tucson,** en sus present
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Hyundai-Tucson-2025.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Hyundai-Tucson-2025.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ El **Elantra** repite podio, esta vez en el **puesto 3 de la categoría “fu
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Elantra.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Elantra.jpg)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ El **2do lugar** lo obtiene el **Grand i1o** en todas sus presentaciones. Con *
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Exterior-sedan-Grand-I10.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Exterior-sedan-Grand-I10.jpg)
 
 <figcaption>
 
@@ -102,7 +102,7 @@ En el **primer lugar** destacó el **Hyundai Accent**, otro modelo icónico de
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/El-nuevo-Accent.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/El-nuevo-Accent.jpg)
 
 <figcaption>
 

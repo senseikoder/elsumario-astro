@@ -23,7 +23,7 @@ coverImage: "Avior-1.jpg"
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Horarios-y-rutas.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/05/Horarios-y-rutas.jpg)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ Los boletos ya se encuentran a la venta, por lo que, Avior Airlines invita a tod
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Avior-Airlines-A.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Avior-Airlines-A.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Avior-Airlines-A.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Avior-Airlines-A.jpg)
 
 <figcaption>
 

@@ -36,7 +36,7 @@ La delegación estuvo conformada por los atletas: **Belkis Ziritt, Virginia Guev
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/4-Atletas-y-Unificadas-1.jpg)](http://elsumario.com/wp-content/uploads/2025/03/4-Atletas-y-Unificadas-1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/4-Atletas-y-Unificadas-1.jpg)](http://elsumario.com/wp-content/uploads/2025/03/4-Atletas-y-Unificadas-1.jpg)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ Agregando que "este evento fue una nueva oportunidad para celebrar la inclusión
 
 ### _Triunfo de la inclusión y el deporte_
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Delegacion-acompanada-por-Evelyn-Guiralt.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Delegacion-acompanada-por-Evelyn-Guiralt.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Delegacion-acompanada-por-Evelyn-Guiralt.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Delegacion-acompanada-por-Evelyn-Guiralt.jpg)
 
 Y es que la participación de Venezuela en los _Juegos Mundiales de Invierno de Olimpiadas Especiales Torino 2025_ no solo es un logro deportivo, sino también un símbolo de **inclusión, esfuerzo** y **superación**.
 
@@ -85,13 +85,13 @@ Se reiteró el **agradecimiento a los aliados** (instituciones y organismos, pad
 
 ### _Participación en eventos no deportivos_
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/5-Cena-Lideres-SO.jpg)](http://elsumario.com/wp-content/uploads/2025/03/5-Cena-Lideres-SO.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/5-Cena-Lideres-SO.jpg)](http://elsumario.com/wp-content/uploads/2025/03/5-Cena-Lideres-SO.jpg)
 
 Durante los Juegos, **Evelyn Guiralt de Genty** y **María Alejandra Pellicer**, miembros de la Junta  
 Directiva del programa nacional, en representación de _Olimpiadas Especiales Venezuela_, participaron  
 activamente en una agenda de eventos globales, en el marco de estos juegos mundiales. Algunos de ellos fueron: Sesión de apertura de la Cumbre Mundial de Liderazgo Juvenil; Reunión de la Junta Directiva de Olimpiadas Especiales Internacional; Ceremonia de apertura; Convocatoria de la Coalición Mundial para la Inclusión; Cumbre mundial sobre liderazgo juvenil: Exposición de proyectos; Acto en honor de la fundadora de SO, **Eunice Kennedy Shriver**; Encuentro de Líderes y Miembros de las Juntas Directivas de los diferentes programas de Olimpiadas Especiales del mundo; Cena ofrecida por la Presidente / Directora de la Región Olimpiadas Especiales América Latina; Encuentro con autoridades de Chile, como antesala a los Juegos Mundiales de Verano 2027; y Ceremonia de Clausura.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/6-Encuentro-Lideres-Chile-prox-Juegos-Mundiales-1024x660.jpg)](http://elsumario.com/wp-content/uploads/2025/03/6-Encuentro-Lideres-Chile-prox-Juegos-Mundiales.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/6-Encuentro-Lideres-Chile-prox-Juegos-Mundiales-1024x660.jpg)](http://elsumario.com/wp-content/uploads/2025/03/6-Encuentro-Lideres-Chile-prox-Juegos-Mundiales.jpg)
 
 **_De interés: [Venezuela obtuvo 4 medallas en Olimpiadas Especiales de Invierno](https://elsumario.com/venezuela-obtuvo-4-medallas-en-olimpiadas-especiales-de-invierno/)_**
 

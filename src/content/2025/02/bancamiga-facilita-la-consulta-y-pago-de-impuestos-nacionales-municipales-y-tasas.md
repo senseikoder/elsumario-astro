@@ -44,7 +44,7 @@ La plataforma tecnológica de [Bancamiga](https://www.instagram.com/bancamiga/?h
 
 La institución bancaria informa que, para realizar el pago de impuestos, tributos y tasas solo debes ingresar a **www.bancamiga.com** ([https://www.bancamiga.com](https://www.bancamiga.com)) **o ir la aplicación móvil, opción Servicio de Recaudación**, completar la información solicitada y efectuar el pago.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Pago-de-impuestos-via-Bancamiga-Imagen-referencial-B--1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Pago-de-impuestos-via-Bancamiga-Imagen-referencial-B--scaled.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Pago-de-impuestos-via-Bancamiga-Imagen-referencial-B--1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Pago-de-impuestos-via-Bancamiga-Imagen-referencial-B--scaled.jpg)
 
 Asimismo, **en la página web y en el aplicativo móvil Bancamiga Suite, en la opción Servicios**, los clientes pueden efectuar el pago de **Cantv, Corpoelec y FOSPUCA**, entre otros servicios.
 

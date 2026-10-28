@@ -33,7 +33,7 @@ La gala combinó **importantes reconocimientos, grandes invitados y momentos emo
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bigwp-AnuncianteDelAnoPremiosPRODU2025.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-AnuncianteDelAnoPremiosPRODU2025.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/bigwp-AnuncianteDelAnoPremiosPRODU2025.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-AnuncianteDelAnoPremiosPRODU2025.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ Este año **los pilares fueron: Álex Marín**, VP de Distribución de **Estudio
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bigwp-PilaresPremiosProdu2025.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-PilaresPremiosProdu2025.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/bigwp-PilaresPremiosProdu2025.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-PilaresPremiosProdu2025.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ Los anfitriones, **Melina Ramírez** y **Arap Bethke**, abrieron la ceremonia co
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/conductores-arap-y-melina-1024x682.jpeg)](https://elsumario.com/wp-content/uploads/2025/12/conductores-arap-y-melina.jpeg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/conductores-arap-y-melina-1024x682.jpeg)](https://elsumario.com/wp-content/uploads/2025/12/conductores-arap-y-melina.jpeg)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ Roko añadió: **"Y este año, más que nunca, sentimos la fuerza de la comunida
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bigwp-RichardYRokoIzarra.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-RichardYRokoIzarra.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/bigwp-RichardYRokoIzarra.jpg)](https://elsumario.com/wp-content/uploads/2025/12/bigwp-RichardYRokoIzarra.jpg)
 
 <figcaption>
 

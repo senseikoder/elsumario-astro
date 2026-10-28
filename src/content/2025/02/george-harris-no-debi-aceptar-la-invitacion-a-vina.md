@@ -36,7 +36,7 @@ Pese a las advertencias, George Harris pensó que habían "bajado las aguas", pe
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Venezolanos-fueron-a-ver-a-George-Harris.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Venezolanos-fueron-a-ver-a-George-Harris.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Venezolanos-fueron-a-ver-a-George-Harris.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Venezolanos-fueron-a-ver-a-George-Harris.jpg)
 
 <figcaption>
 

@@ -44,7 +44,7 @@ Una campaña de phishing documentada por ESET utilizó [archivos PDF para distr
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-1-para-acompanar-texto.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/Imagen-1-para-acompanar-texto.jpg)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ En un primer momento, la apariencia del documento no genera desconfianza y se pr
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-2-para-acompanar-texto.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/08/Imagen-2-para-acompanar-texto.jpg)
 
 <figcaption>
 

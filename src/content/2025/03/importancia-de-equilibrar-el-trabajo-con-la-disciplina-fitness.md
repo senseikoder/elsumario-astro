@@ -25,7 +25,7 @@ En ese sentido, incorporar un plan de ejercicios a la rutina diaria no solo mej
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/sweet-life-pssGHbvGXm0-unsplash-735x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/03/sweet-life-pssGHbvGXm0-unsplash.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/sweet-life-pssGHbvGXm0-unsplash-735x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/03/sweet-life-pssGHbvGXm0-unsplash.jpg)
 
 <figcaption>
 

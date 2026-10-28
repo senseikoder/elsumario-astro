@@ -29,7 +29,7 @@ La funcionaria indicó que la **ocupación hotelera** creció en un 61,5 % con r
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Carnavales-Felices-en-Venezuela.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Carnavales-Felices-en-Venezuela.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Carnavales-Felices-en-Venezuela.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Carnavales-Felices-en-Venezuela.jpg)
 
 <figcaption>
 

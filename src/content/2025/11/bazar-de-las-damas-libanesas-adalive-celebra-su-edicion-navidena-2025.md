@@ -32,7 +32,7 @@ Las entradas tienen un **costo de $5** y estarán disponibles para su compra e
 
 ## **Apoyando causas sociales y haciendo historia**
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Captura-Imagen-Referencial.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Captura-Imagen-Referencial.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Captura-Imagen-Referencial.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Captura-Imagen-Referencial.jpg)
 
 La **Asociación de Damas Líbano Venezolanas (Adalive)** fue fundada en **1970** y tiene como misión brindar **apoyo a los más desfavorecidos y ayuda a los libaneses que viven en el país**.
 
@@ -42,7 +42,7 @@ Cada año, _Adalive_ selecciona **distintas obras sociales y organizaciones** 
 
 La _Asociación de Damas Líbano Venezolanas_ invita a disfrutar así como a colaborar con su propósito y razón de ser.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Adalive-Imagen-referencial-B.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Adalive-Imagen-referencial-B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Adalive-Imagen-referencial-B.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Adalive-Imagen-referencial-B.jpg)
 
 Contacto: **adalive.bazar@gmai**l / **Instagram @adalive.bazar**
 

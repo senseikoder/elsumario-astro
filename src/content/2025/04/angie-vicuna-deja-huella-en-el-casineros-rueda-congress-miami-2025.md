@@ -32,7 +32,7 @@ Con una trayectoria de más de **40 años en la danza**, Angie Vicuña ha dedica
 
 Desde el primer día de actividades, los asistentes tuvieron la oportunidad de experimentar el enfoque pedagógico único de Angie, donde técnica, conexión emocional y creatividad se entrelazan para formar un estilo ampliamente reconocido. Su participación no solo aportó **conocimiento técnico y práctico**, sino que inspiró a los bailarines a **explorar nuevas formas de expresión dentro del casino**, tipo de danza que sigue evolucionando con el paso del tiempo.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Flyer-B-Casineros-Rueda-Congress-2025.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Flyer-B-Casineros-Rueda-Congress-2025.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Flyer-B-Casineros-Rueda-Congress-2025.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Flyer-B-Casineros-Rueda-Congress-2025.jpg)
 
 _"El casino es más que un baile, es un lenguaje de conexión con el ritmo, la energía colectiva y la historia que llevamos en nuestros movimientos"_, expresó Angie Vicuña al concluir uno de sus workshops. _"Ver la pasión de los bailarines y sentir la emoción en cada rueda es lo que mantiene vivo este arte. Enseñar en este congreso ha sido una experiencia enriquecedora que reafirma el poder de la danza como forma de unión"_, subrayó.
 

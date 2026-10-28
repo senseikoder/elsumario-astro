@@ -28,7 +28,7 @@ En el tiempo extra (conclusivo) de cinco minutos, luego de estar empatadas ambas
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-B.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-B.jpg)
 
 <figcaption>
 

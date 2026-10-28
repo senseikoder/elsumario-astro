@@ -26,7 +26,7 @@ Con ésta, su **edición número 56**, FIAP continúa consolidándose como el **
 
 En alianza con **PRODU**, proveedor líder de información sobre entretenimiento, publicidad y tecnología en habla hispana, FIAP confirma su misión de **destacar las propuestas más innovadoras y disruptivas del sector**. Su impacto trasciende fronteras, premiando el ingenio en todos los formatos y consolidando su prestigio como el festival que define la creatividad en Iberoamérica.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/FIAP-2025-abre-proceso-de-inscripciones.jpg)](http://elsumario.com/wp-content/uploads/2025/03/FIAP-2025-abre-proceso-de-inscripciones.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/FIAP-2025-abre-proceso-de-inscripciones.jpg)](http://elsumario.com/wp-content/uploads/2025/03/FIAP-2025-abre-proceso-de-inscripciones.jpg)
 
 La edición 2025 promete una nueva oportunidad para que la industria demuestre su capacidad de innovación y adaptación en un entorno dinámico. Con la apertura de inscripciones, comienza el camino hacia la **premiación de las ideas** que marcarán el futuro de la comunicación en la región.
 

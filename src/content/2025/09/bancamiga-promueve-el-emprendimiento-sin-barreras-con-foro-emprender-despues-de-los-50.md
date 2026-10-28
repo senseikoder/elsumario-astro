@@ -31,7 +31,7 @@ El foro tuvo como objetivo principal continuar capacitando a los emprendedores v
 
 Durante su conferencia, Parilli destacó que a pesar de que las personas mayores a menudo enfrentan la exclusión laboral por su edad, representan un nicho de mercado con necesidades de consumo específicas.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Bancamiga-2-Mauricio-Parilli-Acompana-texto-de-comunicado-1024x724.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Bancamiga-2-Mauricio-Parilli-Acompana-texto-de-comunicado.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Bancamiga-2-Mauricio-Parilli-Acompana-texto-de-comunicado-1024x724.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Bancamiga-2-Mauricio-Parilli-Acompana-texto-de-comunicado.jpg)
 
 Explicó que hay una tendencia mundial en la que las personas mayores ya no son vistas como una carga, sino como una generación que consume, tiene necesidades particulares y puede autoemplearse.
 

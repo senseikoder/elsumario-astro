@@ -27,7 +27,7 @@ Igualmente, el ministerio señaló que se declara el 1x1, "que consiste en un d�
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/empleados-publicos.jpg)](http://elsumario.com/wp-content/uploads/2025/03/empleados-publicos.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/empleados-publicos.jpg)](http://elsumario.com/wp-content/uploads/2025/03/empleados-publicos.jpg)
 
 <figcaption>
 

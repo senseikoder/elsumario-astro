@@ -47,7 +47,7 @@ Mientras tanto, Gustavo Dudamel sigue acumulando hitos en su carrera. Este año 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-B.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-B.jpg)
 
 <figcaption>
 

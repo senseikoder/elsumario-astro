@@ -40,7 +40,7 @@ En cuanto al [mercado venezolano, **Hyundai**](https://hyundaivenezuela.com/) **
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Interior-Hyundai-Accent.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/03/Interior-Hyundai-Accent.jpg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ De manera que la buena calidad de sus vehículos, disponer de avanzada tecnolog�
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Tucson-2025.webp)
+![](https://doblellave.com/wp-content/uploads/2025/03/Tucson-2025.webp)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ En este ascenso de ventas, **Hyundai logró negociar 569 vehículos en 2024**; a
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Grand-i10.webp)
+![](https://doblellave.com/wp-content/uploads/2025/03/Grand-i10.webp)
 
 <figcaption>
 

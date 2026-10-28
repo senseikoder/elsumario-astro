@@ -68,7 +68,7 @@ Un hito en las actividades formativas del sector financiero venezolano
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20251028-WA0019-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0019.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0019-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0019.jpg)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ A lo largo de su conversación e interacción con los asistentes mencionó y des
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20251028-WA0013-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0013.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0013-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0013.jpg)
 
 <figcaption>
 
@@ -102,7 +102,7 @@ Se trata de una venezolana que ha cultivado confianza y amplio reconocimiento pr
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20251028-WA0018-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0018.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0018-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0018.jpg)
 
 <figcaption>
 
@@ -136,7 +136,7 @@ Mastercard: **Lo mejor está por venir**.
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20251028-WA0017-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0017.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0017-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/IMG-20251028-WA0017.jpg)
 
 <figcaption>
 

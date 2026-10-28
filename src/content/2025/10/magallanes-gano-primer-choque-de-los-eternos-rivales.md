@@ -25,7 +25,7 @@ Posteriormente, **Harold Castro**, quien se encontraba en su primer juego de la 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Panoramica-Monumental-Foto-Alejandro-van-Schermbeek.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Panoramica-Monumental-Foto-Alejandro-van-Schermbeek.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Panoramica-Monumental-Foto-Alejandro-van-Schermbeek.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Panoramica-Monumental-Foto-Alejandro-van-Schermbeek.jpg)
 
 <figcaption>
 

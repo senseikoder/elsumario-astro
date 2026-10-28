@@ -43,7 +43,7 @@ Así, el equipo de investigación de ESET identificó tal vulnerabilidad en WinR
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Referencial-Ilustrativa-B.png)
+![](https://doblellave.com/wp-content/uploads/2025/08/Referencial-Ilustrativa-B.png)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Los atacantes crearon especialmente el archivo que adjuntaban a los correos para
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Referencial-Ilustrativa-C.png)
+![](https://doblellave.com/wp-content/uploads/2025/08/Referencial-Ilustrativa-C.png)
 
 <figcaption>
 

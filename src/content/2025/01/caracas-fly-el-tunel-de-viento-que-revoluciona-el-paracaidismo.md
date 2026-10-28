@@ -49,9 +49,7 @@ Desde su inauguración en octubre de 2022, Caracas Fly ha sido un motor para el 
 
 Alex Cabello Leiva, quien ha visitado las instalaciones en múltiples ocasiones, resalta que “Caracas Fly no solo es un espacio para entrenar, sino también para **inspirar a nuevas generaciones de paracaidistas**. Es un lugar donde los sueños de volar se hacen realidad”.
 
-\<figure class="wp-caption aligncenter" style="max-width:1147px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-1.jpg" alt="" />
-<figcaption>Niño de seis años de edad volando seguro en el túnel de viento (Imagen referencial: Foto de Alex Cabello Leiva)</figcaption></figure>
+\[caption id="attachment\_338119" align="aligncenter" width="1147"\][![](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-B-1.jpg)](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-B-1.jpg) Niño de seis años de edad volando seguro en el túnel de viento (Imagen referencial: Foto de Alex Cabello Leiva)\[/caption\]
 
 \-Y después de tu vuelo, puedes relajarte y compartir un rato agradable en la cantina, un restaurante ubicado dentro de sus instalaciones, donde encontrarás deliciosos platos y bebidas mientras revives la experiencia con tus amigos o familiares. En Caracas Fly vuelas y también vives un día completo de diversión y entretenimiento.
 

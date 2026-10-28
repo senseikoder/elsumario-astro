@@ -26,7 +26,7 @@ El técnico insistió en que la Vinotinto no solo saldrá a defenderse, porque t
 
 <figure>
 
-[![Vinotinto - Vinotinto - Venezuela](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vinotinto-II.jpg)](http://elsumario.com/wp-content/uploads/2024/06/Vinotinto-II.jpg)
+[![Vinotinto - Vinotinto - Venezuela](http://elsumario.com/wp-content/uploads/2024/06/Vinotinto-II.jpg)](http://elsumario.com/wp-content/uploads/2024/06/Vinotinto-II.jpg)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ También dijo que si, en algún momento del partido, la selección venezolana so
 
 <figure>
 
-[![Vinotinto - concentración- Venezuela](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vinotinto-concentracion-Venezuela-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2024/10/Vinotinto-concentracion-Venezuela.jpg)
+[![Vinotinto - concentración- Venezuela](http://elsumario.com/wp-content/uploads/2024/10/Vinotinto-concentracion-Venezuela-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2024/10/Vinotinto-concentracion-Venezuela.jpg)
 
 <figcaption>
 

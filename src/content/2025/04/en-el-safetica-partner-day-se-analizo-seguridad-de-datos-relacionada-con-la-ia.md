@@ -32,13 +32,13 @@ coverImage: "Imagen-referencial-Acompanamiento-2.jpg"
 
 Durante la jornada, Logintel presentó las **nuevas versiones de Safetica**, diseñadas para **optimizar la protección de datos sensibles mediante Intelligent Data Security** (https://www.safetica.com/es), una tecnología avanzada capaz de analizar el comportamiento del usuario y detectar posibles riesgos internos. Estas soluciones no solo fortalecen la **seguridad corporativa**, sino que también facilitan el **cumplimiento normativo** y la **prevención de fugas de información**, un aspecto cada vez más crucial en el entorno digital.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Acompanamiento-1.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Acompanamiento-1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Acompanamiento-1.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-Acompanamiento-1.jpg)
 
 ## Safetica y Logintel reafirmaron su compromiso con la protección de datos empresariales
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ingeniero-Steven-Rueda-de-Safetica.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Ingeniero-Steven-Rueda-de-Safetica.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Ingeniero-Steven-Rueda-de-Safetica.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Ingeniero-Steven-Rueda-de-Safetica.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ La convocatoria y encuentro contó con la participación del Consultor de preven
 
 Con este encuentro, **Safetica y Logintel** (ubicado en el Centro Comercial Expreso Baruta, piso 2, oficina 201, Baruta, Estado Miranda) reafirman su compromiso con la protección de datos empresariales, promoviendo **soluciones que combinan inteligencia artificial, análisis predictivo y herramientas de seguridad proactivas**. Sin duda, la tecnología presentada marcará un hito en la forma en que las empresas en Venezuela enfrentan los desafíos digitales.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A.jpg)
 
 El _Safetica Partner Day_ concluyó con una visión clara: **el futuro de la seguridad de datos está aquí, y la inteligencia artificial jugará un papel crucial en su desarrollo**.
 

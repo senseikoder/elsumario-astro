@@ -37,7 +37,7 @@ Después de perder los primeros dos juegos de local y ganar los siguientes tres 
 
 **Ildemaro Vargas**, capitán de Cardenales, fue seleccionado como el **Jugador Más Valioso**, premio que lleva el nombre de **Robert Pérez**, de la Gran Final gracias a un extraordinario desempeño.
 
-[![Cardenales de Lara](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ildemaro-Vargas.jpg "Cardenales de Lara")](http://elsumario.com/wp-content/uploads/2025/01/Ildemaro-Vargas.jpg)
+[![Cardenales de Lara](http://elsumario.com/wp-content/uploads/2025/01/Ildemaro-Vargas.jpg "Cardenales de Lara")](http://elsumario.com/wp-content/uploads/2025/01/Ildemaro-Vargas.jpg)
 
 **"Caripito"** dejó promedio de .556 con 15 hits, dos jonrones, un triple, tres carreras remolcadas, ocho anotadas y par de boletos recibidos.
 

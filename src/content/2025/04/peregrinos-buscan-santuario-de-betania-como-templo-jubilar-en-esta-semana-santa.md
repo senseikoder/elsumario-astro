@@ -42,7 +42,7 @@ El **Sábado Santo, 19 de abril**, será la vigilia pascual.
 
 La Semana Santa culminará el **Domingo de Resurrección, 20 de abril**, con confesiones y Rosario a las 9:00 a.m., seguido de la Misa solemne por la Resurrección del Señor a las 11:00 a.m. 
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-1-727x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-B-1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-B-1-727x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-B-1.jpg)
 
 Estas celebraciones contarán con la participación de la **Coral Betania** y de **Emaús Música**.
 
@@ -50,7 +50,7 @@ Estas celebraciones contarán con la participación de la **Coral Betania** y de
 
 La historia de este santuario se remonta a la niñez de la **sierva de Dios María Esperanza Medrano de Bianchini**, a quien la **Santísima Virgen** le dijo que el sitio se encontraba en el centro-norte de Venezuela y que se convertiría en un “lugar de oración y peregrinación permanente” para el pueblo de Venezuela y luego para todas las naciones del mundo. La sierva de Dios reconoció la tierra en **1974**, gracias a las descripciones dadas en los mensajes de la **Madre de Dios**. **La Virgen se manifestó por primera vez en este santuario el 25 de marzo de 1976 a María Esperanza**, aunque luego estas apariciones se hicieron públicas cuando **en 1984 la Virgen se presentó ante 150 personas**, y **la Santa Iglesia Católica en Carta Pastoral en 1987 declaró que eran auténticas, de carácter sobrenatural y origen divino**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-1-804x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A-1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A-1-804x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Imagen-referencial-A-1.jpg)
 
 Para más información: @santuariodebetania, @betaniaorg y [www.facebook.com/MovimientodeEspiritualidadBetania](http://www.facebook.com/MovimientodeEspiritualidadBetania)  
 

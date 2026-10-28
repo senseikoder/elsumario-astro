@@ -23,7 +23,7 @@ coverImage: "CR__1228-Fiap-2024.jpg"
 
 **"**Han pasado 23 años desde que me inicié en el mundo de las comunicaciones y el mercado, de la mano del medio especializado más prestigioso y tradicional de la industria hispana en Estados Unidos y Latinoamérica: **PRODU.** Junto a su equipo, he tenido la dicha de presenciar las mayores transformaciones del mundo comunicacional, gracias a los festivales y ferias especializadas que han creado plataformas para exponer la excelencia en creatividad e innovación. Es en este universo lleno de magia y constante evolución donde conocí a **Daniel Marcet** y al **Festival Iberoamericano de la Creatividad (FIAP)"**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Fiap-advertising-week-latam.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Fiap-advertising-week-latam.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Fiap-advertising-week-latam.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Fiap-advertising-week-latam.jpg)
 
 \-Durante la era dorada de la creatividad, entre los años 2000 y 2010, tuve el privilegio de identificar y tomar contacto con las mentes más brillantes de la industria: líderes de camiseta negra y jeans, almas libres y rebeldes, sensibles de corazón y grandes de ego. En este entorno dominado por la testosterona, aprendí el lenguaje de la escucha, la acción y la mesura en las palabras.
 
@@ -33,7 +33,7 @@ coverImage: "CR__1228-Fiap-2024.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Directora-General-de-FIAP-819x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Directora-General-de-FIAP.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Directora-General-de-FIAP-819x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Directora-General-de-FIAP.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ El Festival Iberoamericano de la Creatividad, FIAP, entra en su edición 56 para
 
 PRODU lleva más de 35 años siendo el proveedor líder de contenido para los profesionales de la televisión, la publicidad y la tecnología en Latinoamérica, España y el mercado hispano de EE UU. PRODU genera publicaciones comerciales periódicas, ahora todas digitales en consonancia con el cuidado del planeta, y un directorio en línea: Who’s Who Online, además del sitio web y los boletines de noticias más prestigiosos y consultados sobre las industrias de la televisión, publicidad y tecnología. Adicionalmente, PRODU ofrece tres boletines informativos gratuitos que llegan a más de 30.000 tomadores de decisiones y profesionales ejecutivos todos los días. 
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/FIAP-2025-abre-proceso-de-inscripciones.jpg)](http://elsumario.com/wp-content/uploads/2025/03/FIAP-2025-abre-proceso-de-inscripciones.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/FIAP-2025-abre-proceso-de-inscripciones.jpg)](http://elsumario.com/wp-content/uploads/2025/03/FIAP-2025-abre-proceso-de-inscripciones.jpg)
 
 **_De interés: [FIAP 2025; las inscripciones ya tienen fecha](https://elsumario.com/fiap-2025-las-inscripciones-ya-tienen-fecha/)_**
 

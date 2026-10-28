@@ -37,17 +37,17 @@ coverImage: "Vhill_Ecuador.jpg"
 
 El heavy metal, o simplemente metal​​, ​es un género musical que nació a finales de los años sesenta y principios de los setenta tanto en el Reino Unido como en los Estados Unidos, proviniendo principalmente del hard rock y el blues rock, explica y se lee en _Wikipedia_.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vhill_JoelRodriguez_Vocalista-683x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Vhill_JoelRodriguez_Vocalista.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Vhill_JoelRodriguez_Vocalista-683x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Vhill_JoelRodriguez_Vocalista.jpg)
 
 En **Venezuela**, Vhill surgió en 2018 en medio de una escena compleja y desafiante. La banda fue duramente golpeada en 2020 tras la trágica pérdida de su fundador y baterista **Jorge Díaz**, momento que casi los lleva a desaparecer. Sin embargo, lejos de doblegarse, en marzo de 2024, decidieron reunirse y tan solo nueve meses después, fueron **proclamados ganadores de la región Suramérica norte de la Batalla de Bandas de Wacken en Riobamba, Ecuador**; al imponerse sobre bandas de Colombia, Bolivia, Ecuador y Perú.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Winner-for-Wacken-Metal-Battle-2025-is-_vhill.ve-from-Venezuela-1024x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Winner-for-Wacken-Metal-Battle-2025-is-_vhill.ve-from-Venezuela.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Winner-for-Wacken-Metal-Battle-2025-is-_vhill.ve-from-Venezuela-1024x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Winner-for-Wacken-Metal-Battle-2025-is-_vhill.ve-from-Venezuela.jpg)
 
 ### **Vhill se prepara para representar a Venezuela y a toda una región con su poder musical en Alemania**
 
 Este triunfo significa también un homenaje al legado de Jorge. Cada riff, cada gutural y cada golpe de batería retumban con la fuerza de su memoria. Hoy, Vhill se prepara para representar a Venezuela y a toda una región con su poder en Alemania.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vhill_GregoryPeraza.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Vhill_GregoryPeraza.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Vhill_GregoryPeraza.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Vhill_GregoryPeraza.jpg)
 
 **Este nuevo reto… apenas comienza.** Como banda independiente, el viaje a Alemania representa un gran desafío económico. Por esta razón, han decidido lanzar una campaña en **GoFundMe** para reunir los fondos necesarios y poder cumplir el sueño de **llevar el metal venezolano a la tarima más emblemática del mundo**.
 
@@ -66,14 +66,14 @@ https://www.youtube.com/watch?v=ln\_ZdwN\_MmA
 **Formación actual:**  
 **Joel Rodríguez (Voz), Samuel Duque (Guitarra), Marco Requena (Guitarra), Omar Zamora (Bajo) y Gregory Peraza (Batería).**
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vhil_MarcoRequena_Ecuador.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Vhil_MarcoRequena_Ecuador.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Vhil_MarcoRequena_Ecuador.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Vhil_MarcoRequena_Ecuador.jpg)
 
 Con sonido brutal, letras profundas y una energía demoledora en vivo, Vhill ha demostrado que el **metal hecho en Venezuela** tiene la fuerza de romper fronteras, por así decirlo. Su reciente victoria es además de un logro artístico, una exclamación de orgullo y un grito de resistencia, de superación.  
 **  
 Enlace campaña GoFundMe:**  
 [https://www.gofundme.com/f/vhill-en-wacken-2025](https://www.gofundme.com/f/vhill-en-wacken-2025)
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vhill_SamuelDuque-_Guitarra_Ecuador.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Vhill_SamuelDuque-_Guitarra_Ecuador.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Vhill_SamuelDuque-_Guitarra_Ecuador.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Vhill_SamuelDuque-_Guitarra_Ecuador.jpg)
 
 Escucha, sigue y comparte a Vhill en todas sus **plataformas**:  
 **Spotify:** [https://open.spotify.com/intl-es/artist/6M2q7FwuqSthak1213BCFs?si=bHonopuhQ--JIwyJdSKbjQ](https://open.spotify.com/intl-es/artist/6M2q7FwuqSthak1213BCFs?si=bHonopuhQ--JIwyJdSKbjQ)  

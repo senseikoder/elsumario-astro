@@ -25,7 +25,7 @@ Formará parte de una exposición sobre el cine de terror, ciencia ficción y fa
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/E.T.jpg)](http://elsumario.com/wp-content/uploads/2025/03/E.T.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/E.T.jpg)](http://elsumario.com/wp-content/uploads/2025/03/E.T.jpg)
 
 <figcaption>
 

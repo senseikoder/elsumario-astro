@@ -42,7 +42,7 @@ Alcanzar la clasificación al Mundial 2026 exige más que ilusión; requiere eje
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-que-acompana-el-texto-660x1024.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/07/Imagen-que-acompana-el-texto-660x1024.jpg)
 
 <figcaption>
 

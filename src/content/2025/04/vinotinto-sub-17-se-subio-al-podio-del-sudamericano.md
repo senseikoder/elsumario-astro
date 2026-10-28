@@ -27,7 +27,7 @@ coverImage: "Vinotinto-Sub-17.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Marcos-Maitan-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Marcos-Maitan.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Marcos-Maitan-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Marcos-Maitan.jpg)
 
 <figcaption>
 

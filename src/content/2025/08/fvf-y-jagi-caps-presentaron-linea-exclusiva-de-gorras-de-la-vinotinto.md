@@ -36,7 +36,7 @@ coverImage: "Jagi-y-FVF-Alianza.jpg"
 
 Como parte de este acuerdo, se lanzó una colección exclusiva de productos oficiales, que incluye gorras, sombreros y bucket hats con los emblemas de la FVF y las frases “Mano Tengo Fe” y “La Vinotinto Siempre”, convertidas en símbolos de identidad y orgullo nacional.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/still-gorra-3-1024x683.jpg)](https://elsumario.com/wp-content/uploads/2025/08/still-gorra-3.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/still-gorra-3-1024x683.jpg)](https://elsumario.com/wp-content/uploads/2025/08/still-gorra-3.jpg)
 
 ### **Pasión Vinotinto a través de la moda y el estilo, es símbolo de identidad y orgullo nacional**
 
@@ -46,7 +46,7 @@ El anuncio se realizó en un encuentro con medios de comunicación, llevado a ca
 
 La nueva línea de productos se encuentra disponible desde el 21 de agosto en todas las tiendas Jagi Caps en Caracas y muy pronto en Maracaibo, Margarita, Barquisimeto, Puerto Ordaz y Valencia.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/gorra-copy.jpg)](https://elsumario.com/wp-content/uploads/2025/08/gorra-copy.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/gorra-copy.jpg)](https://elsumario.com/wp-content/uploads/2025/08/gorra-copy.jpg)
 
 ### **Colaboración con la Vinotinto: Jagi Caps está alineada con la calidad, excelencia y el deporte**
 
@@ -54,7 +54,7 @@ Con más de 20 años de experiencia, Jagi Caps es una marca internacional recono
 
 La FVF, ratificó que es motivo de orgullo establecer alianzas con marcas que comparten el compromiso con la calidad, excelencia y pasión por el deporte.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/alianza-producto-oficial-_13_34_00.Still007-1024x683.jpg)](https://elsumario.com/wp-content/uploads/2025/08/alianza-producto-oficial-_13_34_00.Still007.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/alianza-producto-oficial-_13_34_00.Still007-1024x683.jpg)](https://elsumario.com/wp-content/uploads/2025/08/alianza-producto-oficial-_13_34_00.Still007.jpg)
 
 ## **El evento de lanzamiento**
 
@@ -66,7 +66,7 @@ La convocatoria contó con la asistencia de medios y periodistas, invitados espe
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/foto-flow-brass.jpg)](https://elsumario.com/wp-content/uploads/2025/08/foto-flow-brass.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/foto-flow-brass.jpg)](https://elsumario.com/wp-content/uploads/2025/08/foto-flow-brass.jpg)
 
 <figcaption>
 

@@ -40,7 +40,7 @@ El evento tuvo lugar en los espacios de la Fundación MFM y contó con la destac
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B2-1024x767.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-B2-1024x767.jpg)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ Por su parte, **Mariana Flores**, presidenta de la Fundación por la Lectura MFM
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Presidenta-de-la-Fundacion.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Presidenta-de-la-Fundacion.jpg)
 
 <figcaption>
 
@@ -72,7 +72,7 @@ La autora y directora del programa, **Lorena González**, compartió su entusias
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C3-1024x787.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-C3-1024x787.jpg)
 
 <figcaption>
 
@@ -92,7 +92,7 @@ La **originalidad** y el **ingenio** de los participantes fueron recibidos con a
 
 **“La Imagen y la Palabra”** culmina dejando una huella imborrable entre los estudiantes y reafirmando el compromiso social de Bancamiga y la Fundación por la Lectura MFM con el **fomento de la lectura y la escritura en Venezuela**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-D4-1024x617.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-D4-1024x617.jpg)
 
 La presentación del acto estuvo a cargo de **Ana Virginia Escobar**, periodista y locutora.
 

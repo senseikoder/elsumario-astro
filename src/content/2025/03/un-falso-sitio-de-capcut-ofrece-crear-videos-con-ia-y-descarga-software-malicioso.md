@@ -37,7 +37,7 @@ Una vez que termina de procesar el pedido, ofrece descargar el resultado. Al hac
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-1024x614.png)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-B.png)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-B-1024x614.png)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-B.png)
 
 <figcaption>
 
@@ -57,11 +57,11 @@ Además de este sitio falso que se hace pasar por _CapCut_, el o las personas re
 
 ## _Ejemplo de otros sitios de phishing similares_
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-C.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-C.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-C.jpg)
 
 Las campañas que involucran a sitios falsos con el objetivo de obtener información sensible o dinero de sus víctimas son muy comunes. Desde ESET recomiendan incorporar buenos hábitos para saber identificar cuándo se trata de un sitio legítimo, y cuándo no.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-D.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-D.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-D.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-D.jpg)
 
 ### _Medidas preventivas a tomar en cuenta_
 

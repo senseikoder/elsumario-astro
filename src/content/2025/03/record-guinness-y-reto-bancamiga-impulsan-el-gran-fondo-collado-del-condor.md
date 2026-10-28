@@ -38,7 +38,7 @@ Los ciclistas profesionales ganadores de la Vuelta al Táchira **José Rujano** 
 
 “Lo interesante de este reto es que solo se logra si al menos cuatro del sexteto llegan juntos. Es una forma de promover el trabajo en equipo que es tan importante y que Bancamiga promueve en su día a día”, dijo **Raúl Penso**, Director Técnico del Reto Bancamiga.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Collado-baja3-compressed-1024x682.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Collado-baja3-compressed.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Collado-baja3-compressed-1024x682.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Collado-baja3-compressed.jpg)
 
 Sostuvo que la idea de **Alberto Camardiel** es una especie de **Liga de la Justicia**, pero a diferencia de la película no son metahumanos que buscan salvar al planeta de una amenaza catastrófica sino un grupo de destacados ciclistas profesionales y no profesionales que juntos buscará establecer un récord en una ruta de 125 kilómetros que une Estanques con el Collado del Cóndor, a 4.200 metros sobre el nivel del mar.
 
@@ -48,7 +48,7 @@ A diferencia de otras competencias en que los atletas élite parten de primero, 
 
 “Todo esto me ha parecido una idea fantástica. Es increíble que la empresa privada apoye de esta manera a los deportistas y al Gran Fondo. Unir a todas estas súper estrellas es maravilloso y eso me tiene muy contento”, agregó Penso, quien también estará en la línea de partida de los 125 kilómetros y en ciclismo ha sido campeón nacional de cross country y de XCM (carreras de largo aliento). Recientemente se convirtió en el primer venezolano que en parapente sobrevuela el **Pico Bolívar**, a una altura de 5.170 metros sobre el nivel del mar.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Collado1-baja-1024x682.jpeg)](http://elsumario.com/wp-content/uploads/2025/03/Collado1-baja.jpeg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Collado1-baja-1024x682.jpeg)](http://elsumario.com/wp-content/uploads/2025/03/Collado1-baja.jpeg)
 
 El Gran Fondo Collado del Cóndor contará con cuatro salidas adaptadas a diferentes niveles, dispuestas para que todos los ciclistas tengan la oportunidad de coronar el Collado del Cóndor:
 

@@ -27,7 +27,7 @@ coverImage: "Imagen-referencial-HSE-ESET-Para-acompanar-texto.jpg"
 
 \-En 2024, _AV-Comparatives_ sometió a 16 productos de seguridad de usuario final para Windows a rigurosas pruebas, evaluando su capacidad para proteger frente a amenazas en Internet, identificar programas maliciosos recientes, defensa frente a ataques selectivos avanzados y ofrecer protección sin ralentizar el equipo. [ESET HOME Security Essential](https://www.eset.com/latam/hogar/planes-de-proteccion/) resultó ser el **producto de mayor rendimiento**, recibiendo el máximo **galardón Advanced+** en las **siete pruebas realizadas a lo largo del año**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-2-que-acompana-texto.-ESET-fue-elegido-Producto-del-Ano-2024-en-AV-Comparatives-1024x536.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/02/Imagen-referencial-2-que-acompana-texto.-ESET-fue-elegido-Producto-del-Ano-2024-en-AV-Comparatives-1024x536.jpg)
 
 Como se indica en el Informe resumido 2024 de AV-Comparatives, **«**Los evaluadores quedaron impresionados por la interfaz de usuario limpia e intuitiva, diseñada para **usuarios no expertos**, así como por las amplias opciones de personalización y análisis disponibles para **usuarios avanzados»**.
 
@@ -37,7 +37,7 @@ Aunque la mayoría de los proveedores hacen obligatoria la renovación automáti
 
 ## ESET proporciona seguridad de alto rendimiento y soluciones tecnológicamente avanzadas
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-ESET.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-ESET.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-ESET.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-ESET.jpg)
 
 _**«**Nos sentimos honrados de ser reconocidos como el Producto del Año de AV-Comparatives para 2024. Este premio es un testimonio sobre nuestro compromiso de proporcionar seguridad de **alto rendimiento y soluciones tecnológicamente avanzadas** que protegen la vida digital de nuestros clientes, sin comprometer el rendimiento de sus dispositivos. Seguiremos innovando y mejorando nuestros productos para dar respuesta a las necesidades de ciberseguridad y privacidad de los usuarios, para que puedan disfrutar de todo su potencial y el de su tecnología en un mundo digital seguro**»**_, expresó **Viktória Ivanová**, Vicepresidenta del Segmento de Consumo IoT de ESET.
 

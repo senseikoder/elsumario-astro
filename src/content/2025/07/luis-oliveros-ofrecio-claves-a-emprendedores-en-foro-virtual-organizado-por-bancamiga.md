@@ -28,7 +28,7 @@ coverImage: "LO-Bancamiga-A-Destacada.jpg"
 
 El experto compartió con más de cien participantes, entre empresarios y emprendedores, quienes recibieron orientación sobre cómo protegerse de la inflación, efectuar cobranzas y pagos a proveedores, formación de precios, estrategia de cobertura, estudio de las características de la demanda y **recomendaciones para el ecosistema de emprendimientos y empresas venezolanas**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-que-acompana-texto-LO-Bancamiga-1024x739.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-texto-LO-Bancamiga.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-texto-LO-Bancamiga-1024x739.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-texto-LO-Bancamiga.jpg)
 
 Bajo la organización de la **Dirección de Responsabilidad Social Empresarial de [Bancamiga](https://www.instagram.com/bancamiga/?hl=es)**, el también **decano de la Facultad de Ciencias Económicas y Sociales de la Universidad Metropolitana (Unimet)** facilitó y reforzó herramientas que impulsan los negocios y permiten la competitividad sana en el mercado venezolano.
 

@@ -27,7 +27,7 @@ El nombre “Generazione Z a Confronto” define su esencia: un **espacio para d
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/unnamed-11-1024x439.jpg)](http://elsumario.com/wp-content/uploads/2025/03/unnamed-11.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/unnamed-11-1024x439.jpg)](http://elsumario.com/wp-content/uploads/2025/03/unnamed-11.jpg)
 
 <figcaption>
 

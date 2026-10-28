@@ -28,7 +28,7 @@ El holandés y cuatro veces campeón del mundo perdió rápido el segundo escañ
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Fuente-redes-sociales-@McLarenF1.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-Fuente-redes-sociales-@McLarenF1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-Fuente-redes-sociales-@McLarenF1.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-Fuente-redes-sociales-@McLarenF1.jpg)
 
 <figcaption>
 

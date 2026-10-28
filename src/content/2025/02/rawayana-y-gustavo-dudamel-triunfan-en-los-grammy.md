@@ -27,9 +27,7 @@ coverImage: "Rawayana-e1763163661661.jpg"
 
 La banda de cuatro miembros fundada en 2007 se impuso en esta categoría en la que competía junto a "Compita del Destino", del mexicano El David Aguilar; "Pa Tu Cuerpa", del cubano Cimafunk; "Autopoiética", de la chileno-mexicana Mon Laferte, y "GRASA", de la argentina Nathy Peluso.
 
-\<figure class="wp-caption alignleft" style="max-width:373px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Gustavo-Dudamel-1024x576.jpg "Grammy"" alt="Gustavo Dudamel - Grammy" />
-<figcaption>Gustavo Dudamel</figcaption></figure>
+\[caption id="attachment\_272545" align="alignleft" width="373"\][![Gustavo Dudamel - Grammy](http://elsumario.com/wp-content/uploads/2021/11/Gustavo-Dudamel-1024x576.jpg "Grammy")](http://elsumario.com/wp-content/uploads/2021/11/Gustavo-Dudamel.jpg) Gustavo Dudamel\[/caption\]
 
 Por su parte, el gran director venezolano **Gustavo Dudamel** ganó dos premios Grammy a mejor **compendio clásico** y **mejor actuación orquestal** por **"Ortiz: Revolución Diamantina"**.
 

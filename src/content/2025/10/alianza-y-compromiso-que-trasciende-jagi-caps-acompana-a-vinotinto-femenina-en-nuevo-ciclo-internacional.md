@@ -24,7 +24,7 @@ coverImage: "Mesa-de-trabajo-6.jpg"
 
 Más que una colaboración comercial, la alianza entre **Jagi** y la **FVF** proyecta y potencia un mensaje de acompañamiento, de reconocimiento, hacia todas las categorías que representan los colores vinotinto, especialmente las que dejan constancia o huella de nuevos pasos en igualdad y profesionalización.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Mesa-de-trabajo-3-1024x576.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Mesa-de-trabajo-3-1024x576.jpg)
 
 ### **Compromiso que trasciende el campo y promueve cultura**
 
@@ -36,7 +36,7 @@ El crecimiento sostenido del fútbol femenino en Venezuela ha abierto espacio a 
 
 En dicho contexto, **Jagi Caps se suma como un genuino aliado, icónico además de cultural**, ofreciendo productos oficiales y originales que conectan la **estética urbana** con el orgullo de pertenecer así como respaldar a nuestra **selección nacional**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Mesa-de-trabajo-8-e1761239648599-1024x575.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Mesa-de-trabajo-8-e1761239648599-1024x575.jpg)
 
 “La Vinotinto Femenina encarna la fuerza y la inspiración que mueven a todo un país. Acompañarla en esta etapa es apoyar la evolución del fútbol venezolano en su sentido más amplio”, destacaron voceros de la marca.
 
@@ -44,7 +44,7 @@ En dicho contexto, **Jagi Caps se suma como un genuino aliado, icónico además 
 
 De tal manera que, apoyar a la _Vinotinto Femenina_ es **respaldar la visibilidad y el esfuerzo de las jugadoras que están abriendo camino** a las próximas generaciones.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Mesa-de-trabajo-4-1024x576.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Mesa-de-trabajo-4-1024x576.jpg)
 
 La **gorra oficial** se convierte así en un **símbolo de equidad, identidad y orgullo colectivo**, que une a la marca, a la FVF y al público en una misma narrativa: la de **un país que celebra su talento sin etiquetas, sin exclusión**.
 

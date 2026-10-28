@@ -31,13 +31,13 @@ coverImage: "Cesared-1.jpeg"
 
 La fuerza creativa de “El Proceso” se sostiene en las visiones de sus productores: **Roberto R. Andrade** imprimió dinamismo y color en cada arreglo; **Andrés Steven Trujillo** aportó matices contemporáneos que rehúsan la monotonía; **Cesared** coordinó la narrativa sonora para mantener la esencia personal del discurso; y **Christopher Alva**, de **Colibrí Music Records**, propuso convertir “No está en mis planes” en una cumbia vibrante, rompiendo esquemas y ensanchando el alcance del álbum.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Cesared-2-1024x572.jpeg)](http://elsumario.com/wp-content/uploads/2025/07/Cesared-2.jpeg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Cesared-2-1024x572.jpeg)](http://elsumario.com/wp-content/uploads/2025/07/Cesared-2.jpeg)
 
 Más de veinte sesiones de grabación dieron vida a pistas únicas. Ingenieros como **Daniel Zárate**, **Sebastián Chavarro** y **Eyber Serrano** lideraron los procesos en **Andrade Pro Studios, Mix Factory, Monster Island, GraceSounds, Colibrí Music, Faria Music Productions, The Music Embassy, Trevi Sound Lab, Careloco Drums** y **SierrañoDream Records**. En la mezcla, **Alberto Medina** cinceló _“Deja que te olvide”_ y **Pablo Governatori** esculpió los seis cortes restantes, todos masterizados por **Daniel Ovie** para envolver al oyente en un **gran abrazo acústico**.
 
 **“El Proceso”** no es solo una exploración de géneros —regional contemporáneo, cumbia, tropical y, por primera vez, regional mexicano— sino la crónica de una evolución personal y colectiva.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Cesared-3-1024x580.jpeg)](http://elsumario.com/wp-content/uploads/2025/07/Cesared-3.jpeg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Cesared-3-1024x580.jpeg)](http://elsumario.com/wp-content/uploads/2025/07/Cesared-3.jpeg)
 
 \-**_“Quise derribar muros y construir puentes”_**, afirma Cesared. **_“Cada colaboración, cada cuerda y cada silencio narran la historia de una comunidad artística que se atrevió a soñar sin límites”_**.
 

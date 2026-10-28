@@ -26,9 +26,7 @@ El lateral derecho aseveró que, desde que llegó el año pasado a Guayaquil, se
 
 La crisis administrativa y económica que vive Emelec en los dos últimos años, creó más de una dificultad a sus jugadores, y Alexnader González decidió abandonar el equipo por la falta de pago de sus sueldos, pero se mantuvo prácticamente hasta final de la temporada.
 
-\<figure class="wp-caption alignnone" style="max-width:2048px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Alexander-Gonzalez-.jpg "Alexander González"" alt="Alexander González - Vinotinto" />
-<figcaption>El jugador venezolano quiere llegar lo mejor posible para el duelo de la Vinotinto Vs. Ecuador (Fuente de imagen referencial: @SeleVinotinto/Archivo)</figcaption></figure>
+\[caption id="attachment\_323403" align="alignnone" width="2048"\][![Alexander González - Vinotinto](http://elsumario.com/wp-content/uploads/2024/03/Alexander-Gonzalez-.jpg "Alexander González")](http://elsumario.com/wp-content/uploads/2024/03/Alexander-Gonzalez-.jpg) El jugador venezolano quiere llegar lo mejor posible para el duelo de la Vinotinto Vs. Ecuador (Fuente de imagen referencial: @SeleVinotinto/Archivo)\[/caption\]
 
 Si bien, el jugador venezolano, de 32 años de edad, llegó el domingo a la espera de la pretemporada, desde Emelec no se ha precisado la convocatoria de entrenamientos y al mando de qué cuerpo técnico.
 

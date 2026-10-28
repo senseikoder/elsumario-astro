@@ -31,7 +31,7 @@ El programa de adquisiciones que fomenta la actual edición de Arteba tendrá co
 
 <figure>
 
-[![Feria de Arte, Arteba](https://tu-r2-bucket.r2.cloudflarestorage.com/images/8be9a446fb93a59bcaa1cef2dee3cf26ab264b2cm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/8be9a446fb93a59bcaa1cef2dee3cf26ab264b2cm.jpg)
+[![Feria de Arte, Arteba](https://elsumario.com/wp-content/uploads/2025/08/8be9a446fb93a59bcaa1cef2dee3cf26ab264b2cm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/8be9a446fb93a59bcaa1cef2dee3cf26ab264b2cm.jpg)
 
 <figcaption>
 

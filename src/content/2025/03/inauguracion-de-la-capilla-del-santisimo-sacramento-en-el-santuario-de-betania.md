@@ -22,7 +22,7 @@ Con la venia de **Mons. Freddy Fuenmayor**, **obispo de Los Teques** y gracias a
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250302-WA0091.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-20250302-WA0091.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/IMG-20250302-WA0091.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-20250302-WA0091.jpg)
 
 <figcaption>
 
@@ -38,7 +38,7 @@ El Santuario de Betania se encuentra ubicado en el km 11 de la Carretera Cúa - 
 
 La _ceremonia de dedicación_, que se llevará a cabo durante la Eucaristía, confiere a la capilla un carácter sagrado y perpetuo mediante la oración de la Iglesia, el uso del óleo del crisma, y la incensación y aspersión con agua bendita, convirtiéndola en un espacio católico para el exclusivo culto divino.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250206-WA0068-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-20250206-WA0068.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/IMG-20250206-WA0068-1024x768.jpg)](http://elsumario.com/wp-content/uploads/2025/03/IMG-20250206-WA0068.jpg)
 
 ### **Destino de peregrinación privilegiado**: **Templo Jubilar 2025**
 

@@ -35,7 +35,7 @@ El largometraje ofrece un acceso sin precedentes a los momentos más íntimos y 
 
 <figure>
 
-[![Karol-G - RRSS - X - NoticiaAlDía](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Karal-G-RRSS-NoticiaAlDia.jpg)](http://elsumario.com/wp-content/uploads/2024/03/Karal-G-RRSS-NoticiaAlDia.jpg)
+[![Karol-G - RRSS - X - NoticiaAlDía](http://elsumario.com/wp-content/uploads/2024/03/Karal-G-RRSS-NoticiaAlDia.jpg)](http://elsumario.com/wp-content/uploads/2024/03/Karal-G-RRSS-NoticiaAlDia.jpg)
 
 <figcaption>
 

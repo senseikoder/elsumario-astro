@@ -32,7 +32,7 @@ Los datos obtenidos de la encuesta revelaron mejoras significativas en áreas cl
 
 **“**Tras 6 años de certificaciones y de trabajo minucioso, puedo decir con mucha satisfacción que los resultados que hemos obtenido durante todo este tiempo y las acciones que hemos puesto en práctica para cerrar las brechas en las áreas de foco evaluadas, nos permiten contar hoy en día con un **óptimo ambiente laboral** que ya incluso forma parte de nuestra **cultura organizacional”** comentó **Nahylin Guzmán**, Vicepresidente Ejecutivo de Capital Humano, Marketing y Comunicaciones.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Banplus_certificacion_GPTW-819x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Banplus_certificacion_GPTW.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Banplus_certificacion_GPTW-819x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Banplus_certificacion_GPTW.jpg)
 
 La institución financiera planea realizar mesas de trabajo con sus empleados para identificar y desarrollar nuevas iniciativas que fortalezcan aún más el bienestar y el clima organizacional, estableciéndolo como un compromiso continuo de todos los trabajadores. Con esta certificación, **Banplus reafirma que es _Un Gran Lugar para Trabajar_ y su compromiso no solo es continuar _Haciendo País_ de la mano de sus trabajadores, sino también ser referencia para quienes que aspiran conectar con la banca**.
 

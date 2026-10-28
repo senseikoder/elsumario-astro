@@ -30,7 +30,7 @@ La conversación estuvo moderada por **Eliana Guerra**, coordinadora de _Kitzale
 
 <figure>
 
-[![Imagen referencial - A](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-1.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-A-1.jpg)
+[![Imagen referencial - A](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-A-1.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-A-1.jpg)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ Las ideas centrales de _Notas a la dirigencia_ se pueden resumir en los siguie
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/07/Imagen-referencial-C.jpg)
 
 <figcaption>
 

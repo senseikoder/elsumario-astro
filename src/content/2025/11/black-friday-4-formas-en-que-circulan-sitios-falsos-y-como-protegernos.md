@@ -42,7 +42,7 @@ Como referente, se ha visto circular una campaña [en la que se simuló en corre
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imgen-complementaria-B.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imgen-complementaria-B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Imgen-complementaria-B.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imgen-complementaria-B.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ ESET identificó en el pasado sitios que imitan a tiendas online y empresas vari
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-complementaria-A-1024x449.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-A.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-A-1024x449.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-A.jpg)
 
 <figcaption>
 
@@ -82,7 +82,7 @@ En algunos casos la url (dirección digital) es fácilmente identificable como f
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-complementaria-C-1024x608.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-C.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-C-1024x608.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-C.jpg)
 
 <figcaption>
 
@@ -100,7 +100,7 @@ Se trata de mensajes de WhatsApp que se hacen pasar por Amazon, Mercado Libre u 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-complementaria-D-643x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-D.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-D-643x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Imagen-complementaria-D.jpg)
 
 <figcaption>
 

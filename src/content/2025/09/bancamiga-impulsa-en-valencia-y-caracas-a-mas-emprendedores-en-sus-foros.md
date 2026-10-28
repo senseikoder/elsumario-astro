@@ -56,7 +56,7 @@ El padre **Gerardino Barracchini**, vicepostulador de la causa de José Gregorio
 
 “Aprendí un poco más, que no es solo hacer un producto y venderlo, sino hacerlo desde el punto de vista de la persona a quien se lo vas a ofrecer”, admitió el emprendedor **Alexander Martínez**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Antes-del-ultimo-parrafo.-Imagen-para-acompanar-el-texto-1024x742.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Antes-del-ultimo-parrafo.-Imagen-para-acompanar-el-texto.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/Antes-del-ultimo-parrafo.-Imagen-para-acompanar-el-texto-1024x742.jpg)](https://elsumario.com/wp-content/uploads/2025/09/Antes-del-ultimo-parrafo.-Imagen-para-acompanar-el-texto.jpg)
 
 **En lo que va del año 2025, más de 2.000 personas se han capacitado con Bancamiga**. Con su programa de desarrollo empresarial, la institución financiera reafirma su misión de sumar esfuerzos para el crecimiento del país, proporcionando a los emprendedores venezolanos **el conocimiento y los recursos necesarios para transformar sus ideas en negocios exitosos y sostenibles, contribuyendo así al progreso económico de Venezuela**.
 

@@ -29,7 +29,7 @@ El Sumario - **Hyundai Motor Company** alcanzó una **valoración de marca réc
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/obi-D9Nw7e7S3gE-unsplash-1024x567.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/10/obi-D9Nw7e7S3gE-unsplash-1024x567.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ La marca también impulsó su liderazgo en movilidad eléctrica y seguridad, con
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Hyundai-Cortesia.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-Hyundai-Cortesia.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-Hyundai-Cortesia.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-Hyundai-Cortesia.jpg)
 
 <figcaption>
 

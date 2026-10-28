@@ -29,7 +29,7 @@ Las silletas son unos **armazones de madera que los campesinos de la zona usaban
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bf27160ed5f047f2c57b58cf0b9c15a0633f902fm-1.jpg)](https://elsumario.com/wp-content/uploads/2025/07/bf27160ed5f047f2c57b58cf0b9c15a0633f902fm-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/bf27160ed5f047f2c57b58cf0b9c15a0633f902fm-1.jpg)](https://elsumario.com/wp-content/uploads/2025/07/bf27160ed5f047f2c57b58cf0b9c15a0633f902fm-1.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ Entre los eventos programados también están las Plazas de Flores, el Festival 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/968fbc73c0031c698600fa6876606ed2c58f8e94m.jpg)](https://elsumario.com/wp-content/uploads/2025/07/968fbc73c0031c698600fa6876606ed2c58f8e94m.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/968fbc73c0031c698600fa6876606ed2c58f8e94m.jpg)](https://elsumario.com/wp-content/uploads/2025/07/968fbc73c0031c698600fa6876606ed2c58f8e94m.jpg)
 
 <figcaption>
 

@@ -27,7 +27,7 @@ La victoria reafirmó su posición en la cima de este deporte urbano y [le otorg
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/10/Imagen-referencial-B.jpg)
 
 <figcaption>
 

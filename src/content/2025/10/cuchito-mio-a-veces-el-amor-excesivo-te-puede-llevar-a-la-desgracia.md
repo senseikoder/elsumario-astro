@@ -37,7 +37,7 @@ Se presenta en **Sala Horacio Peterson** de la UNEARTE, durante 6 únicas funcio
 
 Contempla las actuaciones de **Joaquina Ovalles**, **Rebeca Aponte**, **Maritza Rojas, Citlalli Godoy**, **Aracelli Prieto** y **Miguel Ángel Treccia**. 
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-1024x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-1024x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial.jpg)
 
 _"Cuchito Mío"_ está dirigida al **público adulto + de 18 años**. Las entradas se adquieren en las taquillas del teatro.
 
@@ -45,7 +45,7 @@ Los **creadores escénicos** han sido Juan Manuel Noguera, Jesús García, Jorge
 
 **La producción agradece a** Jericó Montilla, Carmen Jiménez, Oswaldo Marchionda, Ricardo Verenzuela, Costa Palamides, Ibis Piña,  Mariángela Noguera, familia Noguera, Nancy Ortuño, Jusmidalys Leal, Salvador González, Gabriel Toro, Jhonatan Pernía, Laboratorio Teatral Anna Julia Rojas, Teatro Ceres y UNEARTE.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Fachada-Unearte.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Fachada-Unearte.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Fachada-Unearte.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Fachada-Unearte.jpg)
 
 De manera que **la cita es en la sala Peterson, muy cerca de la Plaza de los Museos**, en el actual edificio sede de la Universidad Nacional Experimental de las Artes.
 

@@ -23,7 +23,7 @@ coverImage: "Ruta-del-Terror.jpg"
 
 Desde techos, ventanas, calles, callejones y un cementerio recreado en una plazoleta, salieron, a medida que avanzaban los participantes, una treintena de actores que representaron personajes como el Yerbatero, quien solía vender las hierbas que recolectaba en la principal formación montañosa de Caracas, conocida como El Ávila, o el Descabezado, un alma errante, así como espíritus de esclavos.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ruta-del-Terror-2.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Ruta-del-Terror-2.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Ruta-del-Terror-2.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Ruta-del-Terror-2.jpg)
 
 "Tenemos en cada esquina un mito que contar", dijo a _EFE_ **Kristhian Polo**, miembro del equipo creativo de la **Fundación José Ángel Lamas**, la responsable de la ruta, que busca "cuidar lo cultural y lo patrimonial del municipio Sucre", al que pertenece Petare.
 
@@ -31,7 +31,7 @@ Afirmó que se trata de un trabajo "arduo" que llevan a cabo casi 70 personas, e
 
 Por su parte, **María Eugenia Rangel**, integrante de la fundación, indicó que esta actividad está basada, principalmente, en "espantos y aparecidos de la zona del centro histórico de Petare".
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ruta-del-Terror-3-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Ruta-del-Terror-3.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/07/Ruta-del-Terror-3-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/07/Ruta-del-Terror-3.jpg)
 
 "Hay muchas personas que dicen escuchar espantos, ánimas, esclavos que en algún momento vivieron en esta zona, y nosotros lo que hacemos es recrearlo, (…) contar a las personas las historias de esta localidad", explicó a _EFE_.
 

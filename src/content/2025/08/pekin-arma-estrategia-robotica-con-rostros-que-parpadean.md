@@ -30,7 +30,7 @@ Todos comparten la misma ambición: **que la máquina conquiste gestos y miradas
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/d55f737c8f4e20f138f507d4a4f017c83d93968fm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/d55f737c8f4e20f138f507d4a4f017c83d93968fm.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/d55f737c8f4e20f138f507d4a4f017c83d93968fm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/d55f737c8f4e20f138f507d4a4f017c83d93968fm.jpg)
 
 <figcaption>
 

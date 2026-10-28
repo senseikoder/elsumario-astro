@@ -31,7 +31,7 @@ Aún no se conoce la fecha de la canonización, debido a que el Papa tendrá que
 
 La ceremonia de beatificación de la monja venezolana fue celebrada en Caracas ante miles de personas por el entonces prefecto de la Congregación para las Causas de los Santos, **Angelo Amato**, en el estadio de béisbol de la **Universidad Central de Venezuela** (UCV).
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Carmen-Elena-Rendiles-Martinez-II.jpeg)](http://elsumario.com/wp-content/uploads/2025/03/Carmen-Elena-Rendiles-Martinez-II.jpeg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Carmen-Elena-Rendiles-Martinez-II.jpeg)](http://elsumario.com/wp-content/uploads/2025/03/Carmen-Elena-Rendiles-Martinez-II.jpeg)
 
 ## ¿Quién fue Carmen Elena Rendiles Martínez?
 
@@ -39,7 +39,7 @@ La próxima santa venezolana provenía de una familia numerosa y ferviente cató
 
 Nació sin el brazo izquierdo, una malformación que le causó algunos problemas a la hora de ingresar en una congregación religiosa, pero no le impidió seguir su pasión por el arte y el dibujo, a la que renunció sólo tras seguir su vocación de religiosa.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Carmen-Elena-Rendiles-Martinez-I.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Carmen-Elena-Rendiles-Martinez-I.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Carmen-Elena-Rendiles-Martinez-I.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Carmen-Elena-Rendiles-Martinez-I.jpg)
 
 "Resulta curioso que el milagro reconocido para su beatificación fuera precisamente la curación del brazo enfermo de un médico que había recibido una descarga eléctrica excesivamente potente durante una operación", se añade en la biografía.
 

@@ -29,7 +29,7 @@ coverImage: "Teatro-Teresa-Carreno-Fuente-de-esta-imagen-referencial-Redes-socia
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-elenco-MM.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-elenco-MM.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Imagen-elenco-MM.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-elenco-MM.jpg)
 
 <figcaption>
 
@@ -43,11 +43,11 @@ El elenco del musical
 Mamma Mía! es uno de los musicales que más se ha mantenido en cartelera desde su estreno en 1999 y cuenta la historia de Donna, una hotelera independiente de las islas griegas, que prepara la boda de su hija Sophie con la ayuda de dos viejos amigos. Mientras tanto, Sophie tiene su propio plan: invitar a la boda a tres hombres del pasado de su madre con la esperanza de conocer a su padre biológico para que la acompañe al altar. Ha sido visto por más de 70 millones de espectadores en el mundo y las entradas ya están disponibles en [https://ticketplate.com/mamma-mia-el-musical](https://ticketplate.com/mamma-
 mia-el-musical).
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/MAMMA-MIAMARCAS-1080x1035-1-819x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/08/MAMMA-MIAMARCAS-1080x1035-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/MAMMA-MIAMARCAS-1080x1035-1-819x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/08/MAMMA-MIAMARCAS-1080x1035-1.jpg)
 
 El musical llega a Venezuela en octubre con 33 actores, cantantes y bailarines, bajo la producción general y ejecutiva de **Claudia Salazar Gómez**, la dirección general de **Marianery Amín** y la dirección musical de **Jhosmarni Martínez**, asesoría musical de **Elisa Vegas** y coreografías de **Taba Luis Ramírez**. Se presentará en el **Teatro Teresa Carreño**, a la vez que se encuentra en cartelera en Broadway, Londres, España y Canadá.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-2.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-2.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-2.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-2.jpg)
 
 Las preparaciones, incidencias, tras cámaras, audiciones y ensayos de Mamma Mía! se pueden ver en el **reality “Camino al aplauso”**, programa en el que se muestra el proceso creativo del montaje de un musical, todos los lunes a las 8:30 pm, a través de **IVC**.
 

@@ -30,7 +30,7 @@ No se trata de un relato feminista sino de una precisa investigación periodíst
   
 Se encontrarán casos de sobrias féminas que supieron manejarse institucionalmente, y con un tino fascinante, unas duras, algunas que quisieron ser la madre de su pueblo, las hay con perfil de estadista, pero también otras de verbo agresivo, y a quienes les encanta la diatriba. Se ven las que fueron sencillamente un desastre político, y terminaron expulsadas por sus adversarios. Unas pocas dejaron evidencia de un talento que es escaso en la política mundial. Algunas deslumbrantes supieron ver cuál era su momento de hacerse a un lado, y otras formaron a sus hijos para que siguieran en su batalla.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Portada-de-la-obra.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Portada-de-la-obra.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Portada-de-la-obra.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Portada-de-la-obra.jpg)
 
 ### **Una investigación periodística que ofrece detalles y al mismo tiempo una visión general de interés**
 
@@ -42,7 +42,7 @@ Con presentación de **Mibelis Acevedo**, también destacada periodista venezola
 
 Un dato coincidente y relevante es que esta misma semana, el martes 21 de octubre, la conservadora **Sanae Takaichi**, del gobernante Partido Liberal Democrático, se convirtió en la primera mujer en ser nombrada **Primera Ministra de Japón**, tras ganar la votación parlamentaria.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ellas-al-mando.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Ellas-al-mando.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Ellas-al-mando.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Ellas-al-mando.jpg)
 
 \_
 

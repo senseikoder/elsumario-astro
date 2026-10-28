@@ -27,7 +27,7 @@ Pujols, en su primera participación como mánager de un equipo de béisbol prof
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Albert-Pujols-I-1.jpeg)](http://elsumario.com/wp-content/uploads/2025/03/Albert-Pujols-I-1.jpeg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Albert-Pujols-I-1.jpeg)](http://elsumario.com/wp-content/uploads/2025/03/Albert-Pujols-I-1.jpeg)
 
 <figcaption>
 

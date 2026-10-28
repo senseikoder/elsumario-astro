@@ -32,7 +32,7 @@ Más allá de un tradicional patrocinio, pues su alcance y significación son po
 
 ### Un nuevo ciclo, la misma pasión
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Mesa-de-trabajo-B-65-1024x670.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/11/Mesa-de-trabajo-B-65-1024x670.jpg)
 
 La **selección Sub-17**, dirigida por **Oswaldo Vizcarrondo**, logró una **histórica clasificación al Mundial tras su destacada actuación en el Sudamericano; en su etapa final de preparación realizó una gira internacional que incluyó compromisos en Dubái antes de su viaje a Catar**.
 
@@ -42,7 +42,7 @@ La **selección Sub-17**, dirigida por **Oswaldo Vizcarrondo**, logró una **his
 
 ### Símbolo de identidad y continuidad generacional
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Mesa-de-trabajo-C-73-1024x670.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/11/Mesa-de-trabajo-C-73-1024x670.jpg)
 
 Apoyar a la **Vinotinto Sub-17** —en este Mundial— es **apoyar la renovación, la esperanza y el talento que viene**.
 

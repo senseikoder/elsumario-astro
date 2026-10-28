@@ -35,7 +35,7 @@ Una vez comenzada la obra, el **elenco de la Compañía Nacional de Teatro Down*
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/7fd811bf5b18bbca5df228dd813ae43dbdeec052m.jpg)](https://elsumario.com/wp-content/uploads/2025/08/7fd811bf5b18bbca5df228dd813ae43dbdeec052m.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/7fd811bf5b18bbca5df228dd813ae43dbdeec052m.jpg)](https://elsumario.com/wp-content/uploads/2025/08/7fd811bf5b18bbca5df228dd813ae43dbdeec052m.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Por su parte, **Marisela Ramírez, directora de arte de Apoye**, declaró a EFE 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/b9dd5f858d329e59889a54914de88dd4833d11bdm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/b9dd5f858d329e59889a54914de88dd4833d11bdm.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/b9dd5f858d329e59889a54914de88dd4833d11bdm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/b9dd5f858d329e59889a54914de88dd4833d11bdm.jpg)
 
 <figcaption>
 

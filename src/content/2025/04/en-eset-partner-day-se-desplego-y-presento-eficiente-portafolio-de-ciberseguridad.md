@@ -32,7 +32,7 @@ Estas herramientas destacan por su capacidad de identificar y mitigar amenazas c
 
 La tecnología de ESET sigue posicionándose como un referente global en la lucha contra los ataques digitales, algo de suma relevancia en el panorama actual, marcado por el incremento de la ciberdelincuencia.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-ESET-Partner-Day-presento-Portafolio-para-proteger-el-presente-de-la-ciberseguridad-en-Venezuela.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/04/Imagen-referencial-B-ESET-Partner-Day-presento-Portafolio-para-proteger-el-presente-de-la-ciberseguridad-en-Venezuela.jpg)
 
 El evento no solo fue una oportunidad para conocer las novedades tecnológicas, sino también para estrechar lazos en un ambiente cordial y profesional. Los asistentes encontraron un espacio ideal para intercambiar ideas y experiencias con otros miembros de la **comunidad tecnológica**.
 
@@ -42,7 +42,7 @@ El _ESET Partner Day_ es un testimonio más del compromiso de Logintel y ESET co
 
 La jornada concluyó con la certeza de que las soluciones tecnológicas presentadas marcarán un antes y un después en la forma de abordar la ciberseguridad en el país, reafirmando que **la tecnología no solo protege, sino que también impulsa el desarrollo en cada rincón del mundo**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/eset.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/04/eset.jpg)
 
 Para obtener más información, visite el sitio web de ESET: [https://www.eset.com/ve/](https://www.eset.com/ve/), y sus redes sociales @eset\_ve
 

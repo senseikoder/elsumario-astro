@@ -38,7 +38,7 @@ El puertorriqueño hizo historia al ser el primer artista en recibir el **'Latin
 
 <figure>
 
-[![Ricky Martin](https://tu-r2-bucket.r2.cloudflarestorage.com/images/0c7d99b29317e28b336487ae57e995d168c14755m.jpg)](https://elsumario.com/wp-content/uploads/2025/09/0c7d99b29317e28b336487ae57e995d168c14755m.jpg)
+[![Ricky Martin](https://elsumario.com/wp-content/uploads/2025/09/0c7d99b29317e28b336487ae57e995d168c14755m.jpg)](https://elsumario.com/wp-content/uploads/2025/09/0c7d99b29317e28b336487ae57e995d168c14755m.jpg)
 
 <figcaption>
 

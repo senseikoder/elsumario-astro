@@ -28,7 +28,7 @@ La actividad, llamada **"Exposistema"**, arrancará este jueves 13 de febrero co
 
 La exposición, que culminará el domingo con diversos conciertos, entre ellos de la **Orquesta Latinocaribeña Simón Bolívar**, también incluirá programas académicos, proyectos de la institución y foros sobre el "poder transformador de la música".
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/El-Sistema-Archivo-1024x681.jpg)](http://elsumario.com/wp-content/uploads/2025/02/El-Sistema-Archivo.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/El-Sistema-Archivo-1024x681.jpg)](http://elsumario.com/wp-content/uploads/2025/02/El-Sistema-Archivo.jpg)
 
 Fundado el 12 de febrero de 1975, el Sistema de Orquestas y Coros de Venezuela nació con el objetivo de "sistematizar la instrucción y la práctica colectiva e individual de la música" como "instrumento de organización social y desarrollo humanístico", según se explica en su página web.
 

@@ -34,7 +34,7 @@ Tras el impacto de su anterior sencillo **_"La taza de café"_**, Marcelon volvi
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-que-acompana-el-texto.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-que-acompana-el-texto.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-que-acompana-el-texto.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-que-acompana-el-texto.jpg)
 
 <figcaption>
 

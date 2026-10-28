@@ -19,7 +19,7 @@ coverImage: "Imagen-princiapal.jpg"
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/04/Imagen-referencial-B.jpg)
 
 <figcaption>
 
@@ -31,7 +31,7 @@ Entre el 25 y este 27 de abril se cumple y disputa el Campeonato Sudamericano de
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Archivo.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/04/Imagen-referencial-Archivo.jpg)
 
 <figcaption>
 

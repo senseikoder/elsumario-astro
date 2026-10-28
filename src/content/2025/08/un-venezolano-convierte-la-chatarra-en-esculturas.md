@@ -30,7 +30,7 @@ Sin embargo, indica que este año arrancó a **desarrollar este tipo de escultur
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/3ab9c64a0ed5a71d0e880933519b58bf590fdd4dm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/3ab9c64a0ed5a71d0e880933519b58bf590fdd4dm.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/3ab9c64a0ed5a71d0e880933519b58bf590fdd4dm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/3ab9c64a0ed5a71d0e880933519b58bf590fdd4dm.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ Ventura explica que la preocupación de ver a sus vecinos **lanzando la basura e
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/dba2b20e6d5b2fed1b82dda020a9b7f59d6b699fm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/dba2b20e6d5b2fed1b82dda020a9b7f59d6b699fm.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/dba2b20e6d5b2fed1b82dda020a9b7f59d6b699fm.jpg)](https://elsumario.com/wp-content/uploads/2025/08/dba2b20e6d5b2fed1b82dda020a9b7f59d6b699fm.jpg)
 
 <figcaption>
 

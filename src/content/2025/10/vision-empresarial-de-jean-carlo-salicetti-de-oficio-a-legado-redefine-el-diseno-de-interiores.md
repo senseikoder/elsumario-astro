@@ -41,7 +41,7 @@ coverImage: "Imagen-referencial-principal-Wemax-Projectors-en-Unsplash.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/alex-tyson-sslulLKuj4E-unsplash-1024x524.jpg)](https://elsumario.com/wp-content/uploads/2025/10/alex-tyson-sslulLKuj4E-unsplash.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/alex-tyson-sslulLKuj4E-unsplash-1024x524.jpg)](https://elsumario.com/wp-content/uploads/2025/10/alex-tyson-sslulLKuj4E-unsplash.jpg)
 
 <figcaption>
 
@@ -91,7 +91,7 @@ El verdadero lujo no está en lo ostentoso, sino en lo impecable, en lo funciona
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jeac-Carlo-Salicetti-002.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Jeac-Carlo-Salicetti-002.jpg)
 
 <figcaption>
 
@@ -103,15 +103,15 @@ J.C. Salicetti recuerda que los closets sensoriales de Natclar son más que dise
 
 **Jean Carlo Salicetti** es un **diseñador y empresario venezolano** radicado en Miami, con más de una década de experiencia en la creación e instalación de sistemas de almacenamiento de alta gama, reconocido por transformar el concepto tradicional de closet en una herramienta de bienestar e inclusión.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-complementaria-extra-e1760835642662.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Imagen-complementaria-extra-e1760835642662.jpg)
 
 Fundador y CEO de **Natclar Cabinets**, ha liderado proyectos residenciales y comerciales para clientes de alto perfil, al tiempo que ha innovado con el desarrollo de **closets sensoriales** y **estaciones escolares** diseñadas para niños con autismo y otras condiciones del neurodesarrollo, integrando funcionalidad, estética y sostenibilidad.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Medalla-Honor-Reconocimiento-especial.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Medalla-Honor-Reconocimiento-especial.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Medalla-Honor-Reconocimiento-especial.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Medalla-Honor-Reconocimiento-especial.jpg)
 
 Fue distinguido con la **Medalla Presidencial al Servicio Voluntario** en la gala **Lifetime Achievement Award 2025**; honor otorgado por la **Casa Blanca** (EE.UU.) **por su compromiso y liderazgo en favor de la comunidad**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-complementaria-Art.-3.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Imagen-complementaria-Art.-3.jpg)
 
 Su trayectoria combina la precisión técnica adquirida en colaboraciones con marcas como _The Container Store_ y _Penmarc_, con una visión social que lo ha llevado a recibir reconocimientos en congresos internacionales y en iniciativas comunitarias. Con formación en comunicación social y certificaciones en autismo y desarrollo infantil, Salicetti se ha consolidado como un referente en el **diseño con propósito**, demostrando que el mobiliario puede ser un agente de inclusión, autonomía y transformación social.
 

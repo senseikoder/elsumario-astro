@@ -41,9 +41,7 @@ El [FBI afirma](https://www.ic3.gov/AnnualReport/Reports/2023_IC3Cryptocurrency
 - **Las amenazas PSW provocaron el crecimiento de criptosecuestradores dirigidos a la plataforma Windows**. Una gran parte de esta actividad fue alimentada por una variante del malware-as-a-service **Lumma Stealer**.
 - Muchos **troyanos bancarios para Android** contienen ahora funciones de robo de criptomonedas junto con las tradicionales, hasta el punto de que ESET incorporó ambos tipos de amenazas en la categoría **«Amenazas financieras para Android»**. Este tipo de amenazas aumentó un 20% en total en el segundo semestre de 2024.
 
-\<figure class="wp-caption aligncenter" style="max-width:964px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-ilustrativa-A.png" alt="" />
-<figcaption>Detecciones de cryptostealr desde diciembre 2023 a noviembre 2024. Fuente: ESET Threat Report H2 2024.</figcaption></figure>
+\[caption id="attachment\_337853" align="aligncenter" width="964"\][![](http://elsumario.com/wp-content/uploads/2025/01/Imagen-ilustrativa-A.png)](http://elsumario.com/wp-content/uploads/2025/01/Imagen-ilustrativa-A.png) Detecciones de cryptostealr desde diciembre 2023 a noviembre 2024. Fuente: ESET Threat Report H2 2024.\[/caption\]
 
 ### El [ESET Threat Report del primer semestre de 2024](https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h12024.pdf) también reveló:
 
@@ -53,9 +51,7 @@ El [FBI afirma](https://www.ic3.gov/AnnualReport/Reports/2023_IC3Cryptocurrency
 - Ataque a jugadores a través de malware de robo de criptomonedas e información oculto en **juegos crackeados y herramientas de engaño ofrecidas en servidores Discord y sitios de _torrents_**. Entre ellas se incluyen **Red Line Stealer** y Lumma Stealer. Las detecciones de Lumma, centrado en las criptocarteras, disminuyeron en este periodo, pero **ESET descubrió una nueva variante, Win/Spy.Agent.QLD, que va en aumento**.
 - El phishing como medio para acceder a **criptoactivos**, engañando a los usuarios para que entreguen sus datos de acceso. Por ejemplo, **los sitios de phishing relacionados con criptomonedas representaron el 8% de todos los observados por ESET en el primer semestre de 2024. Esto lo sitúa entre las cinco categorías más importantes del periodo**.
 
-\<figure class="wp-caption aligncenter" style="max-width:1549px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-ilustrativa-B.png" alt="" />
-<figcaption>Aplicación falsa de cryptowallet (Fuente: ESET Threat Report H2 2024)</figcaption></figure>
+\[caption id="attachment\_337854" align="aligncenter" width="1549"\][![](http://elsumario.com/wp-content/uploads/2025/01/Imagen-ilustrativa-B.png)](http://elsumario.com/wp-content/uploads/2025/01/Imagen-ilustrativa-B.png) Aplicación falsa de cryptowallet (Fuente: ESET Threat Report H2 2024)\[/caption\]
 
 _“No sólo hay que tener cuidado con el phishing y el malware cuando se trata del robo de criptomonedas. Como se desprende de las cifras del FBI, los estafadores han diseñado una serie de engaños con la intención de despojar a los usuarios de su moneda virtual. Es importante conocer los riesgos para tomar las medidas de protección y cuidados necesarios”,_ apunta Gutiérrez Amaya de ESET Latinoamérica.
 

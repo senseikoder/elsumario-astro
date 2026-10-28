@@ -32,7 +32,7 @@ Un equipo de más de 40 artistas del museo **trabajaron durante catorce meses en
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/606a6137ee22648fe45d159138e9f2684eebf476w-730x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/07/606a6137ee22648fe45d159138e9f2684eebf476w.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/606a6137ee22648fe45d159138e9f2684eebf476w-730x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/07/606a6137ee22648fe45d159138e9f2684eebf476w.jpg)
 
 <figcaption>
 

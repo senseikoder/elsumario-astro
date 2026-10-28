@@ -25,7 +25,7 @@ La letra de la canción **expresa de manera poética el vacío abrumador que se 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Kayro-Imagen-referencial-A-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Kayro-Imagen-referencial-A.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Kayro-Imagen-referencial-A-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Kayro-Imagen-referencial-A.jpg)
 
 <figcaption>
 
@@ -41,13 +41,13 @@ Recientemente, a Kayro le fue concedido y otorgado su segundo premio **_Tacarigu
 
 Kayro pudo adelantar que el 2 de marzo estrenará su nuevo sencillo **“Dime Si Vas”**, con el que cierra el ciclo promocional de su EP Essence y marca el fin de su primera etapa musical.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Essence-Kairo-Music.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/02/Essence-Kairo-Music.jpg)
 
 Confesó que **se encuentra en los preparativos de su primer álbum discográfico**, con nuevos sonidos y grandes colaboraciones. El artista tiene programada y avanza en los ajustes o coordinaciones para una gira por Estados Unidos junto a su equipo de **S Entertainment Management**.
 
 La invitación es a seguirlo en sus redes sociales **@Kayromusic** y a escuchar su música, **disponible en todas las plataformas digitales**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Kayro-Banner.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Kayro-Banner.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Kayro-Banner.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Kayro-Banner.jpg)
 
 [Aquí puede escucharse **"Después de ti"**](https://music.youtube.com/watch?v=4WoxNNDljNg&si=OKZfv9Azg-4mMw2g)
 

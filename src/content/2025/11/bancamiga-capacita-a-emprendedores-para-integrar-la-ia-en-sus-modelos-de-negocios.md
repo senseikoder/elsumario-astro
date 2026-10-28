@@ -35,7 +35,7 @@ La facilitadora logró que más de 400 participantes no solo conocieran los conc
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/BFN-Imagen-referencial-Ppal-o-Destacada-1024x653.jpg)](https://elsumario.com/wp-content/uploads/2025/11/BFN-Imagen-referencial-Ppal-o-Destacada.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/BFN-Imagen-referencial-Ppal-o-Destacada-1024x653.jpg)](https://elsumario.com/wp-content/uploads/2025/11/BFN-Imagen-referencial-Ppal-o-Destacada.jpg)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ Al finalizar la actividad, la microempresaria **Blenny Castro** calificó la cla
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/DLL-Imagen-referencia-destacada-o-ppal.jpg)](https://elsumario.com/wp-content/uploads/2025/11/DLL-Imagen-referencia-destacada-o-ppal.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/DLL-Imagen-referencia-destacada-o-ppal.jpg)](https://elsumario.com/wp-content/uploads/2025/11/DLL-Imagen-referencia-destacada-o-ppal.jpg)
 
 <figcaption>
 

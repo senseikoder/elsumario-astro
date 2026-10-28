@@ -29,7 +29,7 @@ Además, confía en que este trabajo lo pueda "ayudar económicamente", mientras
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/0edc8d74a156a523d0ac882ac3f7bc7acf75c19fm.jpg)](https://elsumario.com/wp-content/uploads/2025/09/0edc8d74a156a523d0ac882ac3f7bc7acf75c19fm.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/0edc8d74a156a523d0ac882ac3f7bc7acf75c19fm.jpg)](https://elsumario.com/wp-content/uploads/2025/09/0edc8d74a156a523d0ac882ac3f7bc7acf75c19fm.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ La líder de la comunidad ya tiene una lista de 13 jóvenes que quieren particip
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/969be33795b6ce76bae2ab138c076d64f9c25c32m.jpg)](https://elsumario.com/wp-content/uploads/2025/09/969be33795b6ce76bae2ab138c076d64f9c25c32m.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/09/969be33795b6ce76bae2ab138c076d64f9c25c32m.jpg)](https://elsumario.com/wp-content/uploads/2025/09/969be33795b6ce76bae2ab138c076d64f9c25c32m.jpg)
 
 <figcaption>
 

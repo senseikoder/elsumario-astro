@@ -32,7 +32,7 @@ Con la innovación y el emprendimiento como pilares fundamentales de su gestión
 
 De acuerdo con el Presidente de la Junta Directiva de [Bancamiga](https://www.instagram.com/bancamiga/?hl=es), **José Simón Elarba**, este banco es una empresa socialmente responsable que “no solo se diferencia por ser una de las instituciones innovadoras de la banca venezolana sino que tiene entre sus prioridades el crecimiento del país, buscando garantizar que todas las personas disfruten de bienestar. Nuestro compromiso es con el desarrollo de todos los venezolanos”.
 
-[![Bancamiga](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-Balance-RSE-2024-JSE-Presidente-de-la-institucion.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-A-Balance-RSE-2024-JSE-Presidente-de-la-institucion.jpg)
+[![Bancamiga](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-A-Balance-RSE-2024-JSE-Presidente-de-la-institucion.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-A-Balance-RSE-2024-JSE-Presidente-de-la-institucion.jpg)
 
 ## Impulsando sueños e ideas de negocio
 
@@ -40,7 +40,7 @@ De acuerdo con el Presidente de la Junta Directiva de [Bancamiga](https://www.in
 
 Con el **innovador foro El Viaje del Emprendedor**, el banco brindó **experiencias formativas únicas en Caracas y Maracaibo**, donde más de 850 personas transitaron el camino que recorren las personas con iniciativas de negocio para alcanzar el éxito con sus emprendimientos, bajo la guía de conferencistas de talla internacional.
 
-[![Bancamiga](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Viaje-del-Emprendedor.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-Viaje-del-Emprendedor.jpg)
+[![Bancamiga](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-Viaje-del-Emprendedor.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-Viaje-del-Emprendedor.jpg)
 
 De la mano del **Programa de las Naciones Unidas para el Desarrollo (PNUD)**, Bancamiga implementó exitosamente el programa “Ruta de Emprendimiento”, brindando capacitación y asesorías para negocios que requieren optimizar sus operaciones para crecer.
 
@@ -60,7 +60,7 @@ En materia educativa, el **Presidente de la Junta Directiva de Bancamiga** desta
 
 En cooperación con **Aprendo y Emprendo**, el programa se implementó en centros educativos de zonas populares de Caracas, con la participación activa de más de 300 estudiantes, fomentando la creatividad y la participación ciudadana, dándole a las nuevas generaciones la oportunidad de participar y ser agentes de cambio en la construcción de un futuro más sostenible para el país.
 
-[![Bancamiga](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-RSE-Bancamiga-1.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-RSE-Bancamiga-1.jpg)
+[![Bancamiga](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-RSE-Bancamiga-1.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Imagen-referencial-RSE-Bancamiga-1.jpg)
 
 #### Compromiso social con la salud
 
@@ -68,11 +68,11 @@ En otro orden de ideas, Elarba mencionó que para continuar fortaleciendo los se
 
 Además, en el **Hospital de Coche Dr. Miguel Ángel Rangel**, se habilitaron dos camas de la Unidad de Cuidados Intensivos con la entrega de equipos médicos, ayudando a elevar la capacidad de atención del centro asistencial.
 
-[![Bancamiga](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Balance-Domingo-Luciani-protectores-rayosx.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Balance-Domingo-Luciani-protectores-rayosx.jpg)
+[![Bancamiga](http://elsumario.com/wp-content/uploads/2025/01/Balance-Domingo-Luciani-protectores-rayosx.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Balance-Domingo-Luciani-protectores-rayosx.jpg)
 
 Asimismo, el banco le dio su respaldo a **Senos Ayuda** y sus programas de atención contra el cáncer de mama entre mujeres vulnerables. Y esta organización sin fines de lucro concientizó a los colaboradores de la institución financiera sobre la importancia de la detección temprana de esta enfermedad que es la primera causa de muerte oncológica en mujeres.
 
-[![Bancamiga](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Balance-RSE-2024-Senos-Ayuda.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Balance-RSE-2024-Senos-Ayuda.jpg)
+[![Bancamiga](http://elsumario.com/wp-content/uploads/2025/01/Balance-RSE-2024-Senos-Ayuda.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Balance-RSE-2024-Senos-Ayuda.jpg)
 
 ##### Bancamiga: Cultura para el desarrollo social
 
@@ -82,7 +82,7 @@ Recientemente, se suscribió un **Acuerdo de Cooperación con el Sistema de Orqu
 
 Igualmente, el banco renovó su Acuerdo de cooperación con la **Orquesta Sinfónica Gran Mariscal de Ayacucho (OSGMA)** para mantener las becas a sus talentosos integrantes y para seguir impulsando sus programas sociales. Además, apoyó la presentación gratuita de la Gala Viva la Zarzuela en la Concha Acústica de Bello Monte, un regalo para la ciudad organizado por la Embajada de España y la OSGMA.
 
-[![Bancamiga](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Balance-RSE-2024-Sinfonica.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Balance-RSE-2024-Sinfonica.jpg)
+[![Bancamiga](http://elsumario.com/wp-content/uploads/2025/01/Balance-RSE-2024-Sinfonica.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Balance-RSE-2024-Sinfonica.jpg)
 
 Además, los colaboradores de Bancamiga y **CAF** -Banco de Desarrollo de América Latina- participaron en una jornada única para aprender a “orquestar” en el ámbito empresarial, a partir de la experiencia de la Orquesta Sinfónica de Venezuela.
 

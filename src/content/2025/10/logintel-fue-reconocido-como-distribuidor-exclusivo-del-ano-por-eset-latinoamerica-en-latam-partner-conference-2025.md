@@ -30,7 +30,7 @@ _“Este premio representa el fruto de un trabajo constante, colaborativo y prof
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Michele-Flammia-Gte.-General-Logintel-ESET-Vzla.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Michele-Flammia-Gte.-General-Logintel-ESET-Vzla.jpg)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ La _Latam Partner Conference_, considerada como **el evento anual más relevante
 
 Así, con este logro, Logintel consolida su posición como referente en la distribución de soluciones de **seguridad informática** en Venezuela y como socio clave en la expansión de ESET en América Latina.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Logintel-C.A.-es-reconocido-como-Distribuidor-Exclusivo-del-Ano-por-ESET-Latinoamerica-en-la-Latam-Partner-Conference-2025-1024x723.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Logintel-C.A.-es-reconocido-como-Distribuidor-Exclusivo-del-Ano-por-ESET-Latinoamerica-en-la-Latam-Partner-Conference-2025-1024x723.jpg)
 
 Para obtener más información, visite el sitio web de ESET Venezuela: [www.eset.com/ve/](http://www.eset.com/ve/), así como también https://www.eset.com/latam y las redes sociales: Instagram [@esetla](https://www.instagram.com/esetla/) y Facebook [ESET](https://www.facebook.com/ESETLA).
 

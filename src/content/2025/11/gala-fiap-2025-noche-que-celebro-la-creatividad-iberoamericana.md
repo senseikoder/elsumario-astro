@@ -34,7 +34,7 @@ coverImage: "Ganadores-CDMX-Mexico-Produ.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Gala-FIAP-2025-foto-1.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Gala-FIAP-2025-foto-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Gala-FIAP-2025-foto-1.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Gala-FIAP-2025-foto-1.jpg)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ En el **ámbito académico, Bendita Carpeta Colombia** fue reconocida como **Esc
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Salon-de-la-Fama-Mexico-Produ-Fiap-2025-1024x645.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Salon-de-la-Fama-Mexico-Produ-Fiap-2025.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Salon-de-la-Fama-Mexico-Produ-Fiap-2025-1024x645.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Salon-de-la-Fama-Mexico-Produ-Fiap-2025.jpg)
 
 <figcaption>
 
@@ -80,7 +80,7 @@ La gala también presentó la **edición especial del Grand Slam FIAP 2025, prem
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ganadores-Grand-Slam.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Ganadores-Grand-Slam.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Ganadores-Grand-Slam.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Ganadores-Grand-Slam.jpg)
 
 <figcaption>
 
@@ -96,7 +96,7 @@ El recorrido por los ganadores se completó con la **entrega del Premio País, q
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Ganadores-premio-Wow.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Ganadores-premio-Wow.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/11/Ganadores-premio-Wow.jpg)](https://elsumario.com/wp-content/uploads/2025/11/Ganadores-premio-Wow.jpg)
 
 <figcaption>
 

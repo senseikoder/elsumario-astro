@@ -39,9 +39,7 @@ Por eso, es muy importante emplear una contraseña única para cada cuenta. Si t
 
 Para saber si tu contraseña ha sido "filtrada", a través de _[Have I Been Pwned](https://haveibeenpwned.com/)_, podrás verificar si la dirección de correo electrónico fue filtrada alguna vez y dónde. Esta base de datos se actualiza constantemente, con direcciones y contraseñas que fueron filtradas recientemente.
 
-\<figure class="wp-caption alignnone" style="max-width:640px">
-<img src="https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B.jpg" alt="" />
-<figcaption>Mensaje que devuelve _Have I Been Pwned_ si el correo o contraseña fue filtrada</figcaption></figure>
+\[caption id="attachment\_331457" align="alignnone" width="640"\]![](https://doblellave.com/wp-content/uploads/2025/02/Imagen-referencial-B.jpg) Mensaje que devuelve _Have I Been Pwned_ si el correo o contraseña fue filtrada\[/caption\]
 
 4. **_Contraseña no actualizada por mucho tiempo_**: Dado que nuestras contraseñas protegen información tan importante como sensible, [actualizarlas periódicamente](https://www.welivesecurity.com/es/contrasenas/cada-cuanto-cambiar-contrasenas-por-que-importante/) representa un muy buen hábito para mantener segura la vida digital. Por otro lado, la contraseña anterior no debe ser reutilizada en el futuro ni tampoco en otra cuenta o servicio.
 5. **Contraseña compuesta por datos personales:** Para un cibercriminal, es muy fácil hoy encontrar información personal o gustos de los usuarios a través de todo lo que estos comparten en sus redes sociales. Desde lugares de interés, nombres de mascotas, nombres de los hijos, fechas importantes, equipos deportivos, libros, música, entre tantísimos otros. Usar esos datos para contraseñas o credenciales resulta de alto riesgo.

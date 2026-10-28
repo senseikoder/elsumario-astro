@@ -50,7 +50,7 @@ El proyecto surgió para dar respuestas a las **inquietudes y necesidades manife
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250402-WA0001-1024x641.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/04/IMG-20250402-WA0001-1024x641.jpg)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ Cada capítulo, dedicado a una de las 10 preguntas clave, ha sido desarrollado p
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/portada-libro.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/04/portada-libro.jpg)
 
 <figcaption>
 
@@ -82,7 +82,7 @@ El manual cuenta con la colaboración de un destacado grupo de profesionales con
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/20250401_180202-copy.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/04/20250401_180202-copy.jpg)
 
 <figcaption>
 
@@ -106,7 +106,7 @@ El diseño del libro estuvo a cargo de **Carolina Arnal** y **Waleska Belisario*
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/20250401_174912-copy.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/04/20250401_174912-copy.jpg)
 
 <figcaption>
 
@@ -120,7 +120,7 @@ Durante la presentación y bautizo de la obra, además de las palabras de José 
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/IMG-20250402-WA0003-1024x698.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/04/IMG-20250402-WA0003-1024x698.jpg)
 
 <figcaption>
 
@@ -140,7 +140,7 @@ https://www.youtube.com/watch?v=2\_FmfZ5X8ZY
 
 Con la publicación del _Manual para emprendedores_, **[Bancamiga](https://www.bancamiga.com/) reafirma su compromiso con el desarrollo del ecosistema emprendedor en Venezuela, ofreciendo espacios de capacitación alternativos, herramientas y recursos que contribuyen al crecimiento y la consolidación de los negocios**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Codigo.png)
+![](https://doblellave.com/wp-content/uploads/2025/04/Codigo.png)
 
 Descarga el _Manual para emprendedores. 10 preguntas claves para emprender en Venezuela_. También puedes hacerlo desde la web **https://www.bancamiga.com/**
 

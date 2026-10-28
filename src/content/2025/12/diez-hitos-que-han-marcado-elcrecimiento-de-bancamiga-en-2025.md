@@ -43,7 +43,7 @@ Un símbolo del crecimiento exponencial de Bancamiga se selló el 20 de marzo, a
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C-Para-acompanar-texto-1024x701.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-C-Para-acompanar-texto.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-C-Para-acompanar-texto-1024x701.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-C-Para-acompanar-texto.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ La estabilidad de la cartera de clientes se fortaleció mediante operativos espe
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-Para-acompanar-texto-1-1024x721.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-B-Para-acompanar-texto-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-B-Para-acompanar-texto-1-1024x721.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-B-Para-acompanar-texto-1.jpg)
 
 <figcaption>
 

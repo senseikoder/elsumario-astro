@@ -31,7 +31,7 @@ El Inter Miami en que juega Telasco Segovia obtuvo su primer triunfo en la nacie
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-819x1024.webp)
+![](https://purovinotinto.com/wp-content/uploads/2025/03/Imagen-referencial-819x1024.webp)
 
 <figcaption>
 

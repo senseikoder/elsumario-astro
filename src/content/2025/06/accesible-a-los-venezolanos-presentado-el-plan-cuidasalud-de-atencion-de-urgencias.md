@@ -41,7 +41,7 @@ _CuidaSalud_ surge como una respuesta concreta a la necesidad de dar cobertura m
 
 _CuidaSalud_ ofrece telemedicina 24/7, atención ilimitada en las salas de urgencia **Urgent Care de Venemergencia** y entrega de medicamentos vinculados al tratamiento indicado. **Actualmente está disponible en Caracas, Valencia, Lechería, Maracaibo, Barquisimeto y próximamente en Maracay**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial.jpg)
 
 La afiliación a la póliza se realiza de forma completamente digital y autogestionada a través de una plataforma tecnológica de _insurtech_, eliminando barreras de acceso y facilitando la inclusión de personas de todas las edades y regiones.
 

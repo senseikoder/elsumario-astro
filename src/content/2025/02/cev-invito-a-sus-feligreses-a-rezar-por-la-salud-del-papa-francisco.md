@@ -32,7 +32,7 @@ Al papa Francisco, ingresado desde el pasado 14 de febrero con una neumonía bil
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/papa-Francisco-I.jpg)](http://elsumario.com/wp-content/uploads/2025/02/papa-Francisco-I.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/papa-Francisco-I.jpg)](http://elsumario.com/wp-content/uploads/2025/02/papa-Francisco-I.jpg)
 
 <figcaption>
 

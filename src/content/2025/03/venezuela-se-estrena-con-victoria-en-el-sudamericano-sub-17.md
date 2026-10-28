@@ -26,7 +26,7 @@ Para el remate del primer tiempo, el seleccionado dirigido por **Oswaldo Vizcarr
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Vinotinto-Sub-17-2-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Vinotinto-Sub-17-2.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Vinotinto-Sub-17-2-1024x683.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Vinotinto-Sub-17-2.jpg)
 
 <figcaption>
 

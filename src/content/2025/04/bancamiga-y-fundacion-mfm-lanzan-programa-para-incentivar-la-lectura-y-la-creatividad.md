@@ -30,7 +30,7 @@ coverImage: "ES-y-PV-Imagen-referencial-Fundacion-por-la-lectura-Bancamiga.jpg"
 
 La **Dirección de Responsabilidad Social de Bancamiga** llevará su iniciativa a tres planteles de Caracas: Colegio Fe y Alegría Prisco Villasmil, de Antímano; el Colegio La Santísima Trinidad, en Los Magallanes de Catia y al Colegio Fe y Alegría Enrique De Ossó, en San Martín. Posteriormente, el programa se extenderá a otros centros educativos de la capital y regiones del país, adelantó Flores Melo.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/DLL-BFN-Imagen-referencial-Fundacion-por-la-lectura-Bancamiga.jpg)](http://elsumario.com/wp-content/uploads/2025/04/DLL-BFN-Imagen-referencial-Fundacion-por-la-lectura-Bancamiga.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/DLL-BFN-Imagen-referencial-Fundacion-por-la-lectura-Bancamiga.jpg)](http://elsumario.com/wp-content/uploads/2025/04/DLL-BFN-Imagen-referencial-Fundacion-por-la-lectura-Bancamiga.jpg)
 
 Bajo la **coordinación de Lorena González, docente, escritora y curadora de arte contemporáneo**, en cada taller se contará con un artista docente, respaldado por un equipo de producción, quienes guiarán a los jóvenes en el desarrollo de sus facultades creativas, invitándolos a explorar sus propias posibilidades artísticas.
 

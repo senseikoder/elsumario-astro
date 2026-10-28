@@ -21,7 +21,7 @@ coverImage: "Imagen-referencial-principal-2.jpg"
 
 **El Sumario** - La que constituye primera carrera de la **Fórmula 1** celebrada en **Europa** durante lo que va de 2025, ofreció show y y buen espectáculo deportivo a los espectadores y enorme cantidad de fanáticos que la siguieron por TV y otros medios especializados en el deporte de los motores: **Max Verstappen** superó en la curva 1 a **Oscar Piastri** y no tuvo rival en el **Gran Premio de Imola**. Detrás del neerlandés llegaron **Lando Norris** y el mencionado Piastri. Medios internacionales y analistas estiman que, **el campeonato se apretó o condensó y tomó más color**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-principal-1024x637.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-principal.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-principal-1024x637.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Imagen-referencial-principal.jpg)
 
 Los pilotos que apostaron a una única parada (que luego se transformarían en dos por el abandono de Kimi Antonelli) sacaron ventaja. Además de los ya mencionados, los dos monoplazas de Ferrari y también **Alexander Albon**, quien cruzó la meta en el quinto puesto. **Lewis Hamilton** llegó cuarto y **Charles Leclerc**, sexto.
 

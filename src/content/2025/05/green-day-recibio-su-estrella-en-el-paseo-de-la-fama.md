@@ -26,7 +26,7 @@ Armstrong (también guitarrista), **Tré Cool** (baterista) y **Mike Dirnt** (ba
 
 "Quiero dar las gracias, en primer lugar, a todos los fans, especialmente a ustedes, malditos locos, que vinieron a vernos aquí de cerca en la calle. Misión cumplida. Y sobre todo, gracias Billy y Mike, mis hermanos, mi banda y mi otra familia", apuntó Cool.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Green-Day-2.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Green-Day-2.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Green-Day-2.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Green-Day-2.jpg)
 
 Reynolds ofreció unas palabras para la agrupación, cuya amistad comenzó poco tiempo atrás cuando el actor quiso usar el tema **"Good Riddance"** en la película **"Deadpool & Wolverine"**.
 
@@ -42,7 +42,7 @@ A Joe, Drint y Cool, también los acompañó el productor musical **Rob Carvallo
 
 "En 1993 me dieron un demo de la banda e imagínense, yo era un joven encargado de descubrir talentos en Warner Brothers Records, y sólo pensé: 'ésta es la mejor banda que he escuchado en mi vida'", rememoró.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Green-Day-3.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Green-Day-3.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Green-Day-3.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Green-Day-3.jpg)
 
 Carvallo explicó que creyó tanto en ellos que se arriesgó a firmar a una agrupación de punk en pleno auge de la música grunge, produciendo el primer álbum de Green Day en una gran discográfica: "Dookie".
 

@@ -26,7 +26,7 @@ La exposición inaugural, titulada **“Devociones”**,reúne a un selecto grup
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-1-801x1024.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/06/Imagen-referencial-B-1-801x1024.jpg)
 
 <figcaption>
 
@@ -42,7 +42,7 @@ Se compone de una galería principal y una tienda-galería, en las que se exhibe
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-C-1.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/06/Imagen-referencial-C-1.jpg)
 
 <figcaption>
 
@@ -58,13 +58,13 @@ Este centro cultural aspira a convertirse en un punto de referencia para aquello
 
 ### **El Diseño Toma Caracas - III edición: NEXUS Cultural hace parte del Caracas Design Week con tres interesantes conversatorios**
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/06/Imagen-referencial.jpg)
 
 Este martes 10 de junio, en el marco del **_[Caracas Design Week](https://caracasdesignweek.com/)_**, se llevará a cabo de 06:00 a 06:30 pm el conversatorio "El Arte Óptico en la Iconografía Religiosa: Una nueva perspectiva de lo Divino”. Luego el jueves 12 de 06:00 a 07:00 pm se comentará y desarrollará el análisis titulado “El Color como Oración: Arte, Espíritu y Conexión”. Y el viernes 13, de 06:00 a 06:30 pm, “El Arte Poligonal: Conexión con la Luz” será abordado ante y con participación de los asistentes.
 
 NEXUS Cultural extiende una cordial invitación a todos los amantes del arte y la cultura a explorar la belleza espiritual y a nutrir sus almas en este nuevo espacio de encuentro.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-1.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-1.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-1.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-1.jpg)
 
 _**De interés:**_ **_[Caracas contará con una nueva experiencia en arte sacro, coworking y café](https://elsumario.com/caracas-contara-con-una-nueva-experiencia-en-arte-sacro-coworking-y-cafe/)_**
 

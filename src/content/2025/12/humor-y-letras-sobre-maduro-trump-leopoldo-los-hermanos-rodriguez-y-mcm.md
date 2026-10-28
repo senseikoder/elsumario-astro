@@ -54,7 +54,7 @@ d. Miami Sangriento, Tom Wolfe\_\_\_
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-El-Pais-Cortesia.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-El-Pais-Cortesia.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-El-Pais-Cortesia.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Imagen-referencial-El-Pais-Cortesia.jpg)
 
 <figcaption>
 

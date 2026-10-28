@@ -50,7 +50,7 @@ Una de las novedades a las que deben hacer cara los equipos es la reducción de 
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Apertura-del-evento.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Apertura-del-evento.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Apertura-del-evento.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Imagen-referencial-Apertura-del-evento.jpg)
 
 <figcaption>
 
@@ -78,13 +78,13 @@ Con un formato atractivo y agresivo, la liga se prepara para ofrecer **cuatro me
 
 «Este año regresamos con más sorpresas y un formato que busca no solo entretener, sino también elevar el nivel del baloncesto en Venezuela. Los equipos están comprometidos a brindar un espectáculo de calidad a sus fanáticos, quienes son la razón de ser de todos nosotros», expresó Palmisano citado por diferentes medios nacionales, entre ellos _El Siglo_”.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Lanzamiento-de-TV-SPB-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Lanzamiento-de-TV-SPB.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Lanzamiento-de-TV-SPB-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Lanzamiento-de-TV-SPB.jpg)
 
 ### _Uno de los aspectos más novedosos será la variedad de plataformas de transmisión que permitirán a los aficionados seguir cada partido de múltiples maneras_
 
 La creación de un canal propio, **SPB TV**, permitirá a los seguidores disfrutar de todos los partidos desde la comodidad de sus hogares.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Durante-el-evento-SPB-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Durante-el-evento-SPB.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Durante-el-evento-SPB-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Durante-el-evento-SPB.jpg)
 
 «El año pasado enfrentamos numerosos desafíos para cubrir todas las incidencias de los encuentros. Por ello, decidimos crear nuestro canal y productora. SPB TV producirá todos los juegos de la edición 2025 y pondrá el material a disposición de seis importantes televisoras nacionales», explicó.
 
@@ -110,7 +110,7 @@ Y concluyó mencionando conversaciones recientes con el secretario general de **
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Dia-de-fiesta-y-excelentes-anuncios-para-el-baloncesto-profesional-venezolano-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Dia-de-fiesta-y-excelentes-anuncios-para-el-baloncesto-profesional-venezolano.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Dia-de-fiesta-y-excelentes-anuncios-para-el-baloncesto-profesional-venezolano-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Dia-de-fiesta-y-excelentes-anuncios-para-el-baloncesto-profesional-venezolano.jpg)
 
 <figcaption>
 
@@ -124,7 +124,7 @@ Fue una tarde de fiesta y excelentes anuncios para el baloncesto profesional ven
 
 La SPB cuenta con el apoyo y acompañamiento de Jagi. De hecho creó y aportó un diseño de gorras para la ocasión.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Jagi-Caps-presente-y-apoyando-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Jagi-Caps-presente-y-apoyando.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Jagi-Caps-presente-y-apoyando-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Jagi-Caps-presente-y-apoyando.jpg)
 
 **Jagi Caps**, es una marca internacional que ya supera los 20 años de fundada, y que se distingue por la alta calidad de sus productos, con diseños innovadores y a la vanguardia, así como por la amabilidad con el ambiente de los materiales que utiliza.
 

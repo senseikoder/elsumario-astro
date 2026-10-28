@@ -35,7 +35,7 @@ Para el **Director Ejecutivo de Marketing, Productos y Servicios**, **Alberto Ca
 
 Durante la **entrega de materiales** de los días **viernes, entre las 11:00 a.m. y 6:00 p.m.,** y el **sábado de 10:00 a.m. a 3:00 p.m.**, los corredores, familiares y visitantes del **C.C. Líder** en **La California** tendrán la oportunidad de abrir sus cuentas en bolívares y en divisas, comprar los modernos puntos de venta y recibir la Tarjeta de Débito **Mastercard Bancamiga**. El mismo domingo también los interesados pueden acercarse al **Bancamiga Móvil**, que estará estacionado en las inmediaciones de la **plaza Alfredo Sadel, en Las Mercedes**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Esta-tambien-acompanara-el-cuerpo-de-texto-Imagen-referencial-Punto-de-atencion-a-clientes-e-interesados-en-serlo-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Esta-tambien-acompanara-el-cuerpo-de-texto-Imagen-referencial-Punto-de-atencion-a-clientes-e-interesados-en-serlo.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Esta-tambien-acompanara-el-cuerpo-de-texto-Imagen-referencial-Punto-de-atencion-a-clientes-e-interesados-en-serlo-1024x768.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Esta-tambien-acompanara-el-cuerpo-de-texto-Imagen-referencial-Punto-de-atencion-a-clientes-e-interesados-en-serlo.jpg)
 
 Para [Bancamiga](https://www.instagram.com/bancamiga/?hl=es) es fundamental promover **actividades con propósito**, que inspiren, razón por la que en la entrega de materiales tendrá un stand para **recolectar zapatos de correr usados y en buen estado**. Ya en la primera parada del Desafío Runners, los 15K de **Hipereventos**, esta iniciativa hizo posible que 12 corredores de Caracas y del interior recibieran un par de zapatos para sus entrenamientos y competencias.
 
@@ -45,7 +45,7 @@ Para celebrar junto a todos los que este 5 de octubre crucen la meta, Bancamiga 
 
 Entre los participantes de esta edición estarán los integrantes del club de corredores de Bancamiga, que bajo la guía de **Hilenia Andrades**, vienen preparándose con disciplina y entusiasmo. También estarán en la línea de salida 20 colaboradores que ganaron su inscripción en un sorteo interno y otros tres corredores que obtuvieron la posibilidad en un concurso por redes sociales.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Destacada-DLL-y-BFN-Imagen-referencial-Presencia-institucional-y-de-marcas-y-servicios-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Destacada-DLL-y-BFN-Imagen-referencial-Presencia-institucional-y-de-marcas-y-servicios.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Destacada-DLL-y-BFN-Imagen-referencial-Presencia-institucional-y-de-marcas-y-servicios-1024x576.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Destacada-DLL-y-BFN-Imagen-referencial-Presencia-institucional-y-de-marcas-y-servicios.jpg)
 
 **Durante el recorrido, Bancamiga ha dispuesto un punto de animación y junto a la agrupación Sinzelle Band llenará de energía a muchos de los 12.000 fondistas** que estarán dejando todo sobre el asfalto.
 

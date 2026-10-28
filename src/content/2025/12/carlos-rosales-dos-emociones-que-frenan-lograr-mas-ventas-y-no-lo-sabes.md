@@ -46,7 +46,7 @@ coverImage: "amy-hirschi-uwpo02K55zw-unsplash.jpg"
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/CR-Con-saco-Hacia-la-der-1024x968.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/CR-Con-saco-Hacia-la-der-1024x968.jpg)
 
 <figcaption>
 

@@ -30,7 +30,7 @@ Si bien todos los reflectores siempre están en los goleadores, el portero suizo
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Inter-de-Milan-I-1024x678.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Inter-de-Milan-I.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Inter-de-Milan-I-1024x678.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Inter-de-Milan-I.jpg)
 
 <figcaption>
 

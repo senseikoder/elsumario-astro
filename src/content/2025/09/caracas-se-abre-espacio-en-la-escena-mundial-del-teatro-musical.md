@@ -38,7 +38,7 @@ Hasta este fin de semana, dos de las siete funciones programadas ya estaban agot
 
 <figure>
 
-[![Obra de teatro Mamma Mia](https://tu-r2-bucket.r2.cloudflarestorage.com/images/1d1bb5870994ae3b80033187fb1b08ac4f397820m.jpg)](https://elsumario.com/wp-content/uploads/2025/09/1d1bb5870994ae3b80033187fb1b08ac4f397820m.jpg)
+[![Obra de teatro Mamma Mia](https://elsumario.com/wp-content/uploads/2025/09/1d1bb5870994ae3b80033187fb1b08ac4f397820m.jpg)](https://elsumario.com/wp-content/uploads/2025/09/1d1bb5870994ae3b80033187fb1b08ac4f397820m.jpg)
 
 <figcaption>
 

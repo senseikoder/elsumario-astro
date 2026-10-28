@@ -31,7 +31,7 @@ Detrás del escenario de la monumental sala Ríos Reyna, sobre el que gira una g
 
 <figure>
 
-[![La imagen tiene un atributo ALT vacío; su nombre de archivo es Imagen-elenco-MM.jpg](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-elenco-MM.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-elenco-MM.jpg)
+[![La imagen tiene un atributo ALT vacío; su nombre de archivo es Imagen-elenco-MM.jpg](https://elsumario.com/wp-content/uploads/2025/08/Imagen-elenco-MM.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-elenco-MM.jpg)
 
 <figcaption>
 

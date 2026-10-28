@@ -43,7 +43,7 @@ Con esta iniciativa, FIAP invita a la comunidad creativa, marcas, agencias y aud
 
 Coordenadas en **Instagram: [https://www.instagram.com/fiapawards/?hl=es](https://www.instagram.com/fiapawards/?hl=es)**
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-1024x556.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/Imagen-referencial-A-1024x556.jpg)
 
 ### _**Estas son las campañas**_
 
@@ -51,7 +51,7 @@ Coordenadas en **Instagram: [https://www.instagram.com/fiapawards/?hl=es](https:
 
 En Costa Rica, es ilegal llevarse conchas marinas de la playa, porque su extracción masiva está causando una crisis ecológica de la que casi nadie habla. Las conchas marinas son indispensables para la supervivencia de miles de especies marinas, además que su composición química protege las playas de la erosión y la desaparición. Es decir, **sin conchas marinas las playas de Costa Rica y el mundo mueren**. A pesar de esta problemática, en el país cada año se decomisan a los turistas más de 5 toneladas de conchas marinas. El problema es que al desconocer la playa de origen, no se pueden regresar, pues al devolverlas a un habitat desconocido se pueden causar todavía más daños al ecosistema. Como resultado, toneladas de conchas terminan enterradas indefinidamente. Imperial, la cerveza de Costa Rica, una marca líder en la protección de aguas y playas en ese país (con programas de limpieza de playas anuales, además de ser la primera cerveza agua positiva del mundo y devolver al ambiente más agua de la que consume), desarrolló "De vuelta a casa", el **primer modelo de IA del mundo capaz de clasificar conchas marinas según su ecosistema de origen**. Gracias a este modelo se ha podido clasificar de forma certera y segura más de 36.000 conchas marinas y regresarlas a su playa de origen, sin causar ningún daño al ecosistema. "De vuelta a casa" es un modelo de código abierto que se presentó en el Foro de los Océanos de la ONU, como una innovación tecnológica capaz de regresar conchas marinas a playas de todo el mundo. Todo el desarrollo de la aplicación, así como el proceso de devolución fue descrito y presentado en un documental para crear conciencia en la población y generar una conversación sobre el tema. Es así como _"De vuelta a casa"_ además de ser una acción revolucionaria e innnovadora en la conservación marina, se convirtió también en una campaña de concientización que se viralizó a nivel mundial y generó una cobertura mediática en más de 75 países y en los 5 continentes del mundo. Esta acción ambiental pionera transformó una consecuencia invisible del turismo en una conversación nacional e internacional, ofreciendo una solución escalable para la restauración, y devolviendo vida a lo que se había perdido.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bigwp-DeVueltaacasaJoistickFIFCOCR.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/bigwp-DeVueltaacasaJoistickFIFCOCR.jpg)
 
 ###### Disciplina: Innovación
 
@@ -67,7 +67,7 @@ En Costa Rica, es ilegal llevarse conchas marinas de la playa, porque su extracc
 
 Esta campaña ayudó a pequeños negocios de una manera que nunca pensaron posible. Además, generó un impacto masivo, atrayendo el interés de publicaciones destacadas de todo el mundo como _AdAge_ y _Fast Company_, con un **alcance único de 3.78 mil millones**. La celebración de **Coca-Cola** de las interpretaciones no oficiales de su logotipo resultó en un aumento del 95% en el sentimiento positivo de la marca, un notable incremento del 34% sobre el promedio social de Coca-Cola, lo que subraya la profunda admiración que las comunidades locales y la audiencia en general tuvieron por la campaña, todo ello mientras mejoraba la reputación de Coca-Cola y reforzaba su **compromiso con la autenticidad y la inclusión**. Las entrevistas realizadas con los participantes revelaron que **el proyecto inspiró a los dueños de las tiendas a continuar con sus expresiones creativas y fomentó un sentido de orgullo y pertenencia dentro de sus comunidades**.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/bigwp-ThanksForCokeCreationVMLMX.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/bigwp-ThanksForCokeCreationVMLMX.jpg)
 
 ###### Disciplina: Anuncios
 
@@ -83,7 +83,7 @@ Esta campaña ayudó a pequeños negocios de una manera que nunca pensaron posib
 
 EL PROBLEMA: Panamá tiene el mayor número de rascacielos residenciales de América Latina y también una de las mayores concentraciones de vallas digitales. Esto genera una intensa contaminación visual que afecta a miles de familias cada noche. LA OPORTUNIDAD: _Nescafé Clásico Descafeinado_ permite disfrutar todo el sabor del café, sin los efectos de la cafeína. Para generar un impacto positivo en nuestra audiencia y demostrar que nuestro producto no te quita el sueño, creamos un anuncio que tampoco lo hace. LA IDEA: **Convertimos nuestro producto en un regulador de luz**. Durante la última hora de cada ciclo publicitario, **tomamos control de las vallas digitales y bajamos su brillo a lo largo de una hora**, **dándole a las personas una hora extra de descanso** de calidad. 1 HORA menos de luz por noche +75 MIL residentes beneficiados +720 MIL personas alcanzadas, 100% de comentarios positivos.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/nestle-nescafe-decaf-billboards-1-1.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/10/nestle-nescafe-decaf-billboards-1-1.jpg)
 
 ###### Disciplina: Formatos
 

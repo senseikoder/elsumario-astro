@@ -31,7 +31,7 @@ La **Hyundai PALISADE 2026** demuestra su compromiso con las necesidades del cl
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Vocera-y-representante-Hyundai.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/05/Imagen-referencial-Vocera-y-representante-Hyundai.jpg)
 
 <figcaption>
 
@@ -47,11 +47,11 @@ Olabisi Boyle, vicepresidenta sénior de planificación de productos y estrategi
 
 La consola central está diseñada para optimizar el espacio de los asientos, envuelta en materiales premium inspirados en muebles de lujo. La consola central y el reposabrazos no solo se diseñaron para brindar comodidad, sino también para mejorar la estabilidad ergonómica al acceder a los controles del vehículo. La **PALISADE** ofrece una consola central de doble puerta con una bandeja abierta en la parte inferior de la consola, junto con interruptores físicos convenientemente ubicados. Una plataforma de carga inalámbrica con ventilador integrado para enfriar dispositivos se encuentra idealmente ubicada en la consola central. La plataforma proporciona generosos 15 vatios para una carga rápida de dispositivos, lo que la convierte en el complemento perfecto para la integración inalámbrica estándar de Apple CarPlay® y Android Auto™ de **PALISADE**. Un sistema de audio envolvente Bose® de 14 bocinas disponible unifica toda la experiencia premium de la cabina, envolviendo las tres filas con un sonido rico y realista. Además, un panel de instrumentos digital panorámico y curvo y un sistema de navegación con dos pantallas de 12.3 pulgadas proporciona información clave a la vista del conductor.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Palisade-Imagen-referencial-C-1024x576.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/05/Palisade-Imagen-referencial-C-1024x576.jpg)
 
 La **PALISADE** 2026 ahora ofrece innovadores asientos _Relaxation_ para los pasajeros de la primera y segunda fila, que ofrecen generosos grados adicionales de reclinación y soportes desplegables para la parte superior de las piernas para reducir la fatiga durante largos periodos sentados. El equipamiento de serie incluye asientos para ocho pasajeros, ideales para las aventuras familiares. Los asientos tipo capitán disponibles incluyen la función de inclinación y deslizamiento con un solo toque en la segunda fila para un manejo sencillo, facilitando el acceso a la tercera fila. Para mayor comodidad, los asientos de la tercera fila están disponibles con mecanismos eléctricos de plegado, deslizamiento y reclinación. Las funciones de articulación de los asientos de la segunda y tercera fila también se pueden controlar desde el asiento del conductor o el área de carga para mayor comodidad al recoger pasajeros y su carga. Los portavasos y los puertos USB-C de 100 vatios son fácilmente accesibles en cada fila, lo que garantiza que todos los ocupantes y dispositivos tengan carga durante todo el viaje.
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Palisade-Imagen-referencial-D-1024x576.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/05/Palisade-Imagen-referencial-D-1024x576.jpg)
 
 ### **Tecnología avanzada para su seguridad y bienestar, así como por el de su familia, en todo momento**
 
@@ -63,7 +63,7 @@ Una Alerta Avanzada de Ocupantes Traseros, discretamente instalada bajo el tapiz
 
 La **PALISADE** 2026 es compatible con la última versión de **Hyundai Digital Key 2.0 Premium**, que permite a los propietarios dejar su llavero en casa y usar un smartphone o reloj inteligente compatible para bloquear, desbloquear y arrancar el vehículo. Las llaves digitales también se pueden compartir con familiares y amigos para acceder al vehículo de inmediato. **PALISADE** también ofrece conexión Wi-Fi con el asistente de voz integrado de Alexa. Los vehículos con conectividad celular podrán proporcionar una conexión Wi-Fi que permite a otros navegar por internet, reproducir vídeos o música en streaming y mucho más, como en casa.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Palisade-Imagen-referencial-B-1024x470.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Palisade-Imagen-referencial-B.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/05/Palisade-Imagen-referencial-B-1024x470.jpg)](http://elsumario.com/wp-content/uploads/2025/05/Palisade-Imagen-referencial-B.jpg)
 
 ### **Nuevos, potentes y eficientes sistemas de propulsión de combustión interna e híbridos**
 

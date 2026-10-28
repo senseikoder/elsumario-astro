@@ -33,7 +33,7 @@ Ese esfuerzo se vio materializado en los últimos meses en productos como **Cone
 
 En el marco de su estrategia planificada de crecimiento, Bancamiga continuó impulsando la colocación de **Puntos de Venta**, cerrando el año con **un total de 33.847 POS, los más modernos y versátiles del mercado**.
 
-[![Bancamiga](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Bancamiga-sede-Destacada-DLL-y-PV.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Bancamiga-sede-Destacada-DLL-y-PV.jpg)
+[![Bancamiga](http://elsumario.com/wp-content/uploads/2025/01/Bancamiga-sede-Destacada-DLL-y-PV.jpg "Bancamiga")](http://elsumario.com/wp-content/uploads/2025/01/Bancamiga-sede-Destacada-DLL-y-PV.jpg)
 
 Y es que los Puntos de Venta Bancamiga, desarrollados en alianza con **Soluciones Integrales Tecnológicas SIT, C.A.**, ofrecen la posibilidad de pagar y recargar servicios telefónicos y de TV, sellar el 5 y 6 y jugar la lotería. Los comercios reciben una comisión y las liquidaciones son diarias sin importar si se trata de domingos o feriados. Todos son de **tecnología Contactless**.
 

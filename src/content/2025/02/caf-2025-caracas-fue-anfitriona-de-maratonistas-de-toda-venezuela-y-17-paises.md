@@ -39,7 +39,7 @@ Integrantes de **El Sistema** (Sistema Nacional de Orquestas y Coros Juveniles e
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-A-1024x689.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-A.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-A-1024x689.jpg)](http://elsumario.com/wp-content/uploads/2025/02/Imagen-referencial-A.jpg)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ Mientras que en femenino, los **42 kilómetros** de movilidad reducida fueron li
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Fuente-de-esta-imagen-referencial-.jpeg)
+![](https://purovinotinto.com/wp-content/uploads/2025/02/Fuente-de-esta-imagen-referencial-.jpeg)
 
 <figcaption>
 

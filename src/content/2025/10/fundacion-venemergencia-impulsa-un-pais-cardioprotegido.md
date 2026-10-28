@@ -30,7 +30,7 @@ coverImage: "Imagen-referencial-VE.jpg"
 
 El programa combina dos pilares fundamentales: la instalación de Desfibriladores Externos Automáticos (DEA) en sitios estratégicos y la capacitación de ciudadanos para que actúen como primeros respondedores. El Dr. **Luis Enrique Velásquez Díaz**, socio fundador y director operativo de Venemergencia, lo resume con claridad: “La educación es fundamental en la atención de emergencias”.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-para-acompanar-el-texto-FVE.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-el-texto-FVE.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-el-texto-FVE.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Imagen-referencial-para-acompanar-el-texto-FVE.jpg)
 
 Desde la instalación del primer DEA en la plaza Los Palos Grandes, en Caracas, el Programa DAP ha mostrado resultados alentadores:
 

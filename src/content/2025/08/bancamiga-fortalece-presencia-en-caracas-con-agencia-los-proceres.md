@@ -41,7 +41,7 @@ El Presidente de la Junta Directiva de Bancamiga Banco Universal, **José Simón
 
 El corte de cinta estuvo a cargo del Presidente Ejecutivo **Ariel Martínez** y de la gerente de la agencia Los Próceres, **Luisa López**.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Agencia-Los-Proceres-Destacada-B-DLL-y-BFN-1024x566.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Agencia-Los-Proceres-Destacada-B-DLL-y-BFN.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Agencia-Los-Proceres-Destacada-B-DLL-y-BFN-1024x566.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Agencia-Los-Proceres-Destacada-B-DLL-y-BFN.jpg)
 
 ## **Los Próceres se une al reciente cambio de la Taquilla Lido, que se convirtió este mes en la agencia 50 de Bancamiga**
 

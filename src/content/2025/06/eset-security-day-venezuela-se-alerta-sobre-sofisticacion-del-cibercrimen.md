@@ -41,7 +41,7 @@ El gerente general de **[ESET Venezuela](https://www.eset.com/ve/)****, Michele 
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-2-B.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-2-B.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ Durante su ponencia, González informó robustamente sobre la evolución de la s
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-3-C.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-3-C.jpg)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ Por su parte, el gerente de **soporte y capacitación de ESET Venezuela, Carlos 
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-3.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/Imagen-referencial-3.jpg)
 
 <figcaption>
 
@@ -109,7 +109,7 @@ En el evento también intervino el gerente del **área comercial de ESET Venezue
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-JL-eset.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-JL-eset.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-JL-eset.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-JL-eset.jpg)
 
 <figcaption>
 
@@ -127,7 +127,7 @@ Igualmente, José Luis Rangel mencionó que **es recomendable que los colaborado
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-D.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-D.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-D.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-referencial-D.jpg)
 
 <figcaption>
 

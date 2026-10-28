@@ -25,7 +25,7 @@ coverImage: "Imagen-referencial-principal-Venemergencia-Maracaibo.jpg"
 
 La instalación del DEA fue precedida por una **Misa de Acción de Gracias** para toda la feligresía, oficiada por el Párroco - Rector de la Basílica, **presbítero Nedward Andrade**. Luego, el acto de instalación del Desfibrilador Externo Automático se llevó a cabo y contó con la presencia de **Carmen Alicia Guillén**, Presidente Ejecutivo de Seguros Venezuela junto a otros miembros del equipo de la aseguradora. Por Venemergencia estuvo el **Dr. Luis Enrique Velásquez**, socio fundador y Director Operativo, acompañado por integrantes del equipo directivo y regional de la empresa de servicios de salud.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Acto-DEA-Basilica-de-Nuestra-Senora-de-Chiquinquira-Imagen-referencial-B-922x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Acto-DEA-Basilica-de-Nuestra-Senora-de-Chiquinquira-Imagen-referencial-B.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Acto-DEA-Basilica-de-Nuestra-Senora-de-Chiquinquira-Imagen-referencial-B-922x1024.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Acto-DEA-Basilica-de-Nuestra-Senora-de-Chiquinquira-Imagen-referencial-B.jpg)
 
 “Quiero agradecer la generosidad de Seguros Venezuela y la Fundación Venemergencia. Gracias a su visión y compromiso, este regalo de vida se ha hecho realidad hoy”, fueron palabras del Párroco - Rector de la Basílica, quien además dijo en su homilía que **“Su colaboración es un claro ejemplo de cómo la empresa privada y las organizaciones sin fines de lucro pueden unirse en el servicio a la comunidad”**.
 

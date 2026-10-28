@@ -44,7 +44,7 @@ Redes y contacto: **[masqueseguridad](https://www.instagram.com/masqueseguridad/
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Fitelven-general-2025-1024x569.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/09/Fitelven-general-2025-1024x569.jpg)
 
 <figcaption>
 

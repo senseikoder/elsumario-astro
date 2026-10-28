@@ -35,7 +35,7 @@ En esta temporada con el aval de su experiencia, marca y calidad, cerrando un a�
 
 Esta línea de acción los llevó ahora a presentar el [kit JAGI CLEANER, para limpiar y mantener tus gorras como se merecen. Puedes hacerlo en seco sin mojarlas, o a mano con un cepillo suave y agua tibia con detergente neutro, frotando las manchas y secando a la sombra, prestando especial atención a no mojar demasiado la visera si tiene cartón](https://www.instagram.com/reel/DSbMvCoDEg9/).
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/ES-JAGI-cleaner-limpia-tu-gorra-1024x614.jpg)](https://elsumario.com/wp-content/uploads/2025/12/ES-JAGI-cleaner-limpia-tu-gorra.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/ES-JAGI-cleaner-limpia-tu-gorra-1024x614.jpg)](https://elsumario.com/wp-content/uploads/2025/12/ES-JAGI-cleaner-limpia-tu-gorra.jpg)
 
 ## **Método de **limpieza en seco**** **con el kit JAGI CLEANER**
 

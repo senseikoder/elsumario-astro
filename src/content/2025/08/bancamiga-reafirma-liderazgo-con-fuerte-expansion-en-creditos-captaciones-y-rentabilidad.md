@@ -38,7 +38,7 @@ Las captaciones del público también experimentan un alza importante al cierre 
 
 En términos interanuales, las captaciones del público registran un crecimiento de 282,72%, situándose como la sexta institución de la banca privada en variación relativa.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-B-BA-1024x704.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-B-BA.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-B-BA-1024x704.jpg)](https://elsumario.com/wp-content/uploads/2025/08/Imagen-referencial-B-BA.jpg)
 
 Dentro de este indicador resaltan una vez más las captaciones en moneda extranjera, al ubicarse Bancamiga en el Top 3 dentro de la banca privada, con una absorción del 12,80% y 7,48% del SBV.  **En julio, Bancamiga se posicionó como el banco con la mayor proporción de captaciones en moneda extranjera, con un 56,85%**. En términos anuales, absorbió 0,57 p.p de la banca privada y 0.51 p.p del SBV.
 

@@ -30,7 +30,7 @@ Para la autoridad eclesiástica, impresiona el cariño que tienen miles de ciuda
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Nuncio-del-Vaticano-en-Caracas-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Nuncio-del-Vaticano-en-Caracas.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/04/Nuncio-del-Vaticano-en-Caracas-1024x576.jpg)](http://elsumario.com/wp-content/uploads/2025/04/Nuncio-del-Vaticano-en-Caracas.jpg)
 
 <figcaption>
 

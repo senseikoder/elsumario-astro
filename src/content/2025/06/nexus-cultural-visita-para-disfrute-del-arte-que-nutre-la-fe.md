@@ -37,7 +37,7 @@ coverImage: "Imagen-principal-Destacada-ES.jpg"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-principal-Destacada-DLL.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-principal-Destacada-DLL.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-principal-Destacada-DLL.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-principal-Destacada-DLL.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ La exposición inaugural, titulada “Devociones”, reúne artistas, tanto cons
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-principal-Destacada-BFN.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-principal-Destacada-BFN.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Imagen-principal-Destacada-BFN.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Imagen-principal-Destacada-BFN.jpg)
 
 <figcaption>
 

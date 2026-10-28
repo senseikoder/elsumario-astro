@@ -30,7 +30,7 @@ Aunque Blades reconoce y expresa que cada país puede reservarse el derecho de a
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-Red-social-X-@DiarioTalCual.jpg)
+![](https://purovinotinto.com/wp-content/uploads/2025/03/Imagen-referencial-Red-social-X-@DiarioTalCual.jpg)
 
 <figcaption>
 

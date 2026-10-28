@@ -44,7 +44,7 @@ En estos seis primeros meses del año, **Bancamiga alcanzó el millón de client
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Imagen-referencial-que-acompana-el-texto-Bancamiga-1-1024x650.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-el-texto-Bancamiga-1.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-el-texto-Bancamiga-1-1024x650.jpg)](https://elsumario.com/wp-content/uploads/2025/07/Imagen-referencial-que-acompana-el-texto-Bancamiga-1.jpg)
 
 <figcaption>
 

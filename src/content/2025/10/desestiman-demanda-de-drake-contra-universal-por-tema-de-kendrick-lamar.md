@@ -24,7 +24,7 @@ Lamar protagonizó el show de medio tiempo del **Super Bowl**, el mayor aconteci
 
 La jueza dijo que "el hecho de que la grabación se hiciera en medio de una batalla de rap es esencial para valorar su impacto en un oyente razonable", y señaló que en ese contexto las declaraciones de Lamar en la letra de la canción toman un carácter de opinión.
 
-[![Kendrick Lamar](https://tu-r2-bucket.r2.cloudflarestorage.com/images/064c6f4679977d32d8eebd49b7a094bb07349b9fminiw-1.jpg)](https://elsumario.com/wp-content/uploads/2025/06/064c6f4679977d32d8eebd49b7a094bb07349b9fminiw-1.jpg)
+[![Kendrick Lamar](https://elsumario.com/wp-content/uploads/2025/06/064c6f4679977d32d8eebd49b7a094bb07349b9fminiw-1.jpg)](https://elsumario.com/wp-content/uploads/2025/06/064c6f4679977d32d8eebd49b7a094bb07349b9fminiw-1.jpg)
 
 "Hasta las aparentes exposiciones de hechos asumen un carácter de exposición de opinión (…) cuando se hacen en el debate público, una disputa acalorada de trabajo u otras circunstancias en las que una audiencia puede anticipar el uso de epítetos, retórica feroz o hipérboles", dijo.
 

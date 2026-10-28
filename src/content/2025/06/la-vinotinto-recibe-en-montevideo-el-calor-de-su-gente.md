@@ -32,7 +32,7 @@ Uno fue el delantero **José Salomón Rondón**, goleador de la Vinotinto en las
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Salomon-Rondon.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Salomon-Rondon.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Salomon-Rondon.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Salomon-Rondon.jpg)
 
 <figcaption>
 

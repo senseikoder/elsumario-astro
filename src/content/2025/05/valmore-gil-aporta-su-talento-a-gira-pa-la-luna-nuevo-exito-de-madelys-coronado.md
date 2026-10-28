@@ -25,7 +25,7 @@ Sobre su experiencia en esta colaboración, Valmore compartió su entusiasmo: _"
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Valmore-001-Produccion-Madelys-Coronado-682x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Valmore-001-Produccion-Madelys-Coronado.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/06/Valmore-001-Produccion-Madelys-Coronado-682x1024.jpg)](http://elsumario.com/wp-content/uploads/2025/06/Valmore-001-Produccion-Madelys-Coronado.jpg)
 
 <figcaption>
 

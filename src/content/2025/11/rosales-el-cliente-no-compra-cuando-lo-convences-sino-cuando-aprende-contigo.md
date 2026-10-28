@@ -71,7 +71,7 @@ Pregúntate ... – ¿Qué está dando por sentado que ya no es cierto? – ¿Qu
 
 <figure>
 
-![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/CR-Con-saco-Hacia-la-der-1024x968.jpg)
+![](https://doblellave.com/wp-content/uploads/2025/06/CR-Con-saco-Hacia-la-der-1024x968.jpg)
 
 <figcaption>
 

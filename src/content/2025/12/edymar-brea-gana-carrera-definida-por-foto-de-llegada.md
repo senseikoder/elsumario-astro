@@ -24,7 +24,7 @@ Edymar Brea, fondista afincada en Galicia (España), hizo un tiempo de 35 minuto
 
 <figure>
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Edymar-Brea-2.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Edymar-Brea-2.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/12/Edymar-Brea-2.jpg)](https://elsumario.com/wp-content/uploads/2025/12/Edymar-Brea-2.jpg)
 
 <figcaption>
 

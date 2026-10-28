@@ -25,7 +25,7 @@ coverImage: "Rutaca-Airlines.jpg"
 
 En ese sentido, subrayó que es "un proyecto que representa un paso más en nuestro compromiso de unir a los venezolanos a través del deporte y la aviación".
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Rutacas-Airlines-Vinotinto-i-1024x827.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Rutacas-Airlines-Vinotinto-i.jpg)
+[![](http://elsumario.com/wp-content/uploads/2025/03/Rutacas-Airlines-Vinotinto-i-1024x827.jpg)](http://elsumario.com/wp-content/uploads/2025/03/Rutacas-Airlines-Vinotinto-i.jpg)
 
 "Este sueño se hizo realidad gracias al esfuerzo y dedicación de cada persona que formó parte de este increíble proyecto. Juntos, llevaremos a la Vinotinto a nuevas alturas, porque en Rutaca Airlines, volamos juntos por un sueño", sentenció.
 

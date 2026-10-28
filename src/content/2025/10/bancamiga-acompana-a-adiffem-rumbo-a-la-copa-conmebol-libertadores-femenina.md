@@ -38,7 +38,7 @@ El respaldo de Bancamiga contribuye a que las atletas tengan acceso a recursos e
 
 “Que Bancamiga haya estado con nosotros durante dos años es un apoyo invaluable, porque tenemos mucha escasez de recursos porque contamos con niñas que vienen de muy bajos estratos y que nos apoyen financieramente ha significado un empuje para lograr nuestros objetivos”, afirmó **María Gisela Núñez**, Gerente General de Adiffem.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Referencial-destacada-para-DLL-y-BFN-1024x531.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Referencial-destacada-para-DLL-y-BFN.jpg)
+[![](https://elsumario.com/wp-content/uploads/2025/10/Referencial-destacada-para-DLL-y-BFN-1024x531.jpg)](https://elsumario.com/wp-content/uploads/2025/10/Referencial-destacada-para-DLL-y-BFN.jpg)
 
 ## **En su camino a la Copa Libertadores, Bancamiga las acompaña**
 

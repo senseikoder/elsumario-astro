@@ -16,6 +16,22 @@ const month = String(date.getMonth() + 1).padStart(2, "0");
 const cdnImage = coverImage
   ? `${cdnBase}/${year}/${month}/${coverImage}`
   : null;
+
+const categorias = {
+  "audiovisual": "Audiovisual",
+  "bienestar-y-estetica": "Bienestar y Estética",
+  "buen-humor": "Buen Humor",
+  "comunidad": "Comunidad",
+  "curiosidades": "Curiosidades",
+  "deportes": "Deportes",
+  "destacadas": "Destacadas",
+  "dinero": "Dinero",
+  "letras-que-alegran": "Letras que alegran",
+  "lo-nuestro": "Lo Nuestro",
+  "placeres": "Placeres",
+  "innovacion": "Innovación",
+  "mundo-animal": "Mundo Animal"
+};
 ---
 
 <BaseLayout title={title} description={description}>
@@ -25,7 +41,7 @@ const cdnImage = coverImage
         categories && categories.length > 0 && (
           <nav class="post-categories">
             {categories.map((cat) => (
-              <a href={`/categoria/${cat}`}>{cat}</a>
+              <a href={`/categoria/${cat}`}>{categorias[cat] || cat}</a>
             ))}
           </nav>
         )

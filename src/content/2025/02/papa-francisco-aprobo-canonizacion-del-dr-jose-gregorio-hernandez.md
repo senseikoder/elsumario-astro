@@ -33,7 +33,7 @@ El **Dr. José Gregorio Hernández Cisneros**, conocido como el **"Médico de lo
 
 <figure>
 
-[![Fervor de los caraqueños](https://tu-r2-bucket.r2.cloudflarestorage.com/images/JOSE-GREGORIO-Nueva-Ruta-1.jpg)](http://elsumario.com/wp-content/uploads/2022/07/JOSE-GREGORIO-Nueva-Ruta-1.jpg)
+[![Fervor de los caraqueños](http://elsumario.com/wp-content/uploads/2022/07/JOSE-GREGORIO-Nueva-Ruta-1.jpg)](http://elsumario.com/wp-content/uploads/2022/07/JOSE-GREGORIO-Nueva-Ruta-1.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ Nació el 26 de octubre de 1864 en Isnotú, un pequeño poblado del estado Truji
 
 <figure>
 
-[![Isnotú](https://tu-r2-bucket.r2.cloudflarestorage.com/images/2NLr76ob-1.jpeg)](http://elsumario.com/wp-content/uploads/2023/09/2NLr76ob-1.jpeg)
+[![Isnotú](http://elsumario.com/wp-content/uploads/2023/09/2NLr76ob-1.jpeg)](http://elsumario.com/wp-content/uploads/2023/09/2NLr76ob-1.jpeg)
 
 <figcaption>
 

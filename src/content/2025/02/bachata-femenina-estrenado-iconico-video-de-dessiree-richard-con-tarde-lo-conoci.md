@@ -34,7 +34,7 @@ El **director dominicano**, **Christopher Ureña**, cuidó los detalles para que
 
 El gran **Teatro del Cibao**, ubicado en **Ciudad de Santiago** de la **República Dominicana**, sirvió de escenario para desarrollar la producción.
 
-[![](https://tu-r2-bucket.r2.cloudflarestorage.com/images/Dessiree-Trascamaras-Tardeloconoci-D.jpeg)](http://elsumario.com/wp-content/uploads/2025/02/Dessiree-Trascamaras-Tardeloconoci-D.jpeg)
+[![](http://elsumario.com/wp-content/uploads/2025/02/Dessiree-Trascamaras-Tardeloconoci-D.jpeg)](http://elsumario.com/wp-content/uploads/2025/02/Dessiree-Trascamaras-Tardeloconoci-D.jpeg)
 
 **_“Me llena de mucha alegría el saber que en esta tan importante locación, la cual nos enorgullece y admiramos, en que no suelen ser tan permisivos para realizar este tipo de trabajos, hemos grabado con todo éxito; ellos reconocieron el impacto que ha tenido este sencillo en República Dominicana, así como el cariño que he recibido del público y por ello aceptaron que pudiéramos realizar el video sin inconvenientes”_**, expresó la **cantante y también actriz**.
 
