@@ -1,4 +1,5 @@
 import { defineConfig } from 'tinacms';
+import { EnlaceFrontend } from "./components/EnlaceFrontend"; // 1. Importar el componente
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.GITHUB_BRANCH || 'master';
@@ -37,6 +38,14 @@ export default defineConfig({
           include: "**/*", // Permite a Tina buscar en subcarpetas (año/mes)
         },
         fields: [
+          {
+            type: "string",
+            name: "enlaceDirecto",
+            label: "Acceso Rápido",
+            ui: {
+              component: EnlaceFrontend,
+            },
+          },
           {
             type: "string",
             name: "title",
@@ -86,28 +95,13 @@ export default defineConfig({
             name: "coverImage",
             label: "Imagen de portada",
           },
-          {
-            type: "object",
-            name: "ctaPrimary",
-            label: "Primary button",
-            fields: [
-              { type: "string", name: "label", label: "Label" },
-              { type: "string", name: "href", label: "Link" },
-            ],
-          },
-          {
-            type: "object",
-            name: "ctaSecondary",
-            label: "Secondary button",
-            fields: [
-              { type: "string", name: "label", label: "Label" },
-              { type: "string", name: "href", label: "Link" },
-            ],
-          },
+          
         ],
         ui: {
-          // Opens the /tinacms-demo page for visual editing. Change or remove to fit your site.
-          // router: () => "/tinacms-demo",
+          // router: ({ document }) => {
+          //   // Retornamos la ruta final exacta que usa Astro
+          //   return `/${document._sys.filename}`;
+          // },
           filename: {
             slugify: (values) => {
               const date = new Date();
