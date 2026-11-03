@@ -21,9 +21,9 @@ export default defineConfig({
   //   allowedOrigins: ['https://your-codespace.github.dev'],
   // },
   media: {
-    tina: {
-      mediaRoot: "uploads",
-      publicFolder: "public",
+    loadCustomStore: async () => {
+      const pack = await import('./r2-media-store');
+      return pack.R2MediaStore;
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/r/content-modelling-collections/

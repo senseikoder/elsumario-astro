@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
     "start": "astro dev",
-    "build": "tinacms build && astro build",
+    "build": "tinacms build && astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "postbuild": "pagefind --site dist"
@@ -14,17 +14,18 @@
     "@astrojs/node": "^11.1.9",
     "@astrojs/react": "^7.1.2",
     "@astrojs/sitemap": "^3.7.4",
+    "@aws-sdk/client-s3": "^3.1161.0",
     "@tinacms/astro": "^0.8.0",
+    "@tinacms/auth": "^1.1.5",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "astro": "^7.4.0",
+    "next-tinacms-s3": "^24.0.5",
     "pagefind": "^1.0.0",
     "tinacms": "^3.15.0"
   },
   "devDependencies": {
     "@tinacms/cli": "^4.0.4",
-    "@types/node": "^26.6.5",
-    "react": "^19.3.1",
-    "react-dom": "^19.3.1"
+    "@types/node": "^26.6.5"
   }
 }
