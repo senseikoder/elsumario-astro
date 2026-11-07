@@ -32,6 +32,8 @@ const formatRelativeTime = (date: Date) => {
   return date.toLocaleDateString("es-ES");
 };
 
+import Search from "./Search.astro";
+
 import hyundaiAd from "../assets/Hyundai-El-accento-venezolano.webp";
 import venemergenciaAd from "../assets/Venemergencia-300X250.webp";
 import jagiAd from "../assets/Jagi-300X250.gif";
@@ -43,10 +45,11 @@ import vinotintoAd from "../assets/banner-PV-Para-ES-y-DLL.gif";
 <aside class="sidebar">
   <!-- Search Section -->
   <div class="search-box">
-    <form action="/buscar" method="GET" class="search-form">
+    <Search />
+    <!-- <form action="/buscar" method="GET" class="search-form">
       <input type="text" name="q" placeholder="Buscar ..." />
       <button type="submit">Buscar</button>
-    </form>
+    </form> -->
   </div>
 
   <!-- Banners Top -->

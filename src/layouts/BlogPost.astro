@@ -35,20 +35,25 @@ const categorias = {
 ---
 
 <BaseLayout title={title} description={description}>
+  <!-- 1. Envolvemos todo para capturar el contexto, pero filtraremos lo interno -->
   <div class="container post-wrapper" data-pagefind-body>
     <header class="post-header">
       {
         categories && categories.length > 0 && (
           <nav class="post-categories">
             {categories.map((cat) => (
-              <a href={`/categoria/${cat}`}>{categorias[cat] || cat}</a>
+              // Agregamos filtro para que Pagefind permita buscar por categoría
+              <a href={`/categoria/${cat}`} data-pagefind-filter="categoria">
+                {categorias[cat as keyof typeof categorias] || cat}
+              </a>
             ))}
           </nav>
         )
       }
       <h1>{title}</h1>
       <div class="post-meta">
-        <time datetime={date.toISOString()}>
+        <!-- 3. Permitimos que Pagefind ordene los resultados por fecha -->
+        <time datetime={date.toISOString()} data-pagefind-sort="date">
           {
             date.toLocaleDateString("es-ES", {
               year: "numeric",
@@ -63,8 +68,11 @@ const categorias = {
 
     <div class="post-main-layout">
       <article class="post-content">
-        {cdnImage && <img src={cdnImage} alt={title} class="featured-image" />}
-        <div class="share-buttons">
+        <!-- 4. Le decimos a Pagefind que esta es la imagen miniatura para los resultados -->
+        {cdnImage && <img src={cdnImage} alt={title} class="featured-image" data-pagefind-meta="image[src], image_alt[alt]" />}
+        
+        <!-- 5. IGNORAMOS los botones de compartir -->
+        <div class="share-buttons" data-pagefind-ignore>
           <span class="share-label">Compartir</span>
           <div class="social-icons">
             <a href="#" class="btn-fb">FB</a>
@@ -76,7 +84,8 @@ const categorias = {
 
         <slot />
 
-        <div class="share-buttons">
+        <!-- IGNORAMOS los botones inferiores -->
+        <div class="share-buttons" data-pagefind-ignore>
           <span class="share-label">Compartir</span>
           <div class="social-icons">
             <a href="#" class="btn-fb">FB</a>
@@ -87,7 +96,10 @@ const categorias = {
         </div>
       </article>
 
-      <Sidebar />
+      <!-- 6. CRÍTICO: Excluimos el Sidebar completo del índice de búsqueda -->
+      <div data-pagefind-ignore>
+        <Sidebar />
+      </div>
     </div>
   </div>
 </BaseLayout>

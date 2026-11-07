@@ -20,6 +20,7 @@
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "astro": "^7.4.0",
+    "astro-pagefind": "^2.0.1",
     "next-tinacms-s3": "^24.0.5",
     "pagefind": "^1.0.0",
     "tinacms": "^3.15.0"
