@@ -1,0 +1,134 @@
+---
+// src/components/SearchModal.astro
+---
+
+<!-- Botón para abrir el buscador -->
+<button id="open-search" class="search-trigger" aria-label="Abrir buscador">
+  🔍 Buscar
+</button>
+
+<!-- Modal Nativo -->
+<dialog id="search-modal" class="search-modal">
+  <div class="modal-content">
+    <button id="close-search" class="close-btn" aria-label="Cerrar buscador"
+      >✕</button
+    >
+
+    <!-- Contenedor donde Pagefind inyectará la UI -->
+    <div id="search-container"></div>
+  </div>
+</dialog>
+
+<style>
+  /* Reset y estilos del disparador */
+  .search-trigger {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+  }
+
+  /* Estilos del modal nativo */
+  .search-modal {
+    padding: 0;
+    border: none;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 650px;
+    background: #ffffff;
+    box-shadow:
+      0 20px 25px -5px rgba(0, 0, 0, 0.1),
+      0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  }
+
+  /* Fondo oscuro automático del <dialog> */
+  .search-modal::backdrop {
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(3px); /* Efecto cristal moderno */
+  }
+
+  .modal-content {
+    padding: 2.5rem 2rem 2rem;
+    position: relative;
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    font-size: 1.25rem;
+    cursor: pointer;
+    color: #6b7280;
+    transition: color 0.2s;
+  }
+
+  .close-btn:hover {
+    color: #111827;
+  }
+
+  /* Ajustes para Pagefind dentro del modal */
+  :global(.pagefind-ui__form::before) {
+    background-color: #3b82f6 !important; /* Ajusta al color primario de tu tema */
+  }
+</style>
+
+<!-- Assets de Pagefind -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script
+  is:inline
+  src="/pagefind/pagefind-ui.js"
+  onerror="console.warn('Pagefind no está disponible en modo desarrollo.');"
+></script>
+
+<script is:inline>
+  document.addEventListener("DOMContentLoaded", () => {
+    const modal = document.getElementById("search-modal");
+    const openBtn = document.getElementById("open-search");
+    const closeBtn = document.getElementById("close-search");
+    let pagefindInstantiated = false;
+
+    // Abrir Modal
+    openBtn.addEventListener("click", () => {
+      modal.showModal();
+
+      // Inicializar Pagefind solo la primera vez que se abre el modal (Lazy Load)
+      if (!pagefindInstantiated && typeof PagefindUI !== "undefined") {
+        new PagefindUI({
+          element: "#search-container",
+          showSubResults: true,
+          showImages: true,
+          resetStyles: false, // Mantén en false para usar los estilos por defecto o true si quieres rehacerlos
+        });
+        pagefindInstantiated = true;
+      }
+
+      // Auto-foco en el input de búsqueda tras un breve retraso para que el DOM se asiente
+      setTimeout(() => {
+        const input = modal.querySelector('input[type="text"]');
+        if (input) input.focus();
+      }, 50);
+    });
+
+    // Cerrar Modal con la X
+    closeBtn.addEventListener("click", () => {
+      modal.close();
+    });
+
+    // Cerrar Modal al hacer clic fuera del contenido (en el backdrop)
+    modal.addEventListener("click", (e) => {
+      const dialogDimensions = modal.getBoundingClientRect();
+      if (
+        e.clientX < dialogDimensions.left ||
+        e.clientX > dialogDimensions.right ||
+        e.clientY < dialogDimensions.top ||
+        e.clientY > dialogDimensions.bottom
+      ) {
+        modal.close();
+      }
+    });
+  });
+</script>
