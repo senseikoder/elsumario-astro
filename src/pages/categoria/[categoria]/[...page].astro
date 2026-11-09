@@ -1,24 +1,29 @@
 ---
-import BaseLayout from '../../../layouts/BaseLayout.astro';
-import Sidebar from '../../../components/Sidebar.astro';
-import { getCollection } from 'astro:content';
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Sidebar from "../../../components/Sidebar.astro";
+import { getCollection } from "astro:content";
 
 // export const prerender = false;
-
 export async function getStaticPaths({ paginate }) {
-  const posts = (await getCollection('blog')).sort(
-    (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-  );
-  
-  const categories = new Set<string>();
-  posts.forEach((post) => {
-    post.data.categories?.forEach((cat) => categories.add(cat));
-  });
+  const posts = await getCollection("blog");
 
-  return Array.from(categories).flatMap((category) => {
-    const filteredPosts = posts.filter((post) => post.data.categories?.includes(category));
+  // Ordenamiento
+  const sortedPosts = posts.sort(
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+  );
+
+  // Extracción optimizada de categorías únicas
+  const categories = [
+    ...new Set(sortedPosts.flatMap((post) => post.data.categories || [])),
+  ];
+
+  return categories.flatMap((category) => {
+    const filteredPosts = sortedPosts.filter((post) =>
+      post.data.categories?.includes(category),
+    );
+
     return paginate(filteredPosts, {
-      params: { categoria: category, page: undefined },
+      params: { categoria: category }, // <-- Debe coincidir con el nombre de la carpeta [categoria]
       props: { category },
       pageSize: 10,
     });
@@ -28,11 +33,11 @@ export async function getStaticPaths({ paginate }) {
 const { page, category } = Astro.props;
 const posts = page.data;
 
-const cdnBase = 'https://img.efrank.xyz';
+const cdnBase = "https://img.efrank.xyz";
 const getCdnUrl = (coverImage: string, date: Date) => {
   if (!coverImage) return null;
   const year = date.getFullYear();
-  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const month = String(date.getMonth() + 1).padStart(2, "0");
   return `${cdnBase}/${year}/${month}/${coverImage}`;
 };
 ---
@@ -45,39 +50,70 @@ const getCdnUrl = (coverImage: string, date: Date) => {
 
     <div class="content-layout">
       <main class="main-content">
-        {posts.map((post) => (
-          <article class="post-card">
-            <a href={`/${post.id.split('/').pop()}`} class="post-link">
-              <div class="post-image-wrapper">
-                <time class="post-date" datetime={post.data.date.toISOString()}>
-                  {post.data.date.toLocaleDateString('es-ES', { day: 'numeric', month: 'long' })}
-                </time>
-                <div class="post-image">
-                  {post.data.coverImage && (
-                    <img src={getCdnUrl(post.data.coverImage, post.data.date)} alt={post.data.title} />
-                  )}
+        {
+          posts.map((post) => (
+            <article class="post-card">
+              <a href={`/${post.id.split("/").pop()}`} class="post-link">
+                <div class="post-image-wrapper">
+                  <time
+                    class="post-date"
+                    datetime={post.data.date.toISOString()}
+                  >
+                    {post.data.date.toLocaleDateString("es-ES", {
+                      day: "numeric",
+                      month: "long",
+                    })}
+                  </time>
+                  <div class="post-image">
+                    {post.data.coverImage && (
+                      <img
+                        src={getCdnUrl(post.data.coverImage, post.data.date)}
+                        alt={post.data.title}
+                      />
+                    )}
+                  </div>
                 </div>
-              </div>
-              <div class="post-content">
-                <h2>{post.data.title}</h2>
-                {post.data.description && <p class="excerpt">{post.data.description}</p>}
-                {post.data.excerpt && <p class="excerpt">{post.data.excerpt}</p>}
-                <span class="read-more">Leer más &raquo;</span>
-              </div>
-            </a>
-          </article>
-        ))}
+                <div class="post-content">
+                  <h2>{post.data.title}</h2>
+                  {post.data.description && (
+                    <p class="excerpt">{post.data.description}</p>
+                  )}
+                  {post.data.excerpt && (
+                    <p class="excerpt">{post.data.excerpt}</p>
+                  )}
+                  <span class="read-more">Leer más &raquo;</span>
+                </div>
+              </a>
+            </article>
+          ))
+        }
 
-        {posts.length === 0 && (
-          <div class="no-posts">
-            <p>No hay publicaciones en esta categoría.</p>
-          </div>
-        )}
+        {
+          posts.length === 0 && (
+            <div class="no-posts">
+              <p>No hay publicaciones en esta categoría.</p>
+            </div>
+          )
+        }
 
         <div class="pagination">
-          {page.url.prev ? <a href={page.url.prev}>&laquo; Anterior</a> : <div></div>}
-          <span class="page-info">Página {page.currentPage} de {page.lastPage}</span>
-          {page.url.next ? <a href={page.url.next}>Siguiente &raquo;</a> : <div></div>}
+          {
+            page.url.prev ? (
+              <a href={page.url.prev}>&laquo; Anterior</a>
+            ) : (
+              <div />
+            )
+          }
+          <span class="page-info"
+            >Página {page.currentPage} de {page.lastPage}</span
+          >
+          {
+            page.url.next ? (
+              <a href={page.url.next}>Siguiente &raquo;</a>
+            ) : (
+              <div />
+            )
+          }
         </div>
       </main>
 

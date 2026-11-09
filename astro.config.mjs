@@ -12,12 +12,14 @@ export default defineConfig({
   integrations: [sitemap(), tina(), react(), pagefind()],
   site: 'https://elsumario.com',
   build: {
-    format: 'file'
+    format: 'directory'
   },
   image: {
     domains: ['cdn.elsumario.com']
   },
   vite: {
     plugins: [tinaAdminDevRedirect()]
-  }
+  },
+  trailingSlash: 'always',
+
 });
