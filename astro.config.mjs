@@ -10,7 +10,7 @@ export default defineConfig({
   output: 'static',
   adapter: node({ mode: 'standalone' }),
   integrations: [sitemap(), tina(), react(), pagefind()],
-  site: 'https://elsumario.com',
+  site: 'https://elsumario-astro.onrender.com/',
   build: {
     format: 'directory'
   },
