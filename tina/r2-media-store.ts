@@ -6,20 +6,23 @@ import type {
   MediaUploadOptions,
 } from "tinacms";
 
+// Reemplaza esto con la URL que te dio `npx wrangler deploy`
+const WORKER_URL = "https://tina-r2-worker.senseikoder.workers.dev/";
+
 export class R2MediaStore implements MediaStore {
   accept = "image/*,video/*,application/pdf";
 
   private getAuthHeaders(): HeadersInit {
-    // Obtiene el token de sesión activo de TinaCloud en el navegador
     const rawToken = localStorage.getItem("tinacms-auth");
     if (rawToken) {
       try {
         const parsed = JSON.parse(rawToken);
-        if (parsed?.id_token) {
-          return { Authorization: `Bearer ${parsed.id_token}` };
+        const token = parsed?.id_token || parsed?.access_token;
+        if (token) {
+          return { Authorization: `Bearer ${token}` };
         }
       } catch {
-        // Ignorar si no es JSON válido
+        // Ignorar
       }
     }
     return {};
@@ -33,7 +36,7 @@ export class R2MediaStore implements MediaStore {
       formData.append("file", file);
       formData.append("directory", directory || "");
 
-      const res = await fetch("/api/r2/media", {
+      const res = await fetch(WORKER_URL, {
         method: "POST",
         headers: this.getAuthHeaders(),
         body: formData,
@@ -56,7 +59,7 @@ export class R2MediaStore implements MediaStore {
     if (options?.limit) params.set("limit", String(options.limit));
     if (options?.offset) params.set("offset", String(options.offset));
 
-    const res = await fetch(`/api/r2/media?${params.toString()}`, {
+    const res = await fetch(`${WORKER_URL}?${params.toString()}`, {
       headers: this.getAuthHeaders(),
     });
 
@@ -69,7 +72,7 @@ export class R2MediaStore implements MediaStore {
 
   async delete(media: Media): Promise<void> {
     const params = new URLSearchParams({ key: media.id });
-    const res = await fetch(`/api/r2/media?${params.toString()}`, {
+    const res = await fetch(`${WORKER_URL}?${params.toString()}`, {
       method: "DELETE",
       headers: this.getAuthHeaders(),
     });
